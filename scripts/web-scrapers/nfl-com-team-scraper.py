@@ -39,6 +39,18 @@ def fetch_with_retry(url, retries=3):
         time.sleep(3)  # Wait before retrying
     return None
 
+# Function to clean up team names and data
+def clean_data(df):
+    # Remove quotes from team names
+    df['Team'] = df['Team'].replace('"', '', regex=True).str.strip()
+
+    # Remove "T" from certain numeric columns
+    for col in df.columns:
+        if "Lng" in col:  # Example for columns with "Lng"
+            df[col] = df[col].str.replace('T', '', regex=False).apply(pd.to_numeric, errors='coerce')
+    
+    return df
+
 # Function to fetch and parse data
 def fetch_and_parse_data(url, stat_type, category):
     print(f"Fetching data from {url} for {category} {stat_type}...")
@@ -62,6 +74,9 @@ def fetch_and_parse_data(url, stat_type, category):
             # Ensure the team name column is named 'Team'
             df.rename(columns={df.columns[0]: 'Team'}, inplace=True)
             
+            # Clean the data
+            df = clean_data(df)
+
             return df
         else:
             print(f"No table found for {category} {stat_type}!")
@@ -147,4 +162,6 @@ if defense_dataframes:
     # Save to secondary location
     defense_merged.to_csv(secondary_defense_file, index=False)
     print(f"Defense data saved to {secondary_defense_file}")
+
+
 
