@@ -56,10 +56,25 @@ for stat_type, url in player_stats_urls.items():
         df['report_datetime'] = current_datetime
         df['report_date'] = current_date
         
-        # Save to CSV
-        output_folder = "C:/Users/liles/OneDrive/9. sports-stats/nfl.com stats/"
+        # Define output folders
+        primary_output_folder = "C:/Users/liles/OneDrive/Documents/GitHub/nfl-analysis/data/nfl-stats/"
+        secondary_output_folder = "C:/Users/liles/OneDrive/9. sports-stats/nfl.com stats/"
+
+        # Ensure both directories exist
+        os.makedirs(primary_output_folder, exist_ok=True)
+        os.makedirs(secondary_output_folder, exist_ok=True)
+        
+        # File name
         file_name = f"nfl-player-stats-{stat_type}-2024.csv"
-        file_path = os.path.join(output_folder, file_name)
-        df.to_csv(file_path, index=False)
-        print(f"{stat_type.capitalize()} stats saved to {file_path}")
+
+        # Save to primary location
+        primary_file_path = os.path.join(primary_output_folder, file_name)
+        df.to_csv(primary_file_path, index=False)
+        print(f"{stat_type.capitalize()} stats saved to {primary_file_path}")
+
+        # Save to secondary location
+        secondary_file_path = os.path.join(secondary_output_folder, file_name)
+        df.to_csv(secondary_file_path, index=False)
+        print(f"{stat_type.capitalize()} stats saved to {secondary_file_path}")
+
 

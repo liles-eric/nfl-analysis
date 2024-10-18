@@ -111,17 +111,40 @@ if defense_dataframes:
     defense_merged['report_datetime'] = current_datetime
     defense_merged['report_date'] = current_date
 
-# Save merged data to CSV
-output_folder = "C:/Users/liles/OneDrive/9. sports-stats/nfl.com stats/"
-if not os.path.exists(output_folder):
-    os.makedirs(output_folder)
+# Define output folders
+primary_output_folder = "C:/Users/liles/OneDrive/Documents/GitHub/nfl-analysis/data/nfl-stats/"
+secondary_output_folder = "C:/Users/liles/OneDrive/9. sports-stats/nfl.com stats/"
 
+# Ensure both directories exist
+os.makedirs(primary_output_folder, exist_ok=True)
+os.makedirs(secondary_output_folder, exist_ok=True)
+
+# Save merged data to CSV in both locations
 if offense_dataframes:
-    offense_file = os.path.join(output_folder, "nfl-team-stats-off-2024.csv")
-    offense_merged.to_csv(offense_file, index=False)
-    print(f"Offense data saved to {offense_file}")
+    offense_file = "nfl-team-stats-off-2024.csv"
+    
+    primary_offense_file = os.path.join(primary_output_folder, offense_file)
+    secondary_offense_file = os.path.join(secondary_output_folder, offense_file)
+    
+    # Save to primary location
+    offense_merged.to_csv(primary_offense_file, index=False)
+    print(f"Offense data saved to {primary_offense_file}")
+    
+    # Save to secondary location
+    offense_merged.to_csv(secondary_offense_file, index=False)
+    print(f"Offense data saved to {secondary_offense_file}")
 
 if defense_dataframes:
-    defense_file = os.path.join(output_folder, "nfl-team-stats-def-2024.csv")
-    defense_merged.to_csv(defense_file, index=False)
-    print(f"Defense data saved to {defense_file}")
+    defense_file = "nfl-team-stats-def-2024.csv"
+    
+    primary_defense_file = os.path.join(primary_output_folder, defense_file)
+    secondary_defense_file = os.path.join(secondary_output_folder, defense_file)
+    
+    # Save to primary location
+    defense_merged.to_csv(primary_defense_file, index=False)
+    print(f"Defense data saved to {primary_defense_file}")
+    
+    # Save to secondary location
+    defense_merged.to_csv(secondary_defense_file, index=False)
+    print(f"Defense data saved to {secondary_defense_file}")
+
