@@ -1,0 +1,229 @@
+{
+	"name": "nfl_team_stats_off",
+	"properties": {
+		"linkedServiceName": {
+			"referenceName": "AzureBlobStorage1",
+			"type": "LinkedServiceReference"
+		},
+		"annotations": [],
+		"type": "DelimitedText",
+		"typeProperties": {
+			"location": {
+				"type": "AzureBlobStorageLocation",
+				"fileName": "nfl-team-stats-off-2024.csv",
+				"container": "nfl-team-stats"
+			},
+			"columnDelimiter": ",",
+			"escapeChar": "\\",
+			"firstRowAsHeader": true,
+			"quoteChar": "\""
+		},
+		"schema": [
+			{
+				"name": "Team",
+				"type": "String"
+			},
+			{
+				"name": "Att-off-passing",
+				"type": "String"
+			},
+			{
+				"name": "Cmp-off-passing",
+				"type": "String"
+			},
+			{
+				"name": "Cmp %-off-passing",
+				"type": "String"
+			},
+			{
+				"name": "Yds/Att-off-passing",
+				"type": "String"
+			},
+			{
+				"name": "Pass Yds-off-passing",
+				"type": "String"
+			},
+			{
+				"name": "TD-off-passing",
+				"type": "String"
+			},
+			{
+				"name": "INT-off-passing",
+				"type": "String"
+			},
+			{
+				"name": "Rate-off-passing",
+				"type": "String"
+			},
+			{
+				"name": "1st-off-passing",
+				"type": "String"
+			},
+			{
+				"name": "1st%-off-passing",
+				"type": "String"
+			},
+			{
+				"name": "20+-off-passing",
+				"type": "String"
+			},
+			{
+				"name": "40+-off-passing",
+				"type": "String"
+			},
+			{
+				"name": "Lng-off-passing",
+				"type": "String"
+			},
+			{
+				"name": "Sck-off-passing",
+				"type": "String"
+			},
+			{
+				"name": "SckY-off-passing",
+				"type": "String"
+			},
+			{
+				"name": "Att-off-rushing",
+				"type": "String"
+			},
+			{
+				"name": "Rush Yds-off-rushing",
+				"type": "String"
+			},
+			{
+				"name": "YPC-off-rushing",
+				"type": "String"
+			},
+			{
+				"name": "TD-off-rushing",
+				"type": "String"
+			},
+			{
+				"name": "20+-off-rushing",
+				"type": "String"
+			},
+			{
+				"name": "40+-off-rushing",
+				"type": "String"
+			},
+			{
+				"name": "Lng-off-rushing",
+				"type": "String"
+			},
+			{
+				"name": "Rush 1st-off-rushing",
+				"type": "String"
+			},
+			{
+				"name": "Rush 1st%-off-rushing",
+				"type": "String"
+			},
+			{
+				"name": "Rush FUM-off-rushing",
+				"type": "String"
+			},
+			{
+				"name": "Rec-off-receiving",
+				"type": "String"
+			},
+			{
+				"name": "Yds-off-receiving",
+				"type": "String"
+			},
+			{
+				"name": "Yds/Rec-off-receiving",
+				"type": "String"
+			},
+			{
+				"name": "TD-off-receiving",
+				"type": "String"
+			},
+			{
+				"name": "20+-off-receiving",
+				"type": "String"
+			},
+			{
+				"name": "40+-off-receiving",
+				"type": "String"
+			},
+			{
+				"name": "Lng-off-receiving",
+				"type": "String"
+			},
+			{
+				"name": "Rec 1st-off-receiving",
+				"type": "String"
+			},
+			{
+				"name": "Rec 1st%-off-receiving",
+				"type": "String"
+			},
+			{
+				"name": "Rec FUM-off-receiving",
+				"type": "String"
+			},
+			{
+				"name": "Rsh TD-off-scoring",
+				"type": "String"
+			},
+			{
+				"name": "Rec TD-off-scoring",
+				"type": "String"
+			},
+			{
+				"name": "Tot TD-off-scoring",
+				"type": "String"
+			},
+			{
+				"name": "2-PT-off-scoring",
+				"type": "String"
+			},
+			{
+				"name": "3rd Att-off-downs",
+				"type": "String"
+			},
+			{
+				"name": "3rd Md-off-downs",
+				"type": "String"
+			},
+			{
+				"name": "4th Att-off-downs",
+				"type": "String"
+			},
+			{
+				"name": "4th Md-off-downs",
+				"type": "String"
+			},
+			{
+				"name": "Rec 1st-off-downs",
+				"type": "String"
+			},
+			{
+				"name": "Rec 1st%-off-downs",
+				"type": "String"
+			},
+			{
+				"name": "Rush 1st-off-downs",
+				"type": "String"
+			},
+			{
+				"name": "Rush 1st%-off-downs",
+				"type": "String"
+			},
+			{
+				"name": "Scrm Plys-off-downs",
+				"type": "String"
+			},
+			{
+				"name": "report_datetime",
+				"type": "String"
+			},
+			{
+				"name": "report_date",
+				"type": "String"
+			}
+		]
+	},
+	"type": "Microsoft.DataFactory/factories/datasets"
+}

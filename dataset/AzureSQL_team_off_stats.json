@@ -1,0 +1,268 @@
+{
+	"name": "AzureSQL_team_off_stats",
+	"properties": {
+		"linkedServiceName": {
+			"referenceName": "nfl_csv_to_sql_linked_service",
+			"type": "LinkedServiceReference"
+		},
+		"annotations": [],
+		"type": "AzureSqlTable",
+		"schema": [
+			{
+				"name": "Team",
+				"type": "nvarchar"
+			},
+			{
+				"name": "Att-off-passing",
+				"type": "tinyint",
+				"precision": 3
+			},
+			{
+				"name": "Cmp-off-passing",
+				"type": "tinyint",
+				"precision": 3
+			},
+			{
+				"name": "Cmp%-off-passing",
+				"type": "float",
+				"precision": 15
+			},
+			{
+				"name": "Yds/Att-off-passing",
+				"type": "float",
+				"precision": 15
+			},
+			{
+				"name": "Pass Yds-off-passing",
+				"type": "smallint",
+				"precision": 5
+			},
+			{
+				"name": "TD-off-passing",
+				"type": "tinyint",
+				"precision": 3
+			},
+			{
+				"name": "INT-off-passing",
+				"type": "tinyint",
+				"precision": 3
+			},
+			{
+				"name": "Rate-off-passing",
+				"type": "float",
+				"precision": 15
+			},
+			{
+				"name": "1st-off-passing",
+				"type": "tinyint",
+				"precision": 3
+			},
+			{
+				"name": "1st%-off-passing",
+				"type": "float",
+				"precision": 15
+			},
+			{
+				"name": "20+-off-passing",
+				"type": "tinyint",
+				"precision": 3
+			},
+			{
+				"name": "40+-off-passing",
+				"type": "tinyint",
+				"precision": 3
+			},
+			{
+				"name": "Lng-off-passing",
+				"type": "nvarchar"
+			},
+			{
+				"name": "Sck-off-passing",
+				"type": "tinyint",
+				"precision": 3
+			},
+			{
+				"name": "SckY-off-passing",
+				"type": "tinyint",
+				"precision": 3
+			},
+			{
+				"name": "Att-off-rushing",
+				"type": "tinyint",
+				"precision": 3
+			},
+			{
+				"name": "Rush Yds-off-rushing",
+				"type": "smallint",
+				"precision": 5
+			},
+			{
+				"name": "YPC-off-rushing",
+				"type": "float",
+				"precision": 15
+			},
+			{
+				"name": "TD-off-rushing",
+				"type": "tinyint",
+				"precision": 3
+			},
+			{
+				"name": "20+-off-rushing",
+				"type": "tinyint",
+				"precision": 3
+			},
+			{
+				"name": "40+-off-rushing",
+				"type": "tinyint",
+				"precision": 3
+			},
+			{
+				"name": "Lng-off-rushing",
+				"type": "nvarchar"
+			},
+			{
+				"name": "Rush 1st-off-rushing",
+				"type": "tinyint",
+				"precision": 3
+			},
+			{
+				"name": "Rush 1st%-off-rushing",
+				"type": "float",
+				"precision": 15
+			},
+			{
+				"name": "Rush FUM-off-rushing",
+				"type": "tinyint",
+				"precision": 3
+			},
+			{
+				"name": "Rec-off-receiving",
+				"type": "tinyint",
+				"precision": 3
+			},
+			{
+				"name": "Yds-off-receiving",
+				"type": "smallint",
+				"precision": 5
+			},
+			{
+				"name": "Yds/Rec-off-receiving",
+				"type": "float",
+				"precision": 15
+			},
+			{
+				"name": "TD-off-receiving",
+				"type": "tinyint",
+				"precision": 3
+			},
+			{
+				"name": "20+-off-receiving",
+				"type": "tinyint",
+				"precision": 3
+			},
+			{
+				"name": "40+-off-receiving",
+				"type": "tinyint",
+				"precision": 3
+			},
+			{
+				"name": "Lng-off-receiving",
+				"type": "nvarchar"
+			},
+			{
+				"name": "Rec 1st-off-receiving",
+				"type": "tinyint",
+				"precision": 3
+			},
+			{
+				"name": "Rec 1st%-off-receiving",
+				"type": "float",
+				"precision": 15
+			},
+			{
+				"name": "Rec FUM-off-receiving",
+				"type": "tinyint",
+				"precision": 3
+			},
+			{
+				"name": "Rsh TD-off-scoring",
+				"type": "tinyint",
+				"precision": 3
+			},
+			{
+				"name": "Rec TD-off-scoring",
+				"type": "tinyint",
+				"precision": 3
+			},
+			{
+				"name": "Tot TD-off-scoring",
+				"type": "tinyint",
+				"precision": 3
+			},
+			{
+				"name": "2-PT-off-scoring",
+				"type": "tinyint",
+				"precision": 3
+			},
+			{
+				"name": "3rd Att-off-downs",
+				"type": "tinyint",
+				"precision": 3
+			},
+			{
+				"name": "3rd Md-off-downs",
+				"type": "tinyint",
+				"precision": 3
+			},
+			{
+				"name": "4th Att-off-downs",
+				"type": "tinyint",
+				"precision": 3
+			},
+			{
+				"name": "4th Md-off-downs",
+				"type": "tinyint",
+				"precision": 3
+			},
+			{
+				"name": "Rec 1st-off-downs",
+				"type": "tinyint",
+				"precision": 3
+			},
+			{
+				"name": "Rec 1st%-off-downs",
+				"type": "float",
+				"precision": 15
+			},
+			{
+				"name": "Rush 1st-off-downs",
+				"type": "tinyint",
+				"precision": 3
+			},
+			{
+				"name": "Rush 1st%-off-downs",
+				"type": "float",
+				"precision": 15
+			},
+			{
+				"name": "Scrm Plys-off-downs",
+				"type": "smallint",
+				"precision": 5
+			},
+			{
+				"name": "report_datetime",
+				"type": "datetime2",
+				"scale": 7
+			},
+			{
+				"name": "report_date",
+				"type": "date"
+			}
+		],
+		"typeProperties": {
+			"schema": "dbo",
+			"table": "nfl-team-stats-off"
+		}
+	},
+	"type": "Microsoft.DataFactory/factories/datasets"
+}
