@@ -36,18 +36,19 @@ def fetch_with_retry(url, retries=3):
                 print(f"Attempt {i+1}: Failed with status code {response.status_code}. Retrying...")
         except requests.exceptions.RequestException as e:
             print(f"Attempt {i+1}: Error fetching data - {e}. Retrying...")
-        time.sleep(3)  # Wait before retrying
+        time.sleep(3)
     return None
 
 # Function to clean up team names and data
 def clean_data(df):
-    # Remove quotes from team names
-    df['Team'] = df['Team'].replace('"', '', regex=True).str.strip()
+    # Clean team names: remove quotes, newlines, excessive spaces
+    df['Team'] = df['Team'].replace('"', '', regex=True).replace(r'\s+', ' ', regex=True).str.strip()
 
-    # Remove "T" from certain numeric columns
+    # Clean numeric columns: remove non-numeric characters, handle NaNs
     for col in df.columns:
-        if "Lng" in col:  # Example for columns with "Lng"
-            df[col] = df[col].str.replace('T', '', regex=False).apply(pd.to_numeric, errors='coerce')
+        if col != 'Team':
+            df[col] = df[col].str.extract('(\d+)', expand=False).fillna(0)
+            df[col] = pd.to_numeric(df[col], errors='coerce').fillna(0).astype(int)
     
     return df
 
@@ -56,73 +57,48 @@ def fetch_and_parse_data(url, stat_type, category):
     print(f"Fetching data from {url} for {category} {stat_type}...")
     response = fetch_with_retry(url)
     
-    if response is not None:
+    if response:
         soup = BeautifulSoup(response.text, 'html.parser')
         table = soup.find('table')
         if table:
-            # Extract headers and rows
             headers = [header.text.strip() + f"-{category}-{stat_type}" for header in table.find_all('th')]
-            rows = []
-            for row in table.find_all('tr')[1:]:  # Skip header row
-                cells = row.find_all('td')
-                data = [cell.text.strip() for cell in cells]
-                rows.append(data)
+            rows = [[cell.text.strip() for cell in row.find_all('td')] for row in table.find_all('tr')[1:]]
             
-            # Create DataFrame
             df = pd.DataFrame(rows, columns=headers)
-            
-            # Ensure the team name column is named 'Team'
-            df.rename(columns={df.columns[0]: 'Team'}, inplace=True)
-            
-            # Clean the data
-            df = clean_data(df)
-
-            return df
+            df.rename(columns={df.columns[0]: 'Team'}, inplace=True)  # Ensure team column is named 'Team'
+            return clean_data(df)
         else:
-            print(f"No table found for {category} {stat_type}!")
-            return None
+            print(f"No table found for {category} {stat_type}.")
     else:
-        print(f"Failed to fetch page for {category} {stat_type}. Giving up.")
-        return None
+        print(f"Failed to fetch page for {category} {stat_type}.")
+    return None
 
 # Function to merge multiple dataframes by team name
 def merge_dataframes_by_team(dataframes):
     if not dataframes:
         return None
-    merged_df = dataframes.pop(0)  # Start with the first dataframe
+    merged_df = dataframes.pop(0)
     for df in dataframes:
-        merged_df = pd.merge(merged_df, df, on='Team', how='outer')  # Merge on the 'Team' column
+        merged_df = pd.merge(merged_df, df, on='Team', how='outer')
     return merged_df
 
 # Fetch and merge all offense data
-offense_dataframes = []
-for stat_type, url in offense_urls.items():
-    df = fetch_and_parse_data(url, stat_type, "off")
-    if df is not None:
-        offense_dataframes.append(df)
-
-if offense_dataframes:
-    offense_merged = merge_dataframes_by_team(offense_dataframes)
+offense_dataframes = [fetch_and_parse_data(url, stat_type, "off") for stat_type, url in offense_urls.items() if fetch_and_parse_data(url, stat_type, "off") is not None]
+offense_merged = merge_dataframes_by_team(offense_dataframes) if offense_dataframes else None
 
 # Fetch and merge all defense data
-defense_dataframes = []
-for stat_type, url in defense_urls.items():
-    df = fetch_and_parse_data(url, stat_type, "def")
-    if df is not None:
-        defense_dataframes.append(df)
-
-if defense_dataframes:
-    defense_merged = merge_dataframes_by_team(defense_dataframes)
+defense_dataframes = [fetch_and_parse_data(url, stat_type, "def") for stat_type, url in defense_urls.items() if fetch_and_parse_data(url, stat_type, "def") is not None]
+defense_merged = merge_dataframes_by_team(defense_dataframes) if defense_dataframes else None
 
 # Add report date and time to both offense and defense data
 current_datetime = datetime.now().strftime("%Y-%m-%d %H:%M:%S")
 current_date = datetime.now().strftime("%Y-%m-%d")
 
-if offense_dataframes:
+if offense_merged is not None:
     offense_merged['report_datetime'] = current_datetime
     offense_merged['report_date'] = current_date
 
-if defense_dataframes:
+if defense_merged is not None:
     defense_merged['report_datetime'] = current_datetime
     defense_merged['report_date'] = current_date
 
@@ -130,38 +106,20 @@ if defense_dataframes:
 primary_output_folder = "C:/Users/liles/OneDrive/Documents/GitHub/nfl-analysis/data/nfl-stats/"
 secondary_output_folder = "C:/Users/liles/OneDrive/9. sports-stats/nfl.com stats/"
 
-# Ensure both directories exist
 os.makedirs(primary_output_folder, exist_ok=True)
 os.makedirs(secondary_output_folder, exist_ok=True)
 
 # Save merged data to CSV in both locations
-if offense_dataframes:
+if offense_merged is not None:
     offense_file = "nfl-team-stats-off-2024.csv"
-    
-    primary_offense_file = os.path.join(primary_output_folder, offense_file)
-    secondary_offense_file = os.path.join(secondary_output_folder, offense_file)
-    
-    # Save to primary location
-    offense_merged.to_csv(primary_offense_file, index=False)
-    print(f"Offense data saved to {primary_offense_file}")
-    
-    # Save to secondary location
-    offense_merged.to_csv(secondary_offense_file, index=False)
-    print(f"Offense data saved to {secondary_offense_file}")
+    offense_merged.to_csv(os.path.join(primary_output_folder, offense_file), index=False)
+    offense_merged.to_csv(os.path.join(secondary_output_folder, offense_file), index=False)
+    print(f"Offense data saved to {primary_output_folder} and {secondary_output_folder}")
 
-if defense_dataframes:
+if defense_merged is not None:
     defense_file = "nfl-team-stats-def-2024.csv"
-    
-    primary_defense_file = os.path.join(primary_output_folder, defense_file)
-    secondary_defense_file = os.path.join(secondary_output_folder, defense_file)
-    
-    # Save to primary location
-    defense_merged.to_csv(primary_defense_file, index=False)
-    print(f"Defense data saved to {primary_defense_file}")
-    
-    # Save to secondary location
-    defense_merged.to_csv(secondary_defense_file, index=False)
-    print(f"Defense data saved to {secondary_defense_file}")
-
+    defense_merged.to_csv(os.path.join(primary_output_folder, defense_file), index=False)
+    defense_merged.to_csv(os.path.join(secondary_output_folder, defense_file), index=False)
+    print(f"Defense data saved to {primary_output_folder} and {secondary_output_folder}")
 
 
