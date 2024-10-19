@@ -2,7 +2,7 @@
 	"name": "AzureSQL_team_def_stats",
 	"properties": {
 		"linkedServiceName": {
-			"referenceName": "sports_stats_db",
+			"referenceName": "LinkedSQLSportsStatsv2",
 			"type": "LinkedServiceReference"
 		},
 		"annotations": [],
@@ -318,7 +318,7 @@
 		],
 		"typeProperties": {
 			"schema": "dbo",
-			"table": "nfl-team-stats-off"
+			"table": "nfl-team-stats-def"
 		}
 	},
 	"type": "Microsoft.DataFactory/factories/datasets"
