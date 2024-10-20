@@ -14,6 +14,9 @@
 		"LinkedSQLSportsStatsv2_password": {
 			"value": ""
 		},
+		"SportStatsSQLServerLinkv3_password": {
+			"value": ""
+		},
 		"SportsStatsSQLDB_password": {
 			"value": ""
 		},
@@ -24,6 +27,15 @@
 			"value": "sports_stats_db"
 		},
 		"LinkedSQLSportsStatsv2_properties_typeProperties_userName": {
+			"value": "eric"
+		},
+		"SportStatsSQLServerLinkv3_properties_typeProperties_server": {
+			"value": "sports-stats-db-server.database.windows.net"
+		},
+		"SportStatsSQLServerLinkv3_properties_typeProperties_database": {
+			"value": "sports_stats_db"
+		},
+		"SportStatsSQLServerLinkv3_properties_typeProperties_userName": {
 			"value": "eric"
 		},
 		"SportsStatsSQLDB_properties_typeProperties_server": {

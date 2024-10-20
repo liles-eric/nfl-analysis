@@ -19,6 +19,10 @@
 			"type": "secureString",
 			"metadata": "Secure string for 'password' of 'LinkedSQLSportsStatsv2'"
 		},
+		"SportStatsSQLServerLinkv3_password": {
+			"type": "secureString",
+			"metadata": "Secure string for 'password' of 'SportStatsSQLServerLinkv3'"
+		},
 		"SportsStatsSQLDB_password": {
 			"type": "secureString",
 			"metadata": "Secure string for 'password' of 'SportsStatsSQLDB'"
@@ -32,6 +36,18 @@
 			"defaultValue": "sports_stats_db"
 		},
 		"LinkedSQLSportsStatsv2_properties_typeProperties_userName": {
+			"type": "string",
+			"defaultValue": "eric"
+		},
+		"SportStatsSQLServerLinkv3_properties_typeProperties_server": {
+			"type": "string",
+			"defaultValue": "sports-stats-db-server.database.windows.net"
+		},
+		"SportStatsSQLServerLinkv3_properties_typeProperties_database": {
+			"type": "string",
+			"defaultValue": "sports_stats_db"
+		},
+		"SportStatsSQLServerLinkv3_properties_typeProperties_userName": {
 			"type": "string",
 			"defaultValue": "eric"
 		},
@@ -101,6 +117,29 @@
 			"dependsOn": []
 		},
 		{
+			"name": "[concat(parameters('factoryName'), '/SportStatsSQLServerLinkv3')]",
+			"type": "Microsoft.DataFactory/factories/linkedServices",
+			"apiVersion": "2018-06-01",
+			"properties": {
+				"description": "10/20/2024 current link to sql sports stats db",
+				"annotations": [],
+				"type": "AzureSqlDatabase",
+				"typeProperties": {
+					"server": "[parameters('SportStatsSQLServerLinkv3_properties_typeProperties_server')]",
+					"database": "[parameters('SportStatsSQLServerLinkv3_properties_typeProperties_database')]",
+					"encrypt": "optional",
+					"trustServerCertificate": false,
+					"authenticationType": "SQL",
+					"userName": "[parameters('SportStatsSQLServerLinkv3_properties_typeProperties_userName')]",
+					"password": {
+						"type": "SecureString",
+						"value": "[parameters('SportStatsSQLServerLinkv3_password')]"
+					}
+				}
+			},
+			"dependsOn": []
+		},
+		{
 			"name": "[concat(parameters('factoryName'), '/SportsStatsSQLDB')]",
 			"type": "Microsoft.DataFactory/factories/linkedServices",
 			"apiVersion": "2018-06-01",
@@ -123,12 +162,12 @@
 			"dependsOn": []
 		},
 		{
-			"name": "[concat(parameters('factoryName'), '/AzureSQL_team_def_stats')]",
+			"name": "[concat(parameters('factoryName'), '/NFL_stats_team_def_sql')]",
 			"type": "Microsoft.DataFactory/factories/datasets",
 			"apiVersion": "2018-06-01",
 			"properties": {
 				"linkedServiceName": {
-					"referenceName": "LinkedSQLSportsStatsv2",
+					"referenceName": "SportStatsSQLServerLinkv3",
 					"type": "LinkedServiceReference"
 				},
 				"annotations": [],
@@ -150,13 +189,13 @@
 					},
 					{
 						"name": "Cmp_def_passing1",
-						"type": "float",
-						"precision": 15
+						"type": "tinyint",
+						"precision": 3
 					},
 					{
 						"name": "Yds_Att_def_passing",
-						"type": "float",
-						"precision": 15
+						"type": "tinyint",
+						"precision": 3
 					},
 					{
 						"name": "Yds_def_passing",
@@ -175,8 +214,8 @@
 					},
 					{
 						"name": "Rate_def_passing",
-						"type": "float",
-						"precision": 15
+						"type": "tinyint",
+						"precision": 3
 					},
 					{
 						"name": "_1st_def_passing",
@@ -185,8 +224,8 @@
 					},
 					{
 						"name": "_1st_def_passing1",
-						"type": "float",
-						"precision": 15
+						"type": "tinyint",
+						"precision": 3
 					},
 					{
 						"name": "_20_def_passing",
@@ -200,7 +239,8 @@
 					},
 					{
 						"name": "Lng_def_passing",
-						"type": "nvarchar"
+						"type": "tinyint",
+						"precision": 3
 					},
 					{
 						"name": "Sck_def_passing",
@@ -219,8 +259,8 @@
 					},
 					{
 						"name": "YPC_def_rushing",
-						"type": "float",
-						"precision": 15
+						"type": "tinyint",
+						"precision": 3
 					},
 					{
 						"name": "TD_def_rushing",
@@ -239,7 +279,8 @@
 					},
 					{
 						"name": "Lng_def_rushing",
-						"type": "nvarchar"
+						"type": "tinyint",
+						"precision": 3
 					},
 					{
 						"name": "Rush_1st_def_rushing",
@@ -248,8 +289,8 @@
 					},
 					{
 						"name": "Rush_1st_def_rushing1",
-						"type": "float",
-						"precision": 15
+						"type": "tinyint",
+						"precision": 3
 					},
 					{
 						"name": "Rush_FUM_def_rushing",
@@ -268,8 +309,8 @@
 					},
 					{
 						"name": "Yds_Rec_def_receiving",
-						"type": "float",
-						"precision": 15
+						"type": "tinyint",
+						"precision": 3
 					},
 					{
 						"name": "TD_def_receiving",
@@ -288,7 +329,8 @@
 					},
 					{
 						"name": "Lng_def_receiving",
-						"type": "nvarchar"
+						"type": "tinyint",
+						"precision": 3
 					},
 					{
 						"name": "Rec_1st_def_receiving",
@@ -297,8 +339,8 @@
 					},
 					{
 						"name": "Rec_1st_def_receiving1",
-						"type": "float",
-						"precision": 15
+						"type": "tinyint",
+						"precision": 3
 					},
 					{
 						"name": "Rec_FUM_def_receiving",
@@ -341,8 +383,8 @@
 					},
 					{
 						"name": "Solo_def_tackles",
-						"type": "tinyint",
-						"precision": 3
+						"type": "smallint",
+						"precision": 5
 					},
 					{
 						"name": "_3rd_Att_def_downs",
@@ -371,8 +413,8 @@
 					},
 					{
 						"name": "Rec_1st_def_downs1",
-						"type": "float",
-						"precision": 15
+						"type": "tinyint",
+						"precision": 3
 					},
 					{
 						"name": "Rush_1st_def_downs",
@@ -381,8 +423,8 @@
 					},
 					{
 						"name": "Rush_1st_def_downs1",
-						"type": "float",
-						"precision": 15
+						"type": "tinyint",
+						"precision": 3
 					},
 					{
 						"name": "Scrm_Plys_def_downs",
@@ -430,7 +472,8 @@
 					},
 					{
 						"name": "Lng_def_interceptions",
-						"type": "nvarchar"
+						"type": "tinyint",
+						"precision": 3
 					},
 					{
 						"name": "report_datetime",
@@ -448,7 +491,7 @@
 				}
 			},
 			"dependsOn": [
-				"[concat(variables('factoryId'), '/linkedServices/LinkedSQLSportsStatsv2')]"
+				"[concat(variables('factoryId'), '/linkedServices/SportStatsSQLServerLinkv3')]"
 			]
 		},
 		{
@@ -486,8 +529,8 @@
 			"properties": {
 				"activities": [
 					{
-						"name": "copyNFLComStatstoSQL",
-						"description": "copy csv extracts from NFL.com to SQL sports-stats server",
+						"name": "Copy-Team-Def-Stats-NFL",
+						"description": "copy nfl team def total season to date stats",
 						"type": "Copy",
 						"dependsOn": [],
 						"policy": {
@@ -518,6 +561,752 @@
 							"enableStaging": false,
 							"translator": {
 								"type": "TabularTranslator",
+								"mappings": [
+									{
+										"source": {
+											"name": "Team",
+											"type": "String",
+											"physicalType": "String"
+										},
+										"sink": {
+											"name": "Team",
+											"type": "String",
+											"physicalType": "nvarchar"
+										}
+									},
+									{
+										"source": {
+											"name": "Att-def-passing",
+											"type": "String",
+											"physicalType": "String"
+										},
+										"sink": {
+											"name": "Att_def_passing",
+											"type": "Byte",
+											"physicalType": "tinyint"
+										}
+									},
+									{
+										"source": {
+											"name": "Cmp-def-passing",
+											"type": "String",
+											"physicalType": "String"
+										},
+										"sink": {
+											"name": "Cmp_def_passing",
+											"type": "Byte",
+											"physicalType": "tinyint"
+										}
+									},
+									{
+										"source": {
+											"name": "Cmp %-def-passing",
+											"type": "String",
+											"physicalType": "String"
+										},
+										"sink": {
+											"name": "Cmp_def_passing1",
+											"type": "Byte",
+											"physicalType": "tinyint"
+										}
+									},
+									{
+										"source": {
+											"name": "Yds/Att-def-passing",
+											"type": "String",
+											"physicalType": "String"
+										},
+										"sink": {
+											"name": "Yds_Att_def_passing",
+											"type": "Byte",
+											"physicalType": "tinyint"
+										}
+									},
+									{
+										"source": {
+											"name": "Yds-def-passing",
+											"type": "String",
+											"physicalType": "String"
+										},
+										"sink": {
+											"name": "Yds_def_passing",
+											"type": "Int16",
+											"physicalType": "smallint"
+										}
+									},
+									{
+										"source": {
+											"name": "TD-def-passing",
+											"type": "String",
+											"physicalType": "String"
+										},
+										"sink": {
+											"name": "TD_def_passing",
+											"type": "Byte",
+											"physicalType": "tinyint"
+										}
+									},
+									{
+										"source": {
+											"name": "INT-def-passing",
+											"type": "String",
+											"physicalType": "String"
+										},
+										"sink": {
+											"name": "INT_def_passing",
+											"type": "Byte",
+											"physicalType": "tinyint"
+										}
+									},
+									{
+										"source": {
+											"name": "Rate-def-passing",
+											"type": "String",
+											"physicalType": "String"
+										},
+										"sink": {
+											"name": "Rate_def_passing",
+											"type": "Byte",
+											"physicalType": "tinyint"
+										}
+									},
+									{
+										"source": {
+											"name": "1st-def-passing",
+											"type": "String",
+											"physicalType": "String"
+										},
+										"sink": {
+											"name": "_1st_def_passing",
+											"type": "Byte",
+											"physicalType": "tinyint"
+										}
+									},
+									{
+										"source": {
+											"name": "1st%-def-passing",
+											"type": "String",
+											"physicalType": "String"
+										},
+										"sink": {
+											"name": "_1st_def_passing1",
+											"type": "Byte",
+											"physicalType": "tinyint"
+										}
+									},
+									{
+										"source": {
+											"name": "20+-def-passing",
+											"type": "String",
+											"physicalType": "String"
+										},
+										"sink": {
+											"name": "_20_def_passing",
+											"type": "Byte",
+											"physicalType": "tinyint"
+										}
+									},
+									{
+										"source": {
+											"name": "40+-def-passing",
+											"type": "String",
+											"physicalType": "String"
+										},
+										"sink": {
+											"name": "_40_def_passing",
+											"type": "Byte",
+											"physicalType": "tinyint"
+										}
+									},
+									{
+										"source": {
+											"name": "Lng-def-passing",
+											"type": "String",
+											"physicalType": "String"
+										},
+										"sink": {
+											"name": "Lng_def_passing",
+											"type": "Byte",
+											"physicalType": "tinyint"
+										}
+									},
+									{
+										"source": {
+											"name": "Sck-def-passing",
+											"type": "String",
+											"physicalType": "String"
+										},
+										"sink": {
+											"name": "Sck_def_passing",
+											"type": "Byte",
+											"physicalType": "tinyint"
+										}
+									},
+									{
+										"source": {
+											"name": "Att-def-rushing",
+											"type": "String",
+											"physicalType": "String"
+										},
+										"sink": {
+											"name": "Att_def_rushing",
+											"type": "Byte",
+											"physicalType": "tinyint"
+										}
+									},
+									{
+										"source": {
+											"name": "Rush Yds-def-rushing",
+											"type": "String",
+											"physicalType": "String"
+										},
+										"sink": {
+											"name": "Rush_Yds_def_rushing",
+											"type": "Int16",
+											"physicalType": "smallint"
+										}
+									},
+									{
+										"source": {
+											"name": "YPC-def-rushing",
+											"type": "String",
+											"physicalType": "String"
+										},
+										"sink": {
+											"name": "YPC_def_rushing",
+											"type": "Byte",
+											"physicalType": "tinyint"
+										}
+									},
+									{
+										"source": {
+											"name": "TD-def-rushing",
+											"type": "String",
+											"physicalType": "String"
+										},
+										"sink": {
+											"name": "TD_def_rushing",
+											"type": "Byte",
+											"physicalType": "tinyint"
+										}
+									},
+									{
+										"source": {
+											"name": "20+-def-rushing",
+											"type": "String",
+											"physicalType": "String"
+										},
+										"sink": {
+											"name": "_20_def_rushing",
+											"type": "Byte",
+											"physicalType": "tinyint"
+										}
+									},
+									{
+										"source": {
+											"name": "40+-def-rushing",
+											"type": "String",
+											"physicalType": "String"
+										},
+										"sink": {
+											"name": "_40_def_rushing",
+											"type": "Byte",
+											"physicalType": "tinyint"
+										}
+									},
+									{
+										"source": {
+											"name": "Lng-def-rushing",
+											"type": "String",
+											"physicalType": "String"
+										},
+										"sink": {
+											"name": "Lng_def_rushing",
+											"type": "Byte",
+											"physicalType": "tinyint"
+										}
+									},
+									{
+										"source": {
+											"name": "Rush 1st-def-rushing",
+											"type": "String",
+											"physicalType": "String"
+										},
+										"sink": {
+											"name": "Rush_1st_def_rushing",
+											"type": "Byte",
+											"physicalType": "tinyint"
+										}
+									},
+									{
+										"source": {
+											"name": "Rush 1st%-def-rushing",
+											"type": "String",
+											"physicalType": "String"
+										},
+										"sink": {
+											"name": "Rush_1st_def_rushing1",
+											"type": "Byte",
+											"physicalType": "tinyint"
+										}
+									},
+									{
+										"source": {
+											"name": "Rush FUM-def-rushing",
+											"type": "String",
+											"physicalType": "String"
+										},
+										"sink": {
+											"name": "Rush_FUM_def_rushing",
+											"type": "Byte",
+											"physicalType": "tinyint"
+										}
+									},
+									{
+										"source": {
+											"name": "Rec-def-receiving",
+											"type": "String",
+											"physicalType": "String"
+										},
+										"sink": {
+											"name": "Rec_def_receiving",
+											"type": "Byte",
+											"physicalType": "tinyint"
+										}
+									},
+									{
+										"source": {
+											"name": "Yds-def-receiving",
+											"type": "String",
+											"physicalType": "String"
+										},
+										"sink": {
+											"name": "Yds_def_receiving",
+											"type": "Int16",
+											"physicalType": "smallint"
+										}
+									},
+									{
+										"source": {
+											"name": "Yds/Rec-def-receiving",
+											"type": "String",
+											"physicalType": "String"
+										},
+										"sink": {
+											"name": "Yds_Rec_def_receiving",
+											"type": "Byte",
+											"physicalType": "tinyint"
+										}
+									},
+									{
+										"source": {
+											"name": "TD-def-receiving",
+											"type": "String",
+											"physicalType": "String"
+										},
+										"sink": {
+											"name": "TD_def_receiving",
+											"type": "Byte",
+											"physicalType": "tinyint"
+										}
+									},
+									{
+										"source": {
+											"name": "20+-def-receiving",
+											"type": "String",
+											"physicalType": "String"
+										},
+										"sink": {
+											"name": "_20_def_receiving",
+											"type": "Byte",
+											"physicalType": "tinyint"
+										}
+									},
+									{
+										"source": {
+											"name": "40+-def-receiving",
+											"type": "String",
+											"physicalType": "String"
+										},
+										"sink": {
+											"name": "_40_def_receiving",
+											"type": "Byte",
+											"physicalType": "tinyint"
+										}
+									},
+									{
+										"source": {
+											"name": "Lng-def-receiving",
+											"type": "String",
+											"physicalType": "String"
+										},
+										"sink": {
+											"name": "Lng_def_receiving",
+											"type": "Byte",
+											"physicalType": "tinyint"
+										}
+									},
+									{
+										"source": {
+											"name": "Rec 1st-def-receiving",
+											"type": "String",
+											"physicalType": "String"
+										},
+										"sink": {
+											"name": "Rec_1st_def_receiving",
+											"type": "Byte",
+											"physicalType": "tinyint"
+										}
+									},
+									{
+										"source": {
+											"name": "Rec 1st%-def-receiving",
+											"type": "String",
+											"physicalType": "String"
+										},
+										"sink": {
+											"name": "Rec_1st_def_receiving1",
+											"type": "Byte",
+											"physicalType": "tinyint"
+										}
+									},
+									{
+										"source": {
+											"name": "Rec FUM-def-receiving",
+											"type": "String",
+											"physicalType": "String"
+										},
+										"sink": {
+											"name": "Rec_FUM_def_receiving",
+											"type": "Byte",
+											"physicalType": "tinyint"
+										}
+									},
+									{
+										"source": {
+											"name": "PDef-def-receiving",
+											"type": "String",
+											"physicalType": "String"
+										},
+										"sink": {
+											"name": "PDef_def_receiving",
+											"type": "Byte",
+											"physicalType": "tinyint"
+										}
+									},
+									{
+										"source": {
+											"name": "FR TD-def-scoring",
+											"type": "String",
+											"physicalType": "String"
+										},
+										"sink": {
+											"name": "FR_TD_def_scoring",
+											"type": "Boolean",
+											"physicalType": "bit"
+										}
+									},
+									{
+										"source": {
+											"name": "SFTY-def-scoring",
+											"type": "String",
+											"physicalType": "String"
+										},
+										"sink": {
+											"name": "SFTY_def_scoring",
+											"type": "Byte",
+											"physicalType": "tinyint"
+										}
+									},
+									{
+										"source": {
+											"name": "Sck-def-tackles",
+											"type": "String",
+											"physicalType": "String"
+										},
+										"sink": {
+											"name": "Sck_def_tackles",
+											"type": "Byte",
+											"physicalType": "tinyint"
+										}
+									},
+									{
+										"source": {
+											"name": "Comb-def-tackles",
+											"type": "String",
+											"physicalType": "String"
+										},
+										"sink": {
+											"name": "Comb_def_tackles",
+											"type": "Int16",
+											"physicalType": "smallint"
+										}
+									},
+									{
+										"source": {
+											"name": "Asst-def-tackles",
+											"type": "String",
+											"physicalType": "String"
+										},
+										"sink": {
+											"name": "Asst_def_tackles",
+											"type": "Byte",
+											"physicalType": "tinyint"
+										}
+									},
+									{
+										"source": {
+											"name": "Solo-def-tackles",
+											"type": "String",
+											"physicalType": "String"
+										},
+										"sink": {
+											"name": "Solo_def_tackles",
+											"type": "Int16",
+											"physicalType": "smallint"
+										}
+									},
+									{
+										"source": {
+											"name": "3rd Att-def-downs",
+											"type": "String",
+											"physicalType": "String"
+										},
+										"sink": {
+											"name": "_3rd_Att_def_downs",
+											"type": "Byte",
+											"physicalType": "tinyint"
+										}
+									},
+									{
+										"source": {
+											"name": "3rd Md-def-downs",
+											"type": "String",
+											"physicalType": "String"
+										},
+										"sink": {
+											"name": "_3rd_Md_def_downs",
+											"type": "Byte",
+											"physicalType": "tinyint"
+										}
+									},
+									{
+										"source": {
+											"name": "4th Att-def-downs",
+											"type": "String",
+											"physicalType": "String"
+										},
+										"sink": {
+											"name": "_4th_Att_def_downs",
+											"type": "Byte",
+											"physicalType": "tinyint"
+										}
+									},
+									{
+										"source": {
+											"name": "4th Md-def-downs",
+											"type": "String",
+											"physicalType": "String"
+										},
+										"sink": {
+											"name": "_4th_Md_def_downs",
+											"type": "Byte",
+											"physicalType": "tinyint"
+										}
+									},
+									{
+										"source": {
+											"name": "Rec 1st-def-downs",
+											"type": "String",
+											"physicalType": "String"
+										},
+										"sink": {
+											"name": "Rec_1st_def_downs",
+											"type": "Byte",
+											"physicalType": "tinyint"
+										}
+									},
+									{
+										"source": {
+											"name": "Rec 1st%-def-downs",
+											"type": "String",
+											"physicalType": "String"
+										},
+										"sink": {
+											"name": "Rec_1st_def_downs1",
+											"type": "Byte",
+											"physicalType": "tinyint"
+										}
+									},
+									{
+										"source": {
+											"name": "Rush 1st-def-downs",
+											"type": "String",
+											"physicalType": "String"
+										},
+										"sink": {
+											"name": "Rush_1st_def_downs",
+											"type": "Byte",
+											"physicalType": "tinyint"
+										}
+									},
+									{
+										"source": {
+											"name": "Rush 1st%-def-downs",
+											"type": "String",
+											"physicalType": "String"
+										},
+										"sink": {
+											"name": "Rush_1st_def_downs1",
+											"type": "Byte",
+											"physicalType": "tinyint"
+										}
+									},
+									{
+										"source": {
+											"name": "Scrm Plys-def-downs",
+											"type": "String",
+											"physicalType": "String"
+										},
+										"sink": {
+											"name": "Scrm_Plys_def_downs",
+											"type": "Int16",
+											"physicalType": "smallint"
+										}
+									},
+									{
+										"source": {
+											"name": "FF-def-fumbles",
+											"type": "String",
+											"physicalType": "String"
+										},
+										"sink": {
+											"name": "FF_def_fumbles",
+											"type": "Byte",
+											"physicalType": "tinyint"
+										}
+									},
+									{
+										"source": {
+											"name": "FR-def-fumbles",
+											"type": "String",
+											"physicalType": "String"
+										},
+										"sink": {
+											"name": "FR_def_fumbles",
+											"type": "Byte",
+											"physicalType": "tinyint"
+										}
+									},
+									{
+										"source": {
+											"name": "FR TD-def-fumbles",
+											"type": "String",
+											"physicalType": "String"
+										},
+										"sink": {
+											"name": "FR_TD_def_fumbles",
+											"type": "Boolean",
+											"physicalType": "bit"
+										}
+									},
+									{
+										"source": {
+											"name": "Rec FUM-def-fumbles",
+											"type": "String",
+											"physicalType": "String"
+										},
+										"sink": {
+											"name": "Rec_FUM_def_fumbles",
+											"type": "Byte",
+											"physicalType": "tinyint"
+										}
+									},
+									{
+										"source": {
+											"name": "Rush FUM-def-fumbles",
+											"type": "String",
+											"physicalType": "String"
+										},
+										"sink": {
+											"name": "Rush_FUM_def_fumbles",
+											"type": "Byte",
+											"physicalType": "tinyint"
+										}
+									},
+									{
+										"source": {
+											"name": "INT-def-interceptions",
+											"type": "String",
+											"physicalType": "String"
+										},
+										"sink": {
+											"name": "INT_def_interceptions",
+											"type": "Byte",
+											"physicalType": "tinyint"
+										}
+									},
+									{
+										"source": {
+											"name": "INT TD-def-interceptions",
+											"type": "String",
+											"physicalType": "String"
+										},
+										"sink": {
+											"name": "INT_TD_def_interceptions",
+											"type": "Byte",
+											"physicalType": "tinyint"
+										}
+									},
+									{
+										"source": {
+											"name": "INT Yds-def-interceptions",
+											"type": "String",
+											"physicalType": "String"
+										},
+										"sink": {
+											"name": "INT_Yds_def_interceptions",
+											"type": "Byte",
+											"physicalType": "tinyint"
+										}
+									},
+									{
+										"source": {
+											"name": "Lng-def-interceptions",
+											"type": "String",
+											"physicalType": "String"
+										},
+										"sink": {
+											"name": "Lng_def_interceptions",
+											"type": "Byte",
+											"physicalType": "tinyint"
+										}
+									},
+									{
+										"source": {
+											"name": "report_datetime",
+											"type": "String",
+											"physicalType": "String"
+										},
+										"sink": {
+											"name": "report_datetime",
+											"type": "DateTime",
+											"physicalType": "datetime2"
+										}
+									},
+									{
+										"source": {
+											"name": "report_date",
+											"type": "String",
+											"physicalType": "String"
+										},
+										"sink": {
+											"name": "report_date",
+											"type": "DateTime",
+											"physicalType": "date"
+										}
+									}
+								],
 								"typeConversion": true,
 								"typeConversionSettings": {
 									"allowDataTruncation": true,
@@ -534,7 +1323,7 @@
 						],
 						"outputs": [
 							{
-								"referenceName": "AzureSQL_team_def_stats",
+								"referenceName": "NFL_stats_team_def_sql",
 								"type": "DatasetReference",
 								"parameters": {}
 							}
@@ -548,7 +1337,7 @@
 			},
 			"dependsOn": [
 				"[concat(variables('factoryId'), '/datasets/nlf_def_team_stats')]",
-				"[concat(variables('factoryId'), '/datasets/AzureSQL_team_def_stats')]"
+				"[concat(variables('factoryId'), '/datasets/NFL_stats_team_def_sql')]"
 			]
 		}
 	]

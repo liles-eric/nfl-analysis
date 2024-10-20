@@ -19,6 +19,10 @@
 			"type": "secureString",
 			"metadata": "Secure string for 'password' of 'LinkedSQLSportsStatsv2'"
 		},
+		"SportStatsSQLServerLinkv3_password": {
+			"type": "secureString",
+			"metadata": "Secure string for 'password' of 'SportStatsSQLServerLinkv3'"
+		},
 		"SportsStatsSQLDB_password": {
 			"type": "secureString",
 			"metadata": "Secure string for 'password' of 'SportsStatsSQLDB'"
@@ -32,6 +36,18 @@
 			"defaultValue": "sports_stats_db"
 		},
 		"LinkedSQLSportsStatsv2_properties_typeProperties_userName": {
+			"type": "string",
+			"defaultValue": "eric"
+		},
+		"SportStatsSQLServerLinkv3_properties_typeProperties_server": {
+			"type": "string",
+			"defaultValue": "sports-stats-db-server.database.windows.net"
+		},
+		"SportStatsSQLServerLinkv3_properties_typeProperties_database": {
+			"type": "string",
+			"defaultValue": "sports_stats_db"
+		},
+		"SportStatsSQLServerLinkv3_properties_typeProperties_userName": {
 			"type": "string",
 			"defaultValue": "eric"
 		},
@@ -83,6 +99,9 @@
 					"LinkedSQLSportsStatsv2_password": {
 						"value": "[parameters('LinkedSQLSportsStatsv2_password')]"
 					},
+					"SportStatsSQLServerLinkv3_password": {
+						"value": "[parameters('SportStatsSQLServerLinkv3_password')]"
+					},
 					"SportsStatsSQLDB_password": {
 						"value": "[parameters('SportsStatsSQLDB_password')]"
 					},
@@ -94,6 +113,15 @@
 					},
 					"LinkedSQLSportsStatsv2_properties_typeProperties_userName": {
 						"value": "[parameters('LinkedSQLSportsStatsv2_properties_typeProperties_userName')]"
+					},
+					"SportStatsSQLServerLinkv3_properties_typeProperties_server": {
+						"value": "[parameters('SportStatsSQLServerLinkv3_properties_typeProperties_server')]"
+					},
+					"SportStatsSQLServerLinkv3_properties_typeProperties_database": {
+						"value": "[parameters('SportStatsSQLServerLinkv3_properties_typeProperties_database')]"
+					},
+					"SportStatsSQLServerLinkv3_properties_typeProperties_userName": {
+						"value": "[parameters('SportStatsSQLServerLinkv3_properties_typeProperties_userName')]"
 					},
 					"SportsStatsSQLDB_properties_typeProperties_server": {
 						"value": "[parameters('SportsStatsSQLDB_properties_typeProperties_server')]"
