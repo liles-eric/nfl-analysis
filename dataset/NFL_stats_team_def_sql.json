@@ -1,0 +1,328 @@
+{
+	"name": "NFL_stats_team_def_sql",
+	"properties": {
+		"linkedServiceName": {
+			"referenceName": "SportStatsSQLServerLinkv3",
+			"type": "LinkedServiceReference"
+		},
+		"annotations": [],
+		"type": "AzureSqlTable",
+		"schema": [
+			{
+				"name": "Team",
+				"type": "nvarchar"
+			},
+			{
+				"name": "Att_def_passing",
+				"type": "tinyint",
+				"precision": 3
+			},
+			{
+				"name": "Cmp_def_passing",
+				"type": "tinyint",
+				"precision": 3
+			},
+			{
+				"name": "Cmp_def_passing1",
+				"type": "tinyint",
+				"precision": 3
+			},
+			{
+				"name": "Yds_Att_def_passing",
+				"type": "tinyint",
+				"precision": 3
+			},
+			{
+				"name": "Yds_def_passing",
+				"type": "smallint",
+				"precision": 5
+			},
+			{
+				"name": "TD_def_passing",
+				"type": "tinyint",
+				"precision": 3
+			},
+			{
+				"name": "INT_def_passing",
+				"type": "tinyint",
+				"precision": 3
+			},
+			{
+				"name": "Rate_def_passing",
+				"type": "tinyint",
+				"precision": 3
+			},
+			{
+				"name": "_1st_def_passing",
+				"type": "tinyint",
+				"precision": 3
+			},
+			{
+				"name": "_1st_def_passing1",
+				"type": "tinyint",
+				"precision": 3
+			},
+			{
+				"name": "_20_def_passing",
+				"type": "tinyint",
+				"precision": 3
+			},
+			{
+				"name": "_40_def_passing",
+				"type": "tinyint",
+				"precision": 3
+			},
+			{
+				"name": "Lng_def_passing",
+				"type": "tinyint",
+				"precision": 3
+			},
+			{
+				"name": "Sck_def_passing",
+				"type": "tinyint",
+				"precision": 3
+			},
+			{
+				"name": "Att_def_rushing",
+				"type": "tinyint",
+				"precision": 3
+			},
+			{
+				"name": "Rush_Yds_def_rushing",
+				"type": "smallint",
+				"precision": 5
+			},
+			{
+				"name": "YPC_def_rushing",
+				"type": "tinyint",
+				"precision": 3
+			},
+			{
+				"name": "TD_def_rushing",
+				"type": "tinyint",
+				"precision": 3
+			},
+			{
+				"name": "_20_def_rushing",
+				"type": "tinyint",
+				"precision": 3
+			},
+			{
+				"name": "_40_def_rushing",
+				"type": "tinyint",
+				"precision": 3
+			},
+			{
+				"name": "Lng_def_rushing",
+				"type": "tinyint",
+				"precision": 3
+			},
+			{
+				"name": "Rush_1st_def_rushing",
+				"type": "tinyint",
+				"precision": 3
+			},
+			{
+				"name": "Rush_1st_def_rushing1",
+				"type": "tinyint",
+				"precision": 3
+			},
+			{
+				"name": "Rush_FUM_def_rushing",
+				"type": "tinyint",
+				"precision": 3
+			},
+			{
+				"name": "Rec_def_receiving",
+				"type": "tinyint",
+				"precision": 3
+			},
+			{
+				"name": "Yds_def_receiving",
+				"type": "smallint",
+				"precision": 5
+			},
+			{
+				"name": "Yds_Rec_def_receiving",
+				"type": "tinyint",
+				"precision": 3
+			},
+			{
+				"name": "TD_def_receiving",
+				"type": "tinyint",
+				"precision": 3
+			},
+			{
+				"name": "_20_def_receiving",
+				"type": "tinyint",
+				"precision": 3
+			},
+			{
+				"name": "_40_def_receiving",
+				"type": "tinyint",
+				"precision": 3
+			},
+			{
+				"name": "Lng_def_receiving",
+				"type": "tinyint",
+				"precision": 3
+			},
+			{
+				"name": "Rec_1st_def_receiving",
+				"type": "tinyint",
+				"precision": 3
+			},
+			{
+				"name": "Rec_1st_def_receiving1",
+				"type": "tinyint",
+				"precision": 3
+			},
+			{
+				"name": "Rec_FUM_def_receiving",
+				"type": "tinyint",
+				"precision": 3
+			},
+			{
+				"name": "PDef_def_receiving",
+				"type": "tinyint",
+				"precision": 3
+			},
+			{
+				"name": "FR_TD_def_scoring",
+				"type": "bit"
+			},
+			{
+				"name": "SFTY_def_scoring",
+				"type": "tinyint",
+				"precision": 3
+			},
+			{
+				"name": "INT_TD_def_scoring",
+				"type": "tinyint",
+				"precision": 3
+			},
+			{
+				"name": "Sck_def_tackles",
+				"type": "tinyint",
+				"precision": 3
+			},
+			{
+				"name": "Comb_def_tackles",
+				"type": "smallint",
+				"precision": 5
+			},
+			{
+				"name": "Asst_def_tackles",
+				"type": "tinyint",
+				"precision": 3
+			},
+			{
+				"name": "Solo_def_tackles",
+				"type": "smallint",
+				"precision": 5
+			},
+			{
+				"name": "_3rd_Att_def_downs",
+				"type": "tinyint",
+				"precision": 3
+			},
+			{
+				"name": "_3rd_Md_def_downs",
+				"type": "tinyint",
+				"precision": 3
+			},
+			{
+				"name": "_4th_Att_def_downs",
+				"type": "tinyint",
+				"precision": 3
+			},
+			{
+				"name": "_4th_Md_def_downs",
+				"type": "tinyint",
+				"precision": 3
+			},
+			{
+				"name": "Rec_1st_def_downs",
+				"type": "tinyint",
+				"precision": 3
+			},
+			{
+				"name": "Rec_1st_def_downs1",
+				"type": "tinyint",
+				"precision": 3
+			},
+			{
+				"name": "Rush_1st_def_downs",
+				"type": "tinyint",
+				"precision": 3
+			},
+			{
+				"name": "Rush_1st_def_downs1",
+				"type": "tinyint",
+				"precision": 3
+			},
+			{
+				"name": "Scrm_Plys_def_downs",
+				"type": "smallint",
+				"precision": 5
+			},
+			{
+				"name": "FF_def_fumbles",
+				"type": "tinyint",
+				"precision": 3
+			},
+			{
+				"name": "FR_def_fumbles",
+				"type": "tinyint",
+				"precision": 3
+			},
+			{
+				"name": "FR_TD_def_fumbles",
+				"type": "bit"
+			},
+			{
+				"name": "Rec_FUM_def_fumbles",
+				"type": "tinyint",
+				"precision": 3
+			},
+			{
+				"name": "Rush_FUM_def_fumbles",
+				"type": "tinyint",
+				"precision": 3
+			},
+			{
+				"name": "INT_def_interceptions",
+				"type": "tinyint",
+				"precision": 3
+			},
+			{
+				"name": "INT_TD_def_interceptions",
+				"type": "tinyint",
+				"precision": 3
+			},
+			{
+				"name": "INT_Yds_def_interceptions",
+				"type": "tinyint",
+				"precision": 3
+			},
+			{
+				"name": "Lng_def_interceptions",
+				"type": "tinyint",
+				"precision": 3
+			},
+			{
+				"name": "report_datetime",
+				"type": "datetime2",
+				"scale": 7
+			},
+			{
+				"name": "report_date",
+				"type": "date"
+			}
+		],
+		"typeProperties": {
+			"schema": "dbo",
+			"table": "nfl-team-stats-def"
+		}
+	}
+}
