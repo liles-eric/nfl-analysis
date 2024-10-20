@@ -1,0 +1,555 @@
+{
+	"$schema": "http://schema.management.azure.com/schemas/2015-01-01/deploymentTemplate.json#",
+	"contentVersion": "1.0.0.0",
+	"parameters": {
+		"factoryName": {
+			"type": "string",
+			"metadata": "Data Factory name",
+			"defaultValue": "nfl-data-pipeline"
+		},
+		"AzureBlobStorage1_connectionString": {
+			"type": "secureString",
+			"metadata": "Secure string for 'connectionString' of 'AzureBlobStorage1'"
+		},
+		"AzureBlobStorage2_nflstats_connectionString": {
+			"type": "secureString",
+			"metadata": "Secure string for 'connectionString' of 'AzureBlobStorage2_nflstats'"
+		},
+		"LinkedSQLSportsStatsv2_password": {
+			"type": "secureString",
+			"metadata": "Secure string for 'password' of 'LinkedSQLSportsStatsv2'"
+		},
+		"SportsStatsSQLDB_password": {
+			"type": "secureString",
+			"metadata": "Secure string for 'password' of 'SportsStatsSQLDB'"
+		},
+		"LinkedSQLSportsStatsv2_properties_typeProperties_server": {
+			"type": "string",
+			"defaultValue": "sports-stats-db-server.database.windows.net"
+		},
+		"LinkedSQLSportsStatsv2_properties_typeProperties_database": {
+			"type": "string",
+			"defaultValue": "sports_stats_db"
+		},
+		"LinkedSQLSportsStatsv2_properties_typeProperties_userName": {
+			"type": "string",
+			"defaultValue": "eric"
+		},
+		"SportsStatsSQLDB_properties_typeProperties_server": {
+			"type": "string",
+			"defaultValue": "sports-stats-db-server.database.windows.net"
+		},
+		"SportsStatsSQLDB_properties_typeProperties_database": {
+			"type": "string",
+			"defaultValue": "sports_stats_db"
+		},
+		"SportsStatsSQLDB_properties_typeProperties_userName": {
+			"type": "string",
+			"defaultValue": "eric"
+		}
+	},
+	"variables": {
+		"factoryId": "[concat('Microsoft.DataFactory/factories/', parameters('factoryName'))]"
+	},
+	"resources": [
+		{
+			"name": "[concat(parameters('factoryName'), '/AzureSQL_team_def_stats')]",
+			"type": "Microsoft.DataFactory/factories/datasets",
+			"apiVersion": "2018-06-01",
+			"properties": {
+				"linkedServiceName": {
+					"referenceName": "LinkedSQLSportsStatsv2",
+					"type": "LinkedServiceReference"
+				},
+				"annotations": [],
+				"type": "AzureSqlTable",
+				"schema": [
+					{
+						"name": "Team",
+						"type": "nvarchar"
+					},
+					{
+						"name": "Att_def_passing",
+						"type": "tinyint",
+						"precision": 3
+					},
+					{
+						"name": "Cmp_def_passing",
+						"type": "tinyint",
+						"precision": 3
+					},
+					{
+						"name": "Cmp_def_passing1",
+						"type": "float",
+						"precision": 15
+					},
+					{
+						"name": "Yds_Att_def_passing",
+						"type": "float",
+						"precision": 15
+					},
+					{
+						"name": "Yds_def_passing",
+						"type": "smallint",
+						"precision": 5
+					},
+					{
+						"name": "TD_def_passing",
+						"type": "tinyint",
+						"precision": 3
+					},
+					{
+						"name": "INT_def_passing",
+						"type": "tinyint",
+						"precision": 3
+					},
+					{
+						"name": "Rate_def_passing",
+						"type": "float",
+						"precision": 15
+					},
+					{
+						"name": "_1st_def_passing",
+						"type": "tinyint",
+						"precision": 3
+					},
+					{
+						"name": "_1st_def_passing1",
+						"type": "float",
+						"precision": 15
+					},
+					{
+						"name": "_20_def_passing",
+						"type": "tinyint",
+						"precision": 3
+					},
+					{
+						"name": "_40_def_passing",
+						"type": "tinyint",
+						"precision": 3
+					},
+					{
+						"name": "Lng_def_passing",
+						"type": "nvarchar"
+					},
+					{
+						"name": "Sck_def_passing",
+						"type": "tinyint",
+						"precision": 3
+					},
+					{
+						"name": "Att_def_rushing",
+						"type": "tinyint",
+						"precision": 3
+					},
+					{
+						"name": "Rush_Yds_def_rushing",
+						"type": "smallint",
+						"precision": 5
+					},
+					{
+						"name": "YPC_def_rushing",
+						"type": "float",
+						"precision": 15
+					},
+					{
+						"name": "TD_def_rushing",
+						"type": "tinyint",
+						"precision": 3
+					},
+					{
+						"name": "_20_def_rushing",
+						"type": "tinyint",
+						"precision": 3
+					},
+					{
+						"name": "_40_def_rushing",
+						"type": "tinyint",
+						"precision": 3
+					},
+					{
+						"name": "Lng_def_rushing",
+						"type": "nvarchar"
+					},
+					{
+						"name": "Rush_1st_def_rushing",
+						"type": "tinyint",
+						"precision": 3
+					},
+					{
+						"name": "Rush_1st_def_rushing1",
+						"type": "float",
+						"precision": 15
+					},
+					{
+						"name": "Rush_FUM_def_rushing",
+						"type": "tinyint",
+						"precision": 3
+					},
+					{
+						"name": "Rec_def_receiving",
+						"type": "tinyint",
+						"precision": 3
+					},
+					{
+						"name": "Yds_def_receiving",
+						"type": "smallint",
+						"precision": 5
+					},
+					{
+						"name": "Yds_Rec_def_receiving",
+						"type": "float",
+						"precision": 15
+					},
+					{
+						"name": "TD_def_receiving",
+						"type": "tinyint",
+						"precision": 3
+					},
+					{
+						"name": "_20_def_receiving",
+						"type": "tinyint",
+						"precision": 3
+					},
+					{
+						"name": "_40_def_receiving",
+						"type": "tinyint",
+						"precision": 3
+					},
+					{
+						"name": "Lng_def_receiving",
+						"type": "nvarchar"
+					},
+					{
+						"name": "Rec_1st_def_receiving",
+						"type": "tinyint",
+						"precision": 3
+					},
+					{
+						"name": "Rec_1st_def_receiving1",
+						"type": "float",
+						"precision": 15
+					},
+					{
+						"name": "Rec_FUM_def_receiving",
+						"type": "tinyint",
+						"precision": 3
+					},
+					{
+						"name": "PDef_def_receiving",
+						"type": "tinyint",
+						"precision": 3
+					},
+					{
+						"name": "FR_TD_def_scoring",
+						"type": "bit"
+					},
+					{
+						"name": "SFTY_def_scoring",
+						"type": "tinyint",
+						"precision": 3
+					},
+					{
+						"name": "INT_TD_def_scoring",
+						"type": "tinyint",
+						"precision": 3
+					},
+					{
+						"name": "Sck_def_tackles",
+						"type": "tinyint",
+						"precision": 3
+					},
+					{
+						"name": "Comb_def_tackles",
+						"type": "smallint",
+						"precision": 5
+					},
+					{
+						"name": "Asst_def_tackles",
+						"type": "tinyint",
+						"precision": 3
+					},
+					{
+						"name": "Solo_def_tackles",
+						"type": "tinyint",
+						"precision": 3
+					},
+					{
+						"name": "_3rd_Att_def_downs",
+						"type": "tinyint",
+						"precision": 3
+					},
+					{
+						"name": "_3rd_Md_def_downs",
+						"type": "tinyint",
+						"precision": 3
+					},
+					{
+						"name": "_4th_Att_def_downs",
+						"type": "tinyint",
+						"precision": 3
+					},
+					{
+						"name": "_4th_Md_def_downs",
+						"type": "tinyint",
+						"precision": 3
+					},
+					{
+						"name": "Rec_1st_def_downs",
+						"type": "tinyint",
+						"precision": 3
+					},
+					{
+						"name": "Rec_1st_def_downs1",
+						"type": "float",
+						"precision": 15
+					},
+					{
+						"name": "Rush_1st_def_downs",
+						"type": "tinyint",
+						"precision": 3
+					},
+					{
+						"name": "Rush_1st_def_downs1",
+						"type": "float",
+						"precision": 15
+					},
+					{
+						"name": "Scrm_Plys_def_downs",
+						"type": "smallint",
+						"precision": 5
+					},
+					{
+						"name": "FF_def_fumbles",
+						"type": "tinyint",
+						"precision": 3
+					},
+					{
+						"name": "FR_def_fumbles",
+						"type": "tinyint",
+						"precision": 3
+					},
+					{
+						"name": "FR_TD_def_fumbles",
+						"type": "bit"
+					},
+					{
+						"name": "Rec_FUM_def_fumbles",
+						"type": "tinyint",
+						"precision": 3
+					},
+					{
+						"name": "Rush_FUM_def_fumbles",
+						"type": "tinyint",
+						"precision": 3
+					},
+					{
+						"name": "INT_def_interceptions",
+						"type": "tinyint",
+						"precision": 3
+					},
+					{
+						"name": "INT_TD_def_interceptions",
+						"type": "tinyint",
+						"precision": 3
+					},
+					{
+						"name": "INT_Yds_def_interceptions",
+						"type": "tinyint",
+						"precision": 3
+					},
+					{
+						"name": "Lng_def_interceptions",
+						"type": "nvarchar"
+					},
+					{
+						"name": "report_datetime",
+						"type": "datetime2",
+						"scale": 7
+					},
+					{
+						"name": "report_date",
+						"type": "date"
+					}
+				],
+				"typeProperties": {
+					"schema": "dbo",
+					"table": "nfl-team-stats-def"
+				}
+			},
+			"dependsOn": [
+				"[concat(variables('factoryId'), '/linkedServices/LinkedSQLSportsStatsv2')]"
+			]
+		},
+		{
+			"name": "[concat(parameters('factoryName'), '/nlf_def_team_stats')]",
+			"type": "Microsoft.DataFactory/factories/datasets",
+			"apiVersion": "2018-06-01",
+			"properties": {
+				"linkedServiceName": {
+					"referenceName": "AzureBlobStorage2_nflstats",
+					"type": "LinkedServiceReference"
+				},
+				"annotations": [],
+				"type": "DelimitedText",
+				"typeProperties": {
+					"location": {
+						"type": "AzureBlobStorageLocation",
+						"fileName": "nfl-team-stats-def-2024.csv",
+						"container": "nfl-stats"
+					},
+					"columnDelimiter": ",",
+					"escapeChar": "\\",
+					"firstRowAsHeader": true,
+					"quoteChar": "\""
+				},
+				"schema": []
+			},
+			"dependsOn": [
+				"[concat(variables('factoryId'), '/linkedServices/AzureBlobStorage2_nflstats')]"
+			]
+		},
+		{
+			"name": "[concat(parameters('factoryName'), '/AzureBlobStorage1')]",
+			"type": "Microsoft.DataFactory/factories/linkedServices",
+			"apiVersion": "2018-06-01",
+			"properties": {
+				"annotations": [],
+				"type": "AzureBlobStorage",
+				"typeProperties": {
+					"connectionString": "[parameters('AzureBlobStorage1_connectionString')]"
+				}
+			},
+			"dependsOn": []
+		},
+		{
+			"name": "[concat(parameters('factoryName'), '/AzureBlobStorage2_nflstats')]",
+			"type": "Microsoft.DataFactory/factories/linkedServices",
+			"apiVersion": "2018-06-01",
+			"properties": {
+				"annotations": [],
+				"type": "AzureBlobStorage",
+				"typeProperties": {
+					"connectionString": "[parameters('AzureBlobStorage2_nflstats_connectionString')]"
+				}
+			},
+			"dependsOn": []
+		},
+		{
+			"name": "[concat(parameters('factoryName'), '/LinkedSQLSportsStatsv2')]",
+			"type": "Microsoft.DataFactory/factories/linkedServices",
+			"apiVersion": "2018-06-01",
+			"properties": {
+				"annotations": [],
+				"type": "AzureSqlDatabase",
+				"typeProperties": {
+					"server": "[parameters('LinkedSQLSportsStatsv2_properties_typeProperties_server')]",
+					"database": "[parameters('LinkedSQLSportsStatsv2_properties_typeProperties_database')]",
+					"encrypt": "optional",
+					"trustServerCertificate": false,
+					"authenticationType": "SQL",
+					"userName": "[parameters('LinkedSQLSportsStatsv2_properties_typeProperties_userName')]",
+					"password": {
+						"type": "SecureString",
+						"value": "[parameters('LinkedSQLSportsStatsv2_password')]"
+					}
+				}
+			},
+			"dependsOn": []
+		},
+		{
+			"name": "[concat(parameters('factoryName'), '/SportsStatsSQLDB')]",
+			"type": "Microsoft.DataFactory/factories/linkedServices",
+			"apiVersion": "2018-06-01",
+			"properties": {
+				"annotations": [],
+				"type": "AzureSqlDatabase",
+				"typeProperties": {
+					"server": "[parameters('SportsStatsSQLDB_properties_typeProperties_server')]",
+					"database": "[parameters('SportsStatsSQLDB_properties_typeProperties_database')]",
+					"encrypt": "optional",
+					"trustServerCertificate": false,
+					"authenticationType": "SQL",
+					"userName": "[parameters('SportsStatsSQLDB_properties_typeProperties_userName')]",
+					"password": {
+						"type": "SecureString",
+						"value": "[parameters('SportsStatsSQLDB_password')]"
+					}
+				}
+			},
+			"dependsOn": []
+		},
+		{
+			"name": "[concat(parameters('factoryName'), '/NFL-Stats-Pipeline')]",
+			"type": "Microsoft.DataFactory/factories/pipelines",
+			"apiVersion": "2018-06-01",
+			"properties": {
+				"activities": [
+					{
+						"name": "copyNFLComStatstoSQL",
+						"description": "copy csv extracts from NFL.com to SQL sports-stats server",
+						"type": "Copy",
+						"dependsOn": [],
+						"policy": {
+							"timeout": "0.12:00:00",
+							"retry": 0,
+							"retryIntervalInSeconds": 30,
+							"secureOutput": false,
+							"secureInput": false
+						},
+						"userProperties": [],
+						"typeProperties": {
+							"source": {
+								"type": "DelimitedTextSource",
+								"storeSettings": {
+									"type": "AzureBlobStorageReadSettings",
+									"recursive": true,
+									"enablePartitionDiscovery": false
+								},
+								"formatSettings": {
+									"type": "DelimitedTextReadSettings"
+								}
+							},
+							"sink": {
+								"type": "AzureSqlSink",
+								"writeBehavior": "insert",
+								"sqlWriterUseTableLock": false
+							},
+							"enableStaging": false,
+							"translator": {
+								"type": "TabularTranslator",
+								"typeConversion": true,
+								"typeConversionSettings": {
+									"allowDataTruncation": true,
+									"treatBooleanAsNumber": false
+								}
+							}
+						},
+						"inputs": [
+							{
+								"referenceName": "nlf_def_team_stats",
+								"type": "DatasetReference",
+								"parameters": {}
+							}
+						],
+						"outputs": [
+							{
+								"referenceName": "AzureSQL_team_def_stats",
+								"type": "DatasetReference",
+								"parameters": {}
+							}
+						]
+					}
+				],
+				"policy": {
+					"elapsedTimeMetric": {}
+				},
+				"annotations": []
+			},
+			"dependsOn": [
+				"[concat(variables('factoryId'), '/datasets/nlf_def_team_stats')]",
+				"[concat(variables('factoryId'), '/datasets/AzureSQL_team_def_stats')]"
+			]
+		}
+	]
+}

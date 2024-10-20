@@ -1,0 +1,112 @@
+{
+	"$schema": "http://schema.management.azure.com/schemas/2015-01-01/deploymentTemplate.json#",
+	"contentVersion": "1.0.0.0",
+	"parameters": {
+		"factoryName": {
+			"type": "string",
+			"metadata": "Data Factory name",
+			"defaultValue": "nfl-data-pipeline"
+		},
+		"AzureBlobStorage1_connectionString": {
+			"type": "secureString",
+			"metadata": "Secure string for 'connectionString' of 'AzureBlobStorage1'"
+		},
+		"AzureBlobStorage2_nflstats_connectionString": {
+			"type": "secureString",
+			"metadata": "Secure string for 'connectionString' of 'AzureBlobStorage2_nflstats'"
+		},
+		"LinkedSQLSportsStatsv2_password": {
+			"type": "secureString",
+			"metadata": "Secure string for 'password' of 'LinkedSQLSportsStatsv2'"
+		},
+		"SportsStatsSQLDB_password": {
+			"type": "secureString",
+			"metadata": "Secure string for 'password' of 'SportsStatsSQLDB'"
+		},
+		"LinkedSQLSportsStatsv2_properties_typeProperties_server": {
+			"type": "string",
+			"defaultValue": "sports-stats-db-server.database.windows.net"
+		},
+		"LinkedSQLSportsStatsv2_properties_typeProperties_database": {
+			"type": "string",
+			"defaultValue": "sports_stats_db"
+		},
+		"LinkedSQLSportsStatsv2_properties_typeProperties_userName": {
+			"type": "string",
+			"defaultValue": "eric"
+		},
+		"SportsStatsSQLDB_properties_typeProperties_server": {
+			"type": "string",
+			"defaultValue": "sports-stats-db-server.database.windows.net"
+		},
+		"SportsStatsSQLDB_properties_typeProperties_database": {
+			"type": "string",
+			"defaultValue": "sports_stats_db"
+		},
+		"SportsStatsSQLDB_properties_typeProperties_userName": {
+			"type": "string",
+			"defaultValue": "eric"
+		},
+		"containerUri": {
+			"type": "string",
+			"metadata": "URI to storage account containing linked ARM templates"
+		},
+		"containerSasToken": {
+			"type": "string",
+			"metadata": "Sas token to storage account containing linked ARM templates"
+		}
+	},
+	"variables": {
+		"factoryId": "[concat('Microsoft.DataFactory/factories/', parameters('factoryName'))]"
+	},
+	"resources": [
+		{
+			"name": "nfl-data-pipeline_ArmTemplate_0",
+			"type": "Microsoft.Resources/deployments",
+			"apiVersion": "2024-03-01",
+			"properties": {
+				"mode": "incremental",
+				"templateLink": {
+					"uri": "[concat(parameters('containerUri'), '/ArmTemplate_0.json', parameters('containerSasToken'))]",
+					"contentVersion": "1.0.0.0"
+				},
+				"parameters": {
+					"factoryName": {
+						"value": "[parameters('factoryName')]"
+					},
+					"AzureBlobStorage1_connectionString": {
+						"value": "[parameters('AzureBlobStorage1_connectionString')]"
+					},
+					"AzureBlobStorage2_nflstats_connectionString": {
+						"value": "[parameters('AzureBlobStorage2_nflstats_connectionString')]"
+					},
+					"LinkedSQLSportsStatsv2_password": {
+						"value": "[parameters('LinkedSQLSportsStatsv2_password')]"
+					},
+					"SportsStatsSQLDB_password": {
+						"value": "[parameters('SportsStatsSQLDB_password')]"
+					},
+					"LinkedSQLSportsStatsv2_properties_typeProperties_server": {
+						"value": "[parameters('LinkedSQLSportsStatsv2_properties_typeProperties_server')]"
+					},
+					"LinkedSQLSportsStatsv2_properties_typeProperties_database": {
+						"value": "[parameters('LinkedSQLSportsStatsv2_properties_typeProperties_database')]"
+					},
+					"LinkedSQLSportsStatsv2_properties_typeProperties_userName": {
+						"value": "[parameters('LinkedSQLSportsStatsv2_properties_typeProperties_userName')]"
+					},
+					"SportsStatsSQLDB_properties_typeProperties_server": {
+						"value": "[parameters('SportsStatsSQLDB_properties_typeProperties_server')]"
+					},
+					"SportsStatsSQLDB_properties_typeProperties_database": {
+						"value": "[parameters('SportsStatsSQLDB_properties_typeProperties_database')]"
+					},
+					"SportsStatsSQLDB_properties_typeProperties_userName": {
+						"value": "[parameters('SportsStatsSQLDB_properties_typeProperties_userName')]"
+					}
+				}
+			},
+			"dependsOn": []
+		}
+	]
+}

@@ -1,0 +1,45 @@
+{
+	"$schema": "https://schema.management.azure.com/schemas/2015-01-01/deploymentParameters.json#",
+	"contentVersion": "1.0.0.0",
+	"parameters": {
+		"factoryName": {
+			"value": "nfl-data-pipeline"
+		},
+		"AzureBlobStorage1_connectionString": {
+			"value": ""
+		},
+		"AzureBlobStorage2_nflstats_connectionString": {
+			"value": ""
+		},
+		"LinkedSQLSportsStatsv2_password": {
+			"value": ""
+		},
+		"SportsStatsSQLDB_password": {
+			"value": ""
+		},
+		"LinkedSQLSportsStatsv2_properties_typeProperties_server": {
+			"value": "sports-stats-db-server.database.windows.net"
+		},
+		"LinkedSQLSportsStatsv2_properties_typeProperties_database": {
+			"value": "sports_stats_db"
+		},
+		"LinkedSQLSportsStatsv2_properties_typeProperties_userName": {
+			"value": "eric"
+		},
+		"SportsStatsSQLDB_properties_typeProperties_server": {
+			"value": "sports-stats-db-server.database.windows.net"
+		},
+		"SportsStatsSQLDB_properties_typeProperties_database": {
+			"value": "sports_stats_db"
+		},
+		"SportsStatsSQLDB_properties_typeProperties_userName": {
+			"value": "eric"
+		},
+		"containerUri": {
+			"value": ""
+		},
+		"containerSasToken": {
+			"value": ""
+		}
+	}
+}
