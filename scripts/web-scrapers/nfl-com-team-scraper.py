@@ -39,17 +39,20 @@ def fetch_with_retry(url, retries=3):
         time.sleep(3)
     return None
 
-# Function to clean up team names and data
+# Function to clean up team names and ensure all other fields are numeric
 def clean_data(df):
     # Clean team names: remove quotes, newlines, excessive spaces
     df['Team'] = df['Team'].replace('"', '', regex=True).replace(r'\s+', ' ', regex=True).str.strip()
 
+    # Remove duplicate team names (if team name appears twice, e.g., "49ers 49ers")
+    df['Team'] = df['Team'].apply(lambda x: x.split()[0] if len(set(x.split())) == 1 else x.split()[0])
+
     # Clean numeric columns: remove non-numeric characters, handle NaNs
     for col in df.columns:
-        if col != 'Team':
-            df[col] = df[col].str.extract('(\d+)', expand=False).fillna(0)
-            df[col] = pd.to_numeric(df[col], errors='coerce').fillna(0).astype(int)
-    
+        if col != 'Team':  # Ensure 'Team' stays as a string
+            df[col] = df[col].str.extract('(\d+)', expand=False)  # Extract only numeric part
+            df[col] = pd.to_numeric(df[col], errors='coerce').fillna(0).astype(int)  # Convert to integer
+
     return df
 
 # Function to fetch and parse data
@@ -112,14 +115,26 @@ os.makedirs(secondary_output_folder, exist_ok=True)
 # Save merged data to CSV in both locations
 if offense_merged is not None:
     offense_file = "nfl-team-stats-off-2024.csv"
+    # For secondary folder, append the current date to avoid overwriting (no time in filename)
+    offense_file_secondary = f"nfl-team-stats-off-2024-{current_date}.csv"
+    
+    # Save in primary folder (with fixed filename for weekly updates)
     offense_merged.to_csv(os.path.join(primary_output_folder, offense_file), index=False)
-    offense_merged.to_csv(os.path.join(secondary_output_folder, offense_file), index=False)
-    print(f"Offense data saved to {primary_output_folder} and {secondary_output_folder}")
+    
+    # Save in secondary folder (with date in filename, overwriting if run again on the same day)
+    offense_merged.to_csv(os.path.join(secondary_output_folder, offense_file_secondary), index=False)
+    
+    print(f"Offense data saved to {primary_output_folder} and {secondary_output_folder} with date in secondary filename.")
 
 if defense_merged is not None:
     defense_file = "nfl-team-stats-def-2024.csv"
+    # For secondary folder, append the current date to avoid overwriting (no time in filename)
+    defense_file_secondary = f"nfl-team-stats-def-2024-{current_date}.csv"
+    
+    # Save in primary folder (with fixed filename for weekly updates)
     defense_merged.to_csv(os.path.join(primary_output_folder, defense_file), index=False)
-    defense_merged.to_csv(os.path.join(secondary_output_folder, defense_file), index=False)
-    print(f"Defense data saved to {primary_output_folder} and {secondary_output_folder}")
-
-
+    
+    # Save in secondary folder (with date in filename, overwriting if run again on the same day)
+    defense_merged.to_csv(os.path.join(secondary_output_folder, defense_file_secondary), index=False)
+    
+    print(f"Defense data saved to {primary_output_folder} and {secondary_output_folder} with date in secondary filename.")
