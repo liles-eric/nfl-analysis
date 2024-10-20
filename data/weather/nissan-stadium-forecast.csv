@@ -1,0 +1,15 @@
+Team,Actual Date,Period,Time (Day/Night),Temperature,Temperature Unit,Wind Speed,Wind Direction,Detailed Forecast,Combined Date Time,Date Ran,DateTime Ran
+Titans,2024-10-20,Today,Day,77,F,0 to 5 mph,NNE,"Sunny, with a high near 77. North northeast wind 0 to 5 mph.",2024-10-20 10:00,2024-10-20,2024-10-20 11:21:07
+Titans,2024-10-20,Tonight,Day,44,F,0 mph,,"Patchy fog after 4am. Mostly clear, with a low around 44. Northeast wind around 0 mph.",2024-10-20 10:00,2024-10-20,2024-10-20 11:21:07
+Titans,2024-10-20,Monday,Day,79,F,0 to 5 mph,ENE,"Areas of fog before 9am. Sunny, with a high near 79. East northeast wind 0 to 5 mph.",2024-10-22 10:00,2024-10-20,2024-10-20 11:21:07
+Titans,2024-10-20,Monday Night,Night,48,F,0 mph,,"Mostly clear, with a low around 48. East southeast wind around 0 mph.",2024-10-22 20:00,2024-10-20,2024-10-20 11:21:07
+Titans,2024-10-20,Tuesday,Day,82,F,0 to 10 mph,S,"Sunny, with a high near 82. South wind 0 to 10 mph.",2024-10-23 10:00,2024-10-20,2024-10-20 11:21:07
+Titans,2024-10-20,Tuesday Night,Night,54,F,5 mph,S,"Mostly clear, with a low around 54. South wind around 5 mph.",2024-10-23 20:00,2024-10-20,2024-10-20 11:21:07
+Titans,2024-10-20,Wednesday,Day,83,F,5 to 10 mph,SW,"Sunny, with a high near 83. Southwest wind 5 to 10 mph.",2024-10-24 10:00,2024-10-20,2024-10-20 11:21:07
+Titans,2024-10-20,Wednesday Night,Night,52,F,5 mph,NNW,"Mostly clear, with a low around 52. North northwest wind around 5 mph.",2024-10-24 20:00,2024-10-20,2024-10-20 11:21:07
+Titans,2024-10-20,Thursday,Day,73,F,5 mph,NNE,"Sunny, with a high near 73. North northeast wind around 5 mph.",2024-10-25 10:00,2024-10-20,2024-10-20 11:21:07
+Titans,2024-10-20,Thursday Night,Night,46,F,0 to 5 mph,NE,"Mostly clear, with a low around 46.",2024-10-25 20:00,2024-10-20,2024-10-20 11:21:07
+Titans,2024-10-20,Friday,Day,75,F,0 to 5 mph,E,"Sunny, with a high near 75.",2024-10-26 10:00,2024-10-20,2024-10-20 11:21:07
+Titans,2024-10-20,Friday Night,Night,50,F,5 mph,SE,"Mostly clear, with a low around 50.",2024-10-26 20:00,2024-10-20,2024-10-20 11:21:07
+Titans,2024-10-20,Saturday,Day,80,F,5 to 10 mph,S,"Sunny, with a high near 80.",2024-10-27 10:00,2024-10-20,2024-10-20 11:21:07
+Titans,2024-10-20,Saturday Night,Night,56,F,5 to 10 mph,S,"Mostly clear, with a low around 56.",2024-10-27 20:00,2024-10-20,2024-10-20 11:21:07

@@ -1,0 +1,15 @@
+Team,Actual Date,Period,Time (Day/Night),Temperature,Temperature Unit,Wind Speed,Wind Direction,Detailed Forecast,Combined Date Time,Date Ran,DateTime Ran
+49ers,2024-10-20,Today,Day,78,F,1 to 9 mph,WNW,"Sunny. High near 78, with temperatures falling to around 75 in the afternoon. West northwest wind 1 to 9 mph.",2024-10-20 10:00,2024-10-20,2024-10-20 11:21:07
+49ers,2024-10-20,Tonight,Day,50,F,2 to 6 mph,WNW,"Partly cloudy, with a low around 50. West northwest wind 2 to 6 mph.",2024-10-20 10:00,2024-10-20,2024-10-20 11:21:07
+49ers,2024-10-20,Monday,Day,72,F,1 to 10 mph,WNW,"Sunny. High near 72, with temperatures falling to around 68 in the afternoon. West northwest wind 1 to 10 mph.",2024-10-22 10:00,2024-10-20,2024-10-20 11:21:07
+49ers,2024-10-20,Monday Night,Night,50,F,2 to 8 mph,WNW,"Patchy fog after 4am. Mostly clear, with a low around 50. West northwest wind 2 to 8 mph.",2024-10-22 20:00,2024-10-20,2024-10-20 11:21:07
+49ers,2024-10-20,Tuesday,Day,73,F,2 to 9 mph,WNW,"Patchy fog before 8am. Sunny, with a high near 73. West northwest wind 2 to 9 mph.",2024-10-23 10:00,2024-10-20,2024-10-20 11:21:07
+49ers,2024-10-20,Tuesday Night,Night,52,F,2 to 7 mph,NNE,"Clear, with a low around 52.",2024-10-23 20:00,2024-10-20,2024-10-20 11:21:07
+49ers,2024-10-20,Wednesday,Day,79,F,2 to 6 mph,N,"Sunny, with a high near 79.",2024-10-24 10:00,2024-10-20,2024-10-20 11:21:07
+49ers,2024-10-20,Wednesday Night,Night,53,F,6 mph,WSW,"Mostly clear, with a low around 53.",2024-10-24 20:00,2024-10-20,2024-10-20 11:21:07
+49ers,2024-10-20,Thursday,Day,75,F,3 to 7 mph,WSW,"A slight chance of drizzle after 5pm. Mostly sunny, with a high near 75.",2024-10-25 10:00,2024-10-20,2024-10-20 11:21:07
+49ers,2024-10-20,Thursday Night,Night,53,F,3 to 7 mph,SSW,"A slight chance of drizzle before 11pm, then a slight chance of rain between 11pm and 5am, then a slight chance of drizzle. Mostly cloudy, with a low around 53.",2024-10-25 20:00,2024-10-20,2024-10-20 11:21:07
+49ers,2024-10-20,Friday,Day,71,F,3 to 8 mph,W,"A slight chance of drizzle before 11am. Mostly sunny, with a high near 71.",2024-10-26 10:00,2024-10-20,2024-10-20 11:21:07
+49ers,2024-10-20,Friday Night,Night,52,F,2 to 8 mph,NNW,"Partly cloudy, with a low around 52.",2024-10-26 20:00,2024-10-20,2024-10-20 11:21:07
+49ers,2024-10-20,Saturday,Day,72,F,2 to 8 mph,NNW,"Sunny, with a high near 72.",2024-10-27 10:00,2024-10-20,2024-10-20 11:21:07
+49ers,2024-10-20,Saturday Night,Night,52,F,2 to 8 mph,NNW,"Partly cloudy, with a low around 52.",2024-10-27 20:00,2024-10-20,2024-10-20 11:21:07

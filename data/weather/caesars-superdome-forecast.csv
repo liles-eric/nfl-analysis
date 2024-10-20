@@ -1,0 +1,15 @@
+Team,Actual Date,Period,Time (Day/Night),Temperature,Temperature Unit,Wind Speed,Wind Direction,Detailed Forecast,Combined Date Time,Date Ran,DateTime Ran
+Saints,2024-10-20,Today,Day,78,F,5 to 10 mph,NE,"Sunny. High near 78, with temperatures falling to around 76 in the afternoon. Northeast wind 5 to 10 mph.",2024-10-20 10:00,2024-10-20,2024-10-20 11:21:07
+Saints,2024-10-20,Tonight,Day,61,F,0 to 5 mph,NE,"Clear. Low around 61, with temperatures rising to around 63 overnight. Northeast wind 0 to 5 mph.",2024-10-20 10:00,2024-10-20,2024-10-20 11:21:07
+Saints,2024-10-20,Monday,Day,78,F,5 to 10 mph,E,"Sunny. High near 78, with temperatures falling to around 75 in the afternoon. East wind 5 to 10 mph.",2024-10-22 10:00,2024-10-20,2024-10-20 11:21:07
+Saints,2024-10-20,Monday Night,Night,61,F,0 to 5 mph,E,"Clear, with a low around 61. East wind 0 to 5 mph.",2024-10-22 20:00,2024-10-20,2024-10-20 11:21:07
+Saints,2024-10-20,Tuesday,Day,80,F,5 mph,NE,"Sunny, with a high near 80. Northeast wind around 5 mph.",2024-10-23 10:00,2024-10-20,2024-10-20 11:21:07
+Saints,2024-10-20,Tuesday Night,Night,62,F,0 to 5 mph,E,"Mostly clear, with a low around 62. East wind 0 to 5 mph.",2024-10-23 20:00,2024-10-20,2024-10-20 11:21:07
+Saints,2024-10-20,Wednesday,Day,81,F,0 to 5 mph,NE,"Sunny, with a high near 81. Northeast wind 0 to 5 mph.",2024-10-24 10:00,2024-10-20,2024-10-20 11:21:07
+Saints,2024-10-20,Wednesday Night,Night,63,F,0 to 5 mph,SW,"Mostly clear, with a low around 63. Southwest wind 0 to 5 mph.",2024-10-24 20:00,2024-10-20,2024-10-20 11:21:07
+Saints,2024-10-20,Thursday,Day,83,F,0 to 5 mph,N,"Sunny, with a high near 83. North wind 0 to 5 mph.",2024-10-25 10:00,2024-10-20,2024-10-20 11:21:07
+Saints,2024-10-20,Thursday Night,Night,64,F,0 to 5 mph,SW,"Mostly clear, with a low around 64. Southwest wind 0 to 5 mph.",2024-10-25 20:00,2024-10-20,2024-10-20 11:21:07
+Saints,2024-10-20,Friday,Day,81,F,5 mph,NE,"Sunny, with a high near 81. Northeast wind around 5 mph.",2024-10-26 10:00,2024-10-20,2024-10-20 11:21:07
+Saints,2024-10-20,Friday Night,Night,64,F,0 to 5 mph,E,"Clear, with a low around 64. East wind 0 to 5 mph.",2024-10-26 20:00,2024-10-20,2024-10-20 11:21:07
+Saints,2024-10-20,Saturday,Day,81,F,0 to 5 mph,E,"Sunny, with a high near 81. East wind 0 to 5 mph.",2024-10-27 10:00,2024-10-20,2024-10-20 11:21:07
+Saints,2024-10-20,Saturday Night,Night,65,F,5 mph,E,"Mostly clear, with a low around 65. East wind around 5 mph.",2024-10-27 20:00,2024-10-20,2024-10-20 11:21:07

@@ -1,0 +1,15 @@
+Team,Actual Date,Period,Time (Day/Night),Temperature,Temperature Unit,Wind Speed,Wind Direction,Detailed Forecast,Combined Date Time,Date Ran,DateTime Ran
+Giants,2024-10-20,Today,Day,75,F,2 to 6 mph,SW,"Sunny. High near 75, with temperatures falling to around 73 in the afternoon. Southwest wind 2 to 6 mph.",2024-10-20 10:00,2024-10-20,2024-10-20 11:21:07
+Giants,2024-10-20,Tonight,Day,52,F,2 to 6 mph,SW,"Clear, with a low around 52. Southwest wind 2 to 6 mph.",2024-10-20 10:00,2024-10-20,2024-10-20 11:21:07
+Giants,2024-10-20,Monday,Day,80,F,6 mph,W,"Sunny, with a high near 80. West wind around 6 mph.",2024-10-22 10:00,2024-10-20,2024-10-20 11:21:07
+Giants,2024-10-20,Monday Night,Night,57,F,2 to 6 mph,NW,"Mostly clear. Low around 57, with temperatures rising to around 59 overnight. Northwest wind 2 to 6 mph.",2024-10-22 20:00,2024-10-20,2024-10-20 11:21:07
+Giants,2024-10-20,Tuesday,Day,78,F,2 to 6 mph,NE,"Sunny. High near 78, with temperatures falling to around 75 in the afternoon. Northeast wind 2 to 6 mph.",2024-10-23 10:00,2024-10-20,2024-10-20 11:21:07
+Giants,2024-10-20,Tuesday Night,Night,53,F,2 to 6 mph,S,"Mostly clear. Low around 53, with temperatures rising to around 56 overnight.",2024-10-23 20:00,2024-10-20,2024-10-20 11:21:07
+Giants,2024-10-20,Wednesday,Day,76,F,2 to 9 mph,S,"Sunny, with a high near 76.",2024-10-24 10:00,2024-10-20,2024-10-20 11:21:07
+Giants,2024-10-20,Wednesday Night,Night,53,F,6 to 9 mph,SW,"A slight chance of rain showers after 2am. Partly cloudy, with a low around 53.",2024-10-24 20:00,2024-10-20,2024-10-20 11:21:07
+Giants,2024-10-20,Thursday,Day,65,F,8 to 12 mph,NW,"Sunny, with a high near 65.",2024-10-25 10:00,2024-10-20,2024-10-20 11:21:07
+Giants,2024-10-20,Thursday Night,Night,44,F,6 to 10 mph,NW,"Mostly clear, with a low around 44.",2024-10-25 20:00,2024-10-20,2024-10-20 11:21:07
+Giants,2024-10-20,Friday,Day,61,F,7 mph,NW,"Mostly sunny, with a high near 61.",2024-10-26 10:00,2024-10-20,2024-10-20 11:21:07
+Giants,2024-10-20,Friday Night,Night,45,F,3 to 7 mph,NW,"Mostly clear, with a low around 45.",2024-10-26 20:00,2024-10-20,2024-10-20 11:21:07
+Giants,2024-10-20,Saturday,Day,64,F,5 to 8 mph,SW,"Mostly sunny, with a high near 64.",2024-10-27 10:00,2024-10-20,2024-10-20 11:21:07
+Giants,2024-10-20,Saturday Night,Night,47,F,7 mph,W,"Partly cloudy, with a low around 47.",2024-10-27 20:00,2024-10-20,2024-10-20 11:21:07

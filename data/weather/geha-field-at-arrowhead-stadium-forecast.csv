@@ -1,0 +1,15 @@
+Team,Actual Date,Period,Time (Day/Night),Temperature,Temperature Unit,Wind Speed,Wind Direction,Detailed Forecast,Combined Date Time,Date Ran,DateTime Ran
+Chiefs,2024-10-20,Today,Day,79,F,8 mph,SW,"Sunny, with a high near 79. Southwest wind around 8 mph.",2024-10-20 10:00,2024-10-20,2024-10-20 11:21:07
+Chiefs,2024-10-20,Tonight,Day,53,F,7 mph,S,"Mostly clear, with a low around 53. South wind around 7 mph.",2024-10-20 10:00,2024-10-20,2024-10-20 11:21:07
+Chiefs,2024-10-20,Monday,Day,80,F,6 to 13 mph,S,"Sunny, with a high near 80. South wind 6 to 13 mph, with gusts as high as 22 mph.",2024-10-22 10:00,2024-10-20,2024-10-20 11:21:07
+Chiefs,2024-10-20,Monday Night,Night,59,F,8 to 13 mph,S,"Rain showers likely between 7pm and 1am, then a chance of showers and thunderstorms. Partly cloudy, with a low around 59. South wind 8 to 13 mph, with gusts as high as 22 mph. Chance of precipitation is 60%. New rainfall amounts less than a tenth of an inch possible.",2024-10-22 20:00,2024-10-20,2024-10-20 11:21:07
+Chiefs,2024-10-20,Tuesday,Day,83,F,8 to 13 mph,SW,"A chance of showers and thunderstorms before 7am. Sunny, with a high near 83. Southwest wind 8 to 13 mph, with gusts as high as 22 mph. Chance of precipitation is 40%. New rainfall amounts less than a tenth of an inch possible.",2024-10-23 10:00,2024-10-20,2024-10-20 11:21:07
+Chiefs,2024-10-20,Tuesday Night,Night,56,F,2 to 6 mph,WNW,"Clear, with a low around 56.",2024-10-23 20:00,2024-10-20,2024-10-20 11:21:07
+Chiefs,2024-10-20,Wednesday,Day,73,F,5 to 10 mph,N,"Sunny, with a high near 73.",2024-10-24 10:00,2024-10-20,2024-10-20 11:21:07
+Chiefs,2024-10-20,Wednesday Night,Night,44,F,6 to 9 mph,NE,"Clear, with a low around 44.",2024-10-24 20:00,2024-10-20,2024-10-20 11:21:07
+Chiefs,2024-10-20,Thursday,Day,67,F,6 to 9 mph,ESE,"Sunny, with a high near 67.",2024-10-25 10:00,2024-10-20,2024-10-20 11:21:07
+Chiefs,2024-10-20,Thursday Night,Night,49,F,8 mph,SSE,"A slight chance of showers and thunderstorms after 7pm. Mostly clear, with a low around 49.",2024-10-25 20:00,2024-10-20,2024-10-20 11:21:07
+Chiefs,2024-10-20,Friday,Day,73,F,7 to 12 mph,S,"A slight chance of showers and thunderstorms before 7am. Sunny, with a high near 73.",2024-10-26 10:00,2024-10-20,2024-10-20 11:21:07
+Chiefs,2024-10-20,Friday Night,Night,53,F,10 mph,SSE,"A slight chance of rain showers between 7pm and 1am. Mostly clear, with a low around 53.",2024-10-26 20:00,2024-10-20,2024-10-20 11:21:07
+Chiefs,2024-10-20,Saturday,Day,74,F,10 to 14 mph,SSW,"Mostly sunny, with a high near 74.",2024-10-27 10:00,2024-10-20,2024-10-20 11:21:07
+Chiefs,2024-10-20,Saturday Night,Night,49,F,7 to 10 mph,WNW,"Mostly clear, with a low around 49.",2024-10-27 20:00,2024-10-20,2024-10-20 11:21:07

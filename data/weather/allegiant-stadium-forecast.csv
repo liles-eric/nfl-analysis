@@ -1,0 +1,15 @@
+Team,Actual Date,Period,Time (Day/Night),Temperature,Temperature Unit,Wind Speed,Wind Direction,Detailed Forecast,Combined Date Time,Date Ran,DateTime Ran
+Raiders,2024-10-20,Today,Day,78,F,5 mph,E,"Sunny, with a high near 78. East wind around 5 mph.",2024-10-20 10:00,2024-10-20,2024-10-20 11:21:07
+Raiders,2024-10-20,Tonight,Day,57,F,5 mph,NW,"Mostly clear. Low around 57, with temperatures rising to around 59 overnight. Northwest wind around 5 mph.",2024-10-20 10:00,2024-10-20,2024-10-20 11:21:07
+Raiders,2024-10-20,Monday,Day,80,F,3 mph,NNE,"Sunny, with a high near 80. North northeast wind around 3 mph.",2024-10-22 10:00,2024-10-20,2024-10-20 11:21:07
+Raiders,2024-10-20,Monday Night,Night,59,F,5 mph,NNW,"Mostly clear, with a low around 59. North northwest wind around 5 mph.",2024-10-22 20:00,2024-10-20,2024-10-20 11:21:07
+Raiders,2024-10-20,Tuesday,Day,84,F,5 mph,NNE,"Sunny, with a high near 84. North northeast wind around 5 mph.",2024-10-23 10:00,2024-10-20,2024-10-20 11:21:07
+Raiders,2024-10-20,Tuesday Night,Night,61,F,5 mph,NW,"Clear, with a low around 61.",2024-10-23 20:00,2024-10-20,2024-10-20 11:21:07
+Raiders,2024-10-20,Wednesday,Day,87,F,5 mph,NNE,"Sunny, with a high near 87.",2024-10-24 10:00,2024-10-20,2024-10-20 11:21:07
+Raiders,2024-10-20,Wednesday Night,Night,63,F,5 mph,WNW,"Mostly clear, with a low around 63.",2024-10-24 20:00,2024-10-20,2024-10-20 11:21:07
+Raiders,2024-10-20,Thursday,Day,88,F,6 mph,E,"Sunny, with a high near 88.",2024-10-25 10:00,2024-10-20,2024-10-20 11:21:07
+Raiders,2024-10-20,Thursday Night,Night,62,F,6 mph,SW,"Mostly clear, with a low around 62.",2024-10-25 20:00,2024-10-20,2024-10-20 11:21:07
+Raiders,2024-10-20,Friday,Day,86,F,7 mph,SSW,"Sunny, with a high near 86.",2024-10-26 10:00,2024-10-20,2024-10-20 11:21:07
+Raiders,2024-10-20,Friday Night,Night,60,F,6 mph,WSW,"Mostly clear, with a low around 60.",2024-10-26 20:00,2024-10-20,2024-10-20 11:21:07
+Raiders,2024-10-20,Saturday,Day,85,F,6 mph,NNE,"Sunny, with a high near 85.",2024-10-27 10:00,2024-10-20,2024-10-20 11:21:07
+Raiders,2024-10-20,Saturday Night,Night,60,F,5 mph,NW,"Mostly clear, with a low around 60.",2024-10-27 20:00,2024-10-20,2024-10-20 11:21:07

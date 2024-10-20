@@ -1,0 +1,15 @@
+Team,Actual Date,Period,Time (Day/Night),Temperature,Temperature Unit,Wind Speed,Wind Direction,Detailed Forecast,Combined Date Time,Date Ran,DateTime Ran
+Cardinals,2024-10-20,Today,Day,81,F,0 to 5 mph,NE,"Sunny. High near 81, with temperatures falling to around 79 in the afternoon. Northeast wind 0 to 5 mph.",2024-10-20 10:00,2024-10-20,2024-10-20 11:21:07
+Cardinals,2024-10-20,Tonight,Day,56,F,0 to 5 mph,N,"Mostly clear, with a low around 56. North wind 0 to 5 mph.",2024-10-20 10:00,2024-10-20,2024-10-20 11:21:07
+Cardinals,2024-10-20,Monday,Day,88,F,0 to 5 mph,NNE,"Sunny. High near 88, with temperatures falling to around 86 in the afternoon. North northeast wind 0 to 5 mph.",2024-10-22 10:00,2024-10-20,2024-10-20 11:21:07
+Cardinals,2024-10-20,Monday Night,Night,58,F,0 to 5 mph,N,"Mostly clear, with a low around 58. North wind 0 to 5 mph.",2024-10-22 20:00,2024-10-20,2024-10-20 11:21:07
+Cardinals,2024-10-20,Tuesday,Day,94,F,0 to 5 mph,NE,"Sunny, with a high near 94. Northeast wind 0 to 5 mph.",2024-10-23 10:00,2024-10-20,2024-10-20 11:21:07
+Cardinals,2024-10-20,Tuesday Night,Night,62,F,0 to 5 mph,N,"Mostly clear, with a low around 62. North wind 0 to 5 mph.",2024-10-23 20:00,2024-10-20,2024-10-20 11:21:07
+Cardinals,2024-10-20,Wednesday,Day,96,F,0 to 5 mph,E,"Sunny, with a high near 96. East wind 0 to 5 mph.",2024-10-24 10:00,2024-10-20,2024-10-20 11:21:07
+Cardinals,2024-10-20,Wednesday Night,Night,63,F,0 to 5 mph,N,"Mostly clear, with a low around 63. North wind 0 to 5 mph.",2024-10-24 20:00,2024-10-20,2024-10-20 11:21:07
+Cardinals,2024-10-20,Thursday,Day,97,F,5 mph,SE,"Sunny, with a high near 97. Southeast wind around 5 mph.",2024-10-25 10:00,2024-10-20,2024-10-20 11:21:07
+Cardinals,2024-10-20,Thursday Night,Night,64,F,0 to 5 mph,NNW,"Mostly clear, with a low around 64. North northwest wind 0 to 5 mph.",2024-10-25 20:00,2024-10-20,2024-10-20 11:21:07
+Cardinals,2024-10-20,Friday,Day,96,F,5 mph,SSE,"Sunny, with a high near 96. South southeast wind around 5 mph.",2024-10-26 10:00,2024-10-20,2024-10-20 11:21:07
+Cardinals,2024-10-20,Friday Night,Night,62,F,0 to 5 mph,NNW,"Mostly clear, with a low around 62. North northwest wind 0 to 5 mph.",2024-10-26 20:00,2024-10-20,2024-10-20 11:21:07
+Cardinals,2024-10-20,Saturday,Day,95,F,5 mph,ESE,"Sunny, with a high near 95. East southeast wind around 5 mph.",2024-10-27 10:00,2024-10-20,2024-10-20 11:21:07
+Cardinals,2024-10-20,Saturday Night,Night,63,F,5 mph,N,"Partly cloudy, with a low around 63. North wind around 5 mph.",2024-10-27 20:00,2024-10-20,2024-10-20 11:21:07

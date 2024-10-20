@@ -1,0 +1,15 @@
+Team,Actual Date,Period,Time (Day/Night),Temperature,Temperature Unit,Wind Speed,Wind Direction,Detailed Forecast,Combined Date Time,Date Ran,DateTime Ran
+Bears,2024-10-20,Today,Day,78,F,10 mph,SW,"Sunny. High near 78, with temperatures falling to around 76 in the afternoon. Southwest wind around 10 mph, with gusts as high as 25 mph.",2024-10-20 10:00,2024-10-20,2024-10-20 11:21:07
+Bears,2024-10-20,Tonight,Day,55,F,10 mph,SW,"Clear. Low around 55, with temperatures rising to around 58 overnight. Southwest wind around 10 mph.",2024-10-20 10:00,2024-10-20,2024-10-20 11:21:07
+Bears,2024-10-20,Monday,Day,80,F,10 mph,SW,"Sunny. High near 80, with temperatures falling to around 78 in the afternoon. Southwest wind around 10 mph.",2024-10-22 10:00,2024-10-20,2024-10-20 11:21:07
+Bears,2024-10-20,Monday Night,Night,57,F,5 to 10 mph,SSW,"Partly cloudy, with a low around 57. South southwest wind 5 to 10 mph.",2024-10-22 20:00,2024-10-20,2024-10-20 11:21:07
+Bears,2024-10-20,Tuesday,Day,73,F,5 to 10 mph,S,"Partly sunny, with a high near 73. South wind 5 to 10 mph, with gusts as high as 20 mph.",2024-10-23 10:00,2024-10-20,2024-10-20 11:21:07
+Bears,2024-10-20,Tuesday Night,Night,58,F,5 to 10 mph,SW,"Mostly clear, with a low around 58.",2024-10-23 20:00,2024-10-20,2024-10-20 11:21:07
+Bears,2024-10-20,Wednesday,Day,65,F,5 to 15 mph,WNW,"A slight chance of rain showers after 7am. Mostly sunny, with a high near 65. Chance of precipitation is 20%.",2024-10-24 10:00,2024-10-20,2024-10-20 11:21:07
+Bears,2024-10-20,Wednesday Night,Night,45,F,5 to 15 mph,NW,"A slight chance of rain showers before 7pm. Mostly clear, with a low around 45.",2024-10-24 20:00,2024-10-20,2024-10-20 11:21:07
+Bears,2024-10-20,Thursday,Day,59,F,5 to 10 mph,WNW,"Sunny, with a high near 59.",2024-10-25 10:00,2024-10-20,2024-10-20 11:21:07
+Bears,2024-10-20,Thursday Night,Night,47,F,5 mph,S,"A slight chance of rain showers after 7pm. Partly cloudy, with a low around 47.",2024-10-25 20:00,2024-10-20,2024-10-20 11:21:07
+Bears,2024-10-20,Friday,Day,64,F,5 to 10 mph,S,"A slight chance of rain showers. Sunny, with a high near 64.",2024-10-26 10:00,2024-10-20,2024-10-20 11:21:07
+Bears,2024-10-20,Friday Night,Night,50,F,5 to 10 mph,S,"A slight chance of rain showers. Partly cloudy, with a low around 50.",2024-10-26 20:00,2024-10-20,2024-10-20 11:21:07
+Bears,2024-10-20,Saturday,Day,66,F,10 to 15 mph,SSW,"A slight chance of rain showers. Mostly sunny, with a high near 66.",2024-10-27 10:00,2024-10-20,2024-10-20 11:21:07
+Bears,2024-10-20,Saturday Night,Night,51,F,10 mph,S,"A chance of rain showers. Mostly cloudy, with a low around 51.",2024-10-27 20:00,2024-10-20,2024-10-20 11:21:07

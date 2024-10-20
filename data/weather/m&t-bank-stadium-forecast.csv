@@ -1,0 +1,15 @@
+Team,Actual Date,Period,Time (Day/Night),Temperature,Temperature Unit,Wind Speed,Wind Direction,Detailed Forecast,Combined Date Time,Date Ran,DateTime Ran
+Ravens,2024-10-20,Today,Day,76,F,3 mph,W,"Sunny, with a high near 76. West wind around 3 mph.",2024-10-20 10:00,2024-10-20,2024-10-20 11:21:07
+Ravens,2024-10-20,Tonight,Day,47,F,2 mph,W,"Clear, with a low around 47. West wind around 2 mph.",2024-10-20 10:00,2024-10-20,2024-10-20 11:21:07
+Ravens,2024-10-20,Monday,Day,79,F,5 mph,W,"Sunny, with a high near 79. West wind around 5 mph.",2024-10-22 10:00,2024-10-20,2024-10-20 11:21:07
+Ravens,2024-10-20,Monday Night,Night,52,F,3 mph,NW,"Clear, with a low around 52. Northwest wind around 3 mph.",2024-10-22 20:00,2024-10-20,2024-10-20 11:21:07
+Ravens,2024-10-20,Tuesday,Day,80,F,1 to 5 mph,E,"Sunny, with a high near 80. East wind 1 to 5 mph.",2024-10-23 10:00,2024-10-20,2024-10-20 11:21:07
+Ravens,2024-10-20,Tuesday Night,Night,51,F,3 mph,S,"Mostly clear, with a low around 51.",2024-10-23 20:00,2024-10-20,2024-10-20 11:21:07
+Ravens,2024-10-20,Wednesday,Day,76,F,2 to 8 mph,S,"Sunny, with a high near 76.",2024-10-24 10:00,2024-10-20,2024-10-20 11:21:07
+Ravens,2024-10-20,Wednesday Night,Night,54,F,6 to 9 mph,SW,"Partly cloudy, with a low around 54.",2024-10-24 20:00,2024-10-20,2024-10-20 11:21:07
+Ravens,2024-10-20,Thursday,Day,66,F,9 to 14 mph,NW,"Sunny, with a high near 66.",2024-10-25 10:00,2024-10-20,2024-10-20 11:21:07
+Ravens,2024-10-20,Thursday Night,Night,44,F,7 to 12 mph,N,"Mostly clear, with a low around 44.",2024-10-25 20:00,2024-10-20,2024-10-20 11:21:07
+Ravens,2024-10-20,Friday,Day,63,F,7 mph,NW,"Mostly sunny, with a high near 63.",2024-10-26 10:00,2024-10-20,2024-10-20 11:21:07
+Ravens,2024-10-20,Friday Night,Night,47,F,3 to 7 mph,NW,"Partly cloudy, with a low around 47.",2024-10-26 20:00,2024-10-20,2024-10-20 11:21:07
+Ravens,2024-10-20,Saturday,Day,67,F,5 to 9 mph,NE,"Mostly sunny, with a high near 67.",2024-10-27 10:00,2024-10-20,2024-10-20 11:21:07
+Ravens,2024-10-20,Saturday Night,Night,48,F,5 to 8 mph,SW,"Partly cloudy, with a low around 48.",2024-10-27 20:00,2024-10-20,2024-10-20 11:21:07

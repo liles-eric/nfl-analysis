@@ -1,0 +1,15 @@
+Team,Actual Date,Period,Time (Day/Night),Temperature,Temperature Unit,Wind Speed,Wind Direction,Detailed Forecast,Combined Date Time,Date Ran,DateTime Ran
+Cowboys,2024-10-20,Today,Day,81,F,5 mph,ESE,"Sunny, with a high near 81. East southeast wind around 5 mph.",2024-10-20 10:00,2024-10-20,2024-10-20 11:21:07
+Cowboys,2024-10-20,Tonight,Day,58,F,5 mph,SE,"Mostly clear, with a low around 58. Southeast wind around 5 mph.",2024-10-20 10:00,2024-10-20,2024-10-20 11:21:07
+Cowboys,2024-10-20,Monday,Day,83,F,5 to 10 mph,SSE,"Sunny. High near 83, with temperatures falling to around 81 in the afternoon. South southeast wind 5 to 10 mph, with gusts as high as 20 mph.",2024-10-22 10:00,2024-10-20,2024-10-20 11:21:07
+Cowboys,2024-10-20,Monday Night,Night,64,F,5 to 10 mph,S,"Clear, with a low around 64. South wind 5 to 10 mph.",2024-10-22 20:00,2024-10-20,2024-10-20 11:21:07
+Cowboys,2024-10-20,Tuesday,Day,88,F,5 to 10 mph,SSW,"Sunny, with a high near 88. South southwest wind 5 to 10 mph.",2024-10-23 10:00,2024-10-20,2024-10-20 11:21:07
+Cowboys,2024-10-20,Tuesday Night,Night,67,F,5 mph,S,"Mostly clear, with a low around 67. South wind around 5 mph.",2024-10-23 20:00,2024-10-20,2024-10-20 11:21:07
+Cowboys,2024-10-20,Wednesday,Day,91,F,5 mph,SSW,"Sunny, with a high near 91. South southwest wind around 5 mph.",2024-10-24 10:00,2024-10-20,2024-10-20 11:21:07
+Cowboys,2024-10-20,Wednesday Night,Night,66,F,5 mph,SSE,"Mostly clear, with a low around 66. South southeast wind around 5 mph.",2024-10-24 20:00,2024-10-20,2024-10-20 11:21:07
+Cowboys,2024-10-20,Thursday,Day,86,F,5 to 10 mph,SSE,"Sunny, with a high near 86. South southeast wind 5 to 10 mph.",2024-10-25 10:00,2024-10-20,2024-10-20 11:21:07
+Cowboys,2024-10-20,Thursday Night,Night,63,F,5 to 10 mph,SSE,"Clear, with a low around 63.",2024-10-25 20:00,2024-10-20,2024-10-20 11:21:07
+Cowboys,2024-10-20,Friday,Day,86,F,10 mph,S,"Sunny, with a high near 86.",2024-10-26 10:00,2024-10-20,2024-10-20 11:21:07
+Cowboys,2024-10-20,Friday Night,Night,64,F,5 to 10 mph,S,"Clear, with a low around 64.",2024-10-26 20:00,2024-10-20,2024-10-20 11:21:07
+Cowboys,2024-10-20,Saturday,Day,87,F,10 mph,S,"Sunny, with a high near 87.",2024-10-27 10:00,2024-10-20,2024-10-20 11:21:07
+Cowboys,2024-10-20,Saturday Night,Night,64,F,10 mph,S,"Mostly clear, with a low around 64.",2024-10-27 20:00,2024-10-20,2024-10-20 11:21:07

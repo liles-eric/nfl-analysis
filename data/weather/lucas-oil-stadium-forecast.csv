@@ -1,0 +1,15 @@
+Team,Actual Date,Period,Time (Day/Night),Temperature,Temperature Unit,Wind Speed,Wind Direction,Detailed Forecast,Combined Date Time,Date Ran,DateTime Ran
+Colts,2024-10-20,Today,Day,73,F,6 mph,SW,"Sunny, with a high near 73. Southwest wind around 6 mph.",2024-10-20 10:00,2024-10-20,2024-10-20 11:21:07
+Colts,2024-10-20,Tonight,Day,46,F,6 mph,SSW,"Clear. Low around 46, with temperatures rising to around 48 overnight. South southwest wind around 6 mph.",2024-10-20 10:00,2024-10-20,2024-10-20 11:21:07
+Colts,2024-10-20,Monday,Day,77,F,2 to 6 mph,SSW,"Sunny, with a high near 77. South southwest wind 2 to 6 mph.",2024-10-22 10:00,2024-10-20,2024-10-20 11:21:07
+Colts,2024-10-20,Monday Night,Night,48,F,2 to 6 mph,S,"Mostly clear, with a low around 48. South wind 2 to 6 mph.",2024-10-22 20:00,2024-10-20,2024-10-20 11:21:07
+Colts,2024-10-20,Tuesday,Day,76,F,2 to 10 mph,S,"Mostly sunny, with a high near 76. South wind 2 to 10 mph.",2024-10-23 10:00,2024-10-20,2024-10-20 11:21:07
+Colts,2024-10-20,Tuesday Night,Night,56,F,9 mph,SSW,"Mostly clear, with a low around 56. South southwest wind around 9 mph.",2024-10-23 20:00,2024-10-20,2024-10-20 11:21:07
+Colts,2024-10-20,Wednesday,Day,77,F,6 to 10 mph,WSW,"Sunny, with a high near 77. West southwest wind 6 to 10 mph, with gusts as high as 18 mph.",2024-10-24 10:00,2024-10-20,2024-10-20 11:21:07
+Colts,2024-10-20,Wednesday Night,Night,43,F,6 to 10 mph,NNW,"Mostly clear, with a low around 43. North northwest wind 6 to 10 mph.",2024-10-24 20:00,2024-10-20,2024-10-20 11:21:07
+Colts,2024-10-20,Thursday,Day,62,F,6 mph,N,"Sunny, with a high near 62. North wind around 6 mph.",2024-10-25 10:00,2024-10-20,2024-10-20 11:21:07
+Colts,2024-10-20,Thursday Night,Night,42,F,6 mph,E,"Mostly clear, with a low around 42. East wind around 6 mph.",2024-10-25 20:00,2024-10-20,2024-10-20 11:21:07
+Colts,2024-10-20,Friday,Day,66,F,3 to 7 mph,SSE,"Sunny, with a high near 66.",2024-10-26 10:00,2024-10-20,2024-10-20 11:21:07
+Colts,2024-10-20,Friday Night,Night,47,F,7 mph,S,"Mostly clear, with a low around 47.",2024-10-26 20:00,2024-10-20,2024-10-20 11:21:07
+Colts,2024-10-20,Saturday,Day,69,F,6 to 10 mph,SSE,"Mostly sunny, with a high near 69.",2024-10-27 10:00,2024-10-20,2024-10-20 11:21:07
+Colts,2024-10-20,Saturday Night,Night,50,F,7 to 10 mph,S,"A slight chance of rain showers after 8pm. Partly cloudy, with a low around 50. Chance of precipitation is 20%.",2024-10-27 20:00,2024-10-20,2024-10-20 11:21:07

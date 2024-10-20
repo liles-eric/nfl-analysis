@@ -1,0 +1,15 @@
+Team,Actual Date,Period,Time (Day/Night),Temperature,Temperature Unit,Wind Speed,Wind Direction,Detailed Forecast,Combined Date Time,Date Ran,DateTime Ran
+Texans,2024-10-20,Today,Day,85,F,5 to 10 mph,E,"Sunny, with a high near 85. East wind 5 to 10 mph.",2024-10-20 10:00,2024-10-20,2024-10-20 11:21:07
+Texans,2024-10-20,Tonight,Day,62,F,5 to 10 mph,E,"Clear, with a low around 62. East wind 5 to 10 mph.",2024-10-20 10:00,2024-10-20,2024-10-20 11:21:07
+Texans,2024-10-20,Monday,Day,85,F,5 to 10 mph,E,"Sunny, with a high near 85. East wind 5 to 10 mph.",2024-10-22 10:00,2024-10-20,2024-10-20 11:21:07
+Texans,2024-10-20,Monday Night,Night,63,F,0 to 10 mph,SE,"Mostly clear, with a low around 63. Southeast wind 0 to 10 mph.",2024-10-22 20:00,2024-10-20,2024-10-20 11:21:07
+Texans,2024-10-20,Tuesday,Day,88,F,5 mph,E,"Mostly sunny, with a high near 88. East wind around 5 mph.",2024-10-23 10:00,2024-10-20,2024-10-20 11:21:07
+Texans,2024-10-20,Tuesday Night,Night,65,F,0 to 10 mph,SE,"Partly cloudy, with a low around 65.",2024-10-23 20:00,2024-10-20,2024-10-20 11:21:07
+Texans,2024-10-20,Wednesday,Day,89,F,0 to 5 mph,SE,"Sunny, with a high near 89.",2024-10-24 10:00,2024-10-20,2024-10-20 11:21:07
+Texans,2024-10-20,Wednesday Night,Night,64,F,0 to 10 mph,S,"Mostly clear, with a low around 64.",2024-10-24 20:00,2024-10-20,2024-10-20 11:21:07
+Texans,2024-10-20,Thursday,Day,90,F,0 to 10 mph,E,"Mostly sunny, with a high near 90.",2024-10-25 10:00,2024-10-20,2024-10-20 11:21:07
+Texans,2024-10-20,Thursday Night,Night,66,F,5 to 10 mph,SE,"Mostly clear, with a low around 66.",2024-10-25 20:00,2024-10-20,2024-10-20 11:21:07
+Texans,2024-10-20,Friday,Day,89,F,5 to 10 mph,SE,"Sunny, with a high near 89.",2024-10-26 10:00,2024-10-20,2024-10-20 11:21:07
+Texans,2024-10-20,Friday Night,Night,67,F,5 to 10 mph,SE,"Mostly clear, with a low around 67.",2024-10-26 20:00,2024-10-20,2024-10-20 11:21:07
+Texans,2024-10-20,Saturday,Day,88,F,5 to 10 mph,SE,"Sunny, with a high near 88.",2024-10-27 10:00,2024-10-20,2024-10-20 11:21:07
+Texans,2024-10-20,Saturday Night,Night,67,F,5 to 10 mph,SE,"Mostly clear, with a low around 67.",2024-10-27 20:00,2024-10-20,2024-10-20 11:21:07
