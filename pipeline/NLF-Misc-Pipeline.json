@@ -1,6 +1,207 @@
 {
 	"name": "NLF-Misc-Pipeline",
 	"properties": {
+		"activities": [
+			{
+				"name": "copy-weather-data",
+				"description": "copy weather data for all nfl stadiums",
+				"type": "Copy",
+				"dependsOn": [],
+				"policy": {
+					"timeout": "0.12:00:00",
+					"retry": 0,
+					"retryIntervalInSeconds": 30,
+					"secureOutput": false,
+					"secureInput": false
+				},
+				"userProperties": [],
+				"typeProperties": {
+					"source": {
+						"type": "DelimitedTextSource",
+						"storeSettings": {
+							"type": "AzureBlobStorageReadSettings",
+							"recursive": true,
+							"enablePartitionDiscovery": false
+						},
+						"formatSettings": {
+							"type": "DelimitedTextReadSettings"
+						}
+					},
+					"sink": {
+						"type": "AzureSqlSink",
+						"writeBehavior": "insert",
+						"sqlWriterUseTableLock": false
+					},
+					"enableStaging": false,
+					"translator": {
+						"type": "TabularTranslator",
+						"mappings": [
+							{
+								"source": {
+									"name": "Team",
+									"type": "String",
+									"physicalType": "String"
+								},
+								"sink": {
+									"name": "Team",
+									"type": "String",
+									"physicalType": "nvarchar"
+								}
+							},
+							{
+								"source": {
+									"name": "Actual Date",
+									"type": "String",
+									"physicalType": "String"
+								},
+								"sink": {
+									"name": "Actual_Date",
+									"type": "DateTime",
+									"physicalType": "date"
+								}
+							},
+							{
+								"source": {
+									"name": "Period",
+									"type": "String",
+									"physicalType": "String"
+								},
+								"sink": {
+									"name": "Period",
+									"type": "String",
+									"physicalType": "nvarchar"
+								}
+							},
+							{
+								"source": {
+									"name": "Time (Day/Night)",
+									"type": "String",
+									"physicalType": "String"
+								},
+								"sink": {
+									"name": "Time_Day_Night",
+									"type": "String",
+									"physicalType": "nvarchar"
+								}
+							},
+							{
+								"source": {
+									"name": "Temperature",
+									"type": "String",
+									"physicalType": "String"
+								},
+								"sink": {
+									"name": "Temperature",
+									"type": "Byte",
+									"physicalType": "tinyint"
+								}
+							},
+							{
+								"source": {
+									"name": "Temperature Unit",
+									"type": "String",
+									"physicalType": "String"
+								},
+								"sink": {
+									"name": "Temperature_Unit",
+									"type": "String",
+									"physicalType": "nvarchar"
+								}
+							},
+							{
+								"source": {
+									"name": "Wind Speed",
+									"type": "String",
+									"physicalType": "String"
+								},
+								"sink": {
+									"name": "Wind_Speed",
+									"type": "String",
+									"physicalType": "nvarchar"
+								}
+							},
+							{
+								"source": {
+									"name": "Wind Direction",
+									"type": "String",
+									"physicalType": "String"
+								},
+								"sink": {
+									"name": "Wind_Direction",
+									"type": "String",
+									"physicalType": "nvarchar"
+								}
+							},
+							{
+								"source": {
+									"name": "Detailed Forecast",
+									"type": "String",
+									"physicalType": "String"
+								},
+								"sink": {
+									"name": "Detailed_Forecast",
+									"type": "String",
+									"physicalType": "nvarchar"
+								}
+							},
+							{
+								"source": {
+									"name": "Combined Date Time",
+									"type": "String",
+									"physicalType": "String"
+								},
+								"sink": {
+									"name": "Combined_Date_Time",
+									"type": "DateTime",
+									"physicalType": "datetime2"
+								}
+							},
+							{
+								"source": {
+									"name": "Date Ran",
+									"type": "String",
+									"physicalType": "String"
+								},
+								"sink": {
+									"name": "Date_Ran",
+									"type": "DateTime",
+									"physicalType": "date"
+								}
+							},
+							{
+								"source": {
+									"name": "DateTime Ran",
+									"type": "String",
+									"physicalType": "String"
+								},
+								"sink": {
+									"name": "DateTime_Ran",
+									"type": "DateTime",
+									"physicalType": "datetime2"
+								}
+							}
+						],
+						"typeConversion": true,
+						"typeConversionSettings": {
+							"allowDataTruncation": true,
+							"treatBooleanAsNumber": false
+						}
+					}
+				},
+				"inputs": [
+					{
+						"referenceName": "NFL_stadiums_weather",
+						"type": "DatasetReference"
+					}
+				],
+				"outputs": [
+					{
+						"referenceName": "nlf_stadium_weather_SQL",
+						"type": "DatasetReference"
+					}
+				]
+			}
+		],
 		"annotations": []
 	}
 }
