@@ -494,18 +494,6 @@
 							},
 							{
 								"source": {
-									"name": "INT TD-def-interceptions",
-									"type": "String",
-									"physicalType": "String"
-								},
-								"sink": {
-									"name": "INT_TD_def_scoring",
-									"type": "Byte",
-									"physicalType": "tinyint"
-								}
-							},
-							{
-								"source": {
 									"name": "Sck-def-tackles",
 									"type": "String",
 									"physicalType": "String"
@@ -734,7 +722,7 @@
 							},
 							{
 								"source": {
-									"name": "Lng-def-interceptions",
+									"name": "INT TD-def-interceptions",
 									"type": "String",
 									"physicalType": "String"
 								},
