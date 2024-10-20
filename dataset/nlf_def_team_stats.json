@@ -1,0 +1,23 @@
+{
+	"name": "nlf_def_team_stats",
+	"properties": {
+		"linkedServiceName": {
+			"referenceName": "AzureBlobStorage2_nflstats",
+			"type": "LinkedServiceReference"
+		},
+		"annotations": [],
+		"type": "DelimitedText",
+		"typeProperties": {
+			"location": {
+				"type": "AzureBlobStorageLocation",
+				"fileName": "nfl-team-stats-def-2024.csv",
+				"container": "nfl-stats"
+			},
+			"columnDelimiter": ",",
+			"escapeChar": "\\",
+			"firstRowAsHeader": true,
+			"quoteChar": "\""
+		},
+		"schema": []
+	}
+}

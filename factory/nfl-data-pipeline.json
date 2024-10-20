@@ -1,0 +1,9 @@
+{
+	"name": "nfl-data-pipeline",
+	"location": "centralus",
+	"identity": {
+		"type": "SystemAssigned",
+		"principalId": "2ccb99f8-3d58-43e5-a68b-72ae90e0067d",
+		"tenantId": "08d99a5e-07f4-4f61-9a17-5fecaf71057f"
+	}
+}
