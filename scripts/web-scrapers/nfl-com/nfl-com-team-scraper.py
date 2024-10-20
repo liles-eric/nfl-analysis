@@ -62,6 +62,14 @@ def fetch_and_parse_data(url, stat_type, category):
             # Ensure the team name column is named 'Team'
             df.rename(columns={df.columns[0]: 'Team'}, inplace=True)
             
+            # Clean up the Team column by:
+            # 1. Removing all extra whitespaces and newlines.
+            # 2. Handling the case for '49ers' explicitly so numbers don't get split.
+            df['Team'] = df['Team'].str.replace(r'\s+', ' ', regex=True).str.strip().str.title()
+            
+            # Additional cleaning: replace double occurrences like "Titans Titans" or "49ers 49ers"
+            df['Team'] = df['Team'].apply(lambda x: '49ers' if '49ers' in x else ' '.join(sorted(set(x.split()), key=x.split().index)))
+            
             return df
         else:
             print(f"No table found for {category} {stat_type}!")
@@ -125,4 +133,3 @@ if defense_dataframes:
     defense_file = os.path.join(output_folder, "nfl-team-stats-def-2024.csv")
     defense_merged.to_csv(defense_file, index=False)
     print(f"Defense data saved to {defense_file}")
-

@@ -1,15 +1,15 @@
 Team,Actual Date,Period,Time (Day/Night),Temperature,Temperature Unit,Wind Speed,Wind Direction,Detailed Forecast,Combined Date Time,Date Ran,DateTime Ran
-Vikings,2024-10-20,Today,Day,81,F,10 to 15 mph,SW,"Sunny, with a high near 81. Southwest wind 10 to 15 mph.",2024-10-20 10:00,2024-10-20,2024-10-20 11:21:07
-Vikings,2024-10-20,Tonight,Day,61,F,5 to 10 mph,SSW,"Mostly clear, with a low around 61. South southwest wind 5 to 10 mph.",2024-10-20 10:00,2024-10-20,2024-10-20 11:21:07
-Vikings,2024-10-20,Monday,Day,82,F,5 to 10 mph,S,"Mostly sunny, with a high near 82. South wind 5 to 10 mph.",2024-10-22 10:00,2024-10-20,2024-10-20 11:21:07
-Vikings,2024-10-20,Monday Night,Night,60,F,5 to 10 mph,S,"Partly cloudy, with a low around 60. South wind 5 to 10 mph.",2024-10-22 20:00,2024-10-20,2024-10-20 11:21:07
-Vikings,2024-10-20,Tuesday,Day,76,F,5 to 10 mph,SW,"Mostly sunny, with a high near 76. Southwest wind 5 to 10 mph.",2024-10-23 10:00,2024-10-20,2024-10-20 11:21:07
-Vikings,2024-10-20,Tuesday Night,Night,45,F,10 mph,WNW,"A slight chance of rain showers after 7pm. Partly cloudy. Low around 45, with temperatures rising to around 48 overnight. West northwest wind around 10 mph. Chance of precipitation is 20%.",2024-10-23 20:00,2024-10-20,2024-10-20 11:21:07
-Vikings,2024-10-20,Wednesday,Day,54,F,10 to 15 mph,NW,"A slight chance of rain showers before 1pm. Sunny. High near 54, with temperatures falling to around 51 in the afternoon. Northwest wind 10 to 15 mph. Chance of precipitation is 20%.",2024-10-24 10:00,2024-10-20,2024-10-20 11:21:07
-Vikings,2024-10-20,Wednesday Night,Night,37,F,5 to 10 mph,WSW,"Mostly clear, with a low around 37. West southwest wind 5 to 10 mph.",2024-10-24 20:00,2024-10-20,2024-10-20 11:21:07
-Vikings,2024-10-20,Thursday,Day,59,F,5 to 10 mph,SSW,"Mostly sunny, with a high near 59. South southwest wind 5 to 10 mph.",2024-10-25 10:00,2024-10-20,2024-10-20 11:21:07
-Vikings,2024-10-20,Thursday Night,Night,41,F,5 mph,S,"Mostly clear, with a low around 41. South wind around 5 mph.",2024-10-25 20:00,2024-10-20,2024-10-20 11:21:07
-Vikings,2024-10-20,Friday,Day,65,F,5 to 10 mph,S,"Sunny, with a high near 65. South wind 5 to 10 mph.",2024-10-26 10:00,2024-10-20,2024-10-20 11:21:07
-Vikings,2024-10-20,Friday Night,Night,47,F,10 mph,S,"Partly cloudy, with a low around 47. South wind around 10 mph.",2024-10-26 20:00,2024-10-20,2024-10-20 11:21:07
-Vikings,2024-10-20,Saturday,Day,63,F,10 mph,SW,"Mostly sunny, with a high near 63. Southwest wind around 10 mph.",2024-10-27 10:00,2024-10-20,2024-10-20 11:21:07
-Vikings,2024-10-20,Saturday Night,Night,42,F,5 to 10 mph,NNW,"Partly cloudy, with a low around 42. North northwest wind 5 to 10 mph.",2024-10-27 20:00,2024-10-20,2024-10-20 11:21:07
+Vikings,2024-10-20,This Afternoon,Day,81,F,10 mph,WSW,"Sunny, with a high near 81. West southwest wind around 10 mph.",2024-10-20 10:00,2024-10-20,2024-10-20 16:37:10
+Vikings,2024-10-20,Tonight,Day,61,F,5 to 10 mph,SSW,"Mostly clear, with a low around 61. South southwest wind 5 to 10 mph.",2024-10-20 10:00,2024-10-20,2024-10-20 16:37:10
+Vikings,2024-10-20,Monday,Day,82,F,5 to 10 mph,S,"Mostly sunny, with a high near 82. South wind 5 to 10 mph.",2024-10-22 10:00,2024-10-20,2024-10-20 16:37:10
+Vikings,2024-10-20,Monday Night,Night,60,F,5 to 10 mph,S,"Partly cloudy, with a low around 60. South wind 5 to 10 mph.",2024-10-22 20:00,2024-10-20,2024-10-20 16:37:10
+Vikings,2024-10-20,Tuesday,Day,76,F,5 to 15 mph,SSW,"A slight chance of rain showers after 1pm. Mostly sunny. High near 76, with temperatures falling to around 72 in the afternoon. South southwest wind 5 to 15 mph. Chance of precipitation is 20%.",2024-10-23 10:00,2024-10-20,2024-10-20 16:37:10
+Vikings,2024-10-20,Tuesday Night,Night,45,F,10 to 15 mph,WNW,"A slight chance of rain showers before 1am. Partly cloudy. Low around 45, with temperatures rising to around 48 overnight. West northwest wind 10 to 15 mph. Chance of precipitation is 20%.",2024-10-23 20:00,2024-10-20,2024-10-20 16:37:10
+Vikings,2024-10-20,Wednesday,Day,53,F,10 to 15 mph,NW,"Sunny, with a high near 53. Northwest wind 10 to 15 mph.",2024-10-24 10:00,2024-10-20,2024-10-20 16:37:10
+Vikings,2024-10-20,Wednesday Night,Night,38,F,5 mph,WSW,"Clear, with a low around 38. West southwest wind around 5 mph.",2024-10-24 20:00,2024-10-20,2024-10-20 16:37:10
+Vikings,2024-10-20,Thursday,Day,61,F,5 to 10 mph,SSW,"A slight chance of rain showers after 1pm. Mostly sunny, with a high near 61. South southwest wind 5 to 10 mph. Chance of precipitation is 20%.",2024-10-25 10:00,2024-10-20,2024-10-20 16:37:10
+Vikings,2024-10-20,Thursday Night,Night,42,F,5 mph,SSW,"A slight chance of rain showers before 7pm. Mostly clear, with a low around 42. South southwest wind around 5 mph. Chance of precipitation is 20%.",2024-10-25 20:00,2024-10-20,2024-10-20 16:37:10
+Vikings,2024-10-20,Friday,Day,66,F,5 to 10 mph,SW,"Sunny, with a high near 66. Southwest wind 5 to 10 mph.",2024-10-26 10:00,2024-10-20,2024-10-20 16:37:10
+Vikings,2024-10-20,Friday Night,Night,49,F,5 to 10 mph,SSE,"Partly cloudy, with a low around 49. South southeast wind 5 to 10 mph.",2024-10-26 20:00,2024-10-20,2024-10-20 16:37:10
+Vikings,2024-10-20,Saturday,Day,65,F,10 mph,W,"Mostly sunny, with a high near 65. West wind around 10 mph.",2024-10-27 10:00,2024-10-20,2024-10-20 16:37:10
+Vikings,2024-10-20,Saturday Night,Night,40,F,5 to 10 mph,NNE,"Partly cloudy, with a low around 40. North northeast wind 5 to 10 mph.",2024-10-27 20:00,2024-10-20,2024-10-20 16:37:10

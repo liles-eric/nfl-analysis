@@ -1,15 +1,15 @@
 Team,Actual Date,Period,Time (Day/Night),Temperature,Temperature Unit,Wind Speed,Wind Direction,Detailed Forecast,Combined Date Time,Date Ran,DateTime Ran
-Chargers,2024-10-20,Today,Day,79,F,5 to 10 mph,W,"Sunny, with a high near 79. West wind 5 to 10 mph.",2024-10-20 10:00,2024-10-20,2024-10-20 11:21:07
-Chargers,2024-10-20,Tonight,Day,58,F,5 to 10 mph,NW,"Mostly clear, with a low around 58. Northwest wind 5 to 10 mph.",2024-10-20 10:00,2024-10-20,2024-10-20 11:21:07
-Chargers,2024-10-20,Monday,Day,76,F,5 to 10 mph,W,"Sunny, with a high near 76. West wind 5 to 10 mph.",2024-10-22 10:00,2024-10-20,2024-10-20 11:21:07
-Chargers,2024-10-20,Monday Night,Night,58,F,0 to 10 mph,N,"Patchy fog after 11pm. Partly cloudy, with a low around 58. North wind 0 to 10 mph.",2024-10-22 20:00,2024-10-20,2024-10-20 11:21:07
-Chargers,2024-10-20,Tuesday,Day,76,F,0 to 15 mph,NW,"Patchy fog before 11am. Mostly sunny, with a high near 76. Northwest wind 0 to 15 mph.",2024-10-23 10:00,2024-10-20,2024-10-20 11:21:07
-Chargers,2024-10-20,Tuesday Night,Night,59,F,0 to 15 mph,NNE,"Mostly clear, with a low around 59.",2024-10-23 20:00,2024-10-20,2024-10-20 11:21:07
-Chargers,2024-10-20,Wednesday,Day,77,F,0 to 10 mph,W,"Sunny, with a high near 77.",2024-10-24 10:00,2024-10-20,2024-10-20 11:21:07
-Chargers,2024-10-20,Wednesday Night,Night,59,F,0 to 10 mph,ENE,"Patchy fog after 11pm. Mostly cloudy, with a low around 59.",2024-10-24 20:00,2024-10-20,2024-10-20 11:21:07
-Chargers,2024-10-20,Thursday,Day,73,F,0 to 10 mph,W,"Patchy fog before 11am. Mostly sunny, with a high near 73.",2024-10-25 10:00,2024-10-20,2024-10-20 11:21:07
-Chargers,2024-10-20,Thursday Night,Night,57,F,0 to 10 mph,SW,"Patchy fog after 11pm. Mostly cloudy, with a low around 57.",2024-10-25 20:00,2024-10-20,2024-10-20 11:21:07
-Chargers,2024-10-20,Friday,Day,71,F,0 to 10 mph,S,"Patchy fog before 11am. Partly sunny, with a high near 71.",2024-10-26 10:00,2024-10-20,2024-10-20 11:21:07
-Chargers,2024-10-20,Friday Night,Night,57,F,0 to 10 mph,ENE,"Patchy fog after 11pm. Mostly cloudy, with a low around 57.",2024-10-26 20:00,2024-10-20,2024-10-20 11:21:07
-Chargers,2024-10-20,Saturday,Day,73,F,0 to 10 mph,SW,"Patchy fog before 11am. Mostly sunny, with a high near 73.",2024-10-27 10:00,2024-10-20,2024-10-20 11:21:07
-Chargers,2024-10-20,Saturday Night,Night,58,F,0 to 10 mph,NNE,"Patchy fog after 11pm. Mostly cloudy, with a low around 58.",2024-10-27 20:00,2024-10-20,2024-10-20 11:21:07
+Chargers,2024-10-20,This Afternoon,Day,80,F,10 mph,WSW,"Sunny, with a high near 80. West southwest wind around 10 mph.",2024-10-20 10:00,2024-10-20,2024-10-20 16:37:10
+Chargers,2024-10-20,Tonight,Day,59,F,5 to 10 mph,NW,"Mostly clear, with a low around 59. Northwest wind 5 to 10 mph.",2024-10-20 10:00,2024-10-20,2024-10-20 16:37:10
+Chargers,2024-10-20,Monday,Day,79,F,5 to 10 mph,W,"Sunny, with a high near 79. West wind 5 to 10 mph.",2024-10-22 10:00,2024-10-20,2024-10-20 16:37:10
+Chargers,2024-10-20,Monday Night,Night,59,F,0 to 10 mph,N,"Mostly clear, with a low around 59. North wind 0 to 10 mph.",2024-10-22 20:00,2024-10-20,2024-10-20 16:37:10
+Chargers,2024-10-20,Tuesday,Day,77,F,0 to 15 mph,NW,"Sunny, with a high near 77. Northwest wind 0 to 15 mph.",2024-10-23 10:00,2024-10-20,2024-10-20 16:37:10
+Chargers,2024-10-20,Tuesday Night,Night,59,F,0 to 15 mph,NNE,"Patchy fog after 11pm. Partly cloudy, with a low around 59.",2024-10-23 20:00,2024-10-20,2024-10-20 16:37:10
+Chargers,2024-10-20,Wednesday,Day,78,F,0 to 10 mph,W,"Patchy fog before 11am. Mostly sunny, with a high near 78.",2024-10-24 10:00,2024-10-20,2024-10-20 16:37:10
+Chargers,2024-10-20,Wednesday Night,Night,59,F,0 to 10 mph,ENE,"Patchy fog after 11pm. Mostly cloudy, with a low around 59.",2024-10-24 20:00,2024-10-20,2024-10-20 16:37:10
+Chargers,2024-10-20,Thursday,Day,74,F,0 to 10 mph,W,"Patchy fog before 11am. Mostly sunny, with a high near 74.",2024-10-25 10:00,2024-10-20,2024-10-20 16:37:10
+Chargers,2024-10-20,Thursday Night,Night,57,F,0 to 10 mph,SW,"Patchy fog after 11pm. Mostly cloudy, with a low around 57.",2024-10-25 20:00,2024-10-20,2024-10-20 16:37:10
+Chargers,2024-10-20,Friday,Day,71,F,0 to 10 mph,S,"Patchy fog before 11am. Partly sunny, with a high near 71.",2024-10-26 10:00,2024-10-20,2024-10-20 16:37:10
+Chargers,2024-10-20,Friday Night,Night,56,F,0 to 10 mph,ENE,"Patchy fog after 11pm. Mostly cloudy, with a low around 56.",2024-10-26 20:00,2024-10-20,2024-10-20 16:37:10
+Chargers,2024-10-20,Saturday,Day,73,F,0 to 10 mph,SW,"Patchy fog before 11am. Mostly sunny, with a high near 73.",2024-10-27 10:00,2024-10-20,2024-10-20 16:37:10
+Chargers,2024-10-20,Saturday Night,Night,58,F,0 to 10 mph,NNE,"Patchy fog after 11pm. Mostly cloudy, with a low around 58.",2024-10-27 20:00,2024-10-20,2024-10-20 16:37:10

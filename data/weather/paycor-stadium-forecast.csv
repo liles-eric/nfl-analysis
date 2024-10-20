@@ -1,15 +1,15 @@
 Team,Actual Date,Period,Time (Day/Night),Temperature,Temperature Unit,Wind Speed,Wind Direction,Detailed Forecast,Combined Date Time,Date Ran,DateTime Ran
-Bengals,2024-10-20,Today,Day,73,F,2 to 6 mph,SW,"Patchy fog before noon. Sunny, with a high near 73. Southwest wind 2 to 6 mph.",2024-10-20 10:00,2024-10-20,2024-10-20 11:21:07
-Bengals,2024-10-20,Tonight,Day,44,F,0 to 5 mph,SW,"Areas of fog after 2am. Clear, with a low around 44. Southwest wind 0 to 5 mph.",2024-10-20 10:00,2024-10-20,2024-10-20 11:21:07
-Bengals,2024-10-20,Monday,Day,76,F,0 to 3 mph,SW,"Areas of fog before 8am. Sunny, with a high near 76. Southwest wind 0 to 3 mph.",2024-10-22 10:00,2024-10-20,2024-10-20 11:21:07
-Bengals,2024-10-20,Monday Night,Night,47,F,3 mph,S,"Clear, with a low around 47. South wind around 3 mph.",2024-10-22 20:00,2024-10-20,2024-10-20 11:21:07
-Bengals,2024-10-20,Tuesday,Day,78,F,1 to 6 mph,S,"Sunny, with a high near 78. South wind 1 to 6 mph.",2024-10-23 10:00,2024-10-20,2024-10-20 11:21:07
-Bengals,2024-10-20,Tuesday Night,Night,54,F,2 to 6 mph,S,"Mostly clear, with a low around 54.",2024-10-23 20:00,2024-10-20,2024-10-20 11:21:07
-Bengals,2024-10-20,Wednesday,Day,78,F,5 to 10 mph,SW,"Sunny, with a high near 78.",2024-10-24 10:00,2024-10-20,2024-10-20 11:21:07
-Bengals,2024-10-20,Wednesday Night,Night,44,F,5 to 9 mph,NW,"Mostly clear, with a low around 44.",2024-10-24 20:00,2024-10-20,2024-10-20 11:21:07
-Bengals,2024-10-20,Thursday,Day,63,F,5 mph,N,"Sunny, with a high near 63.",2024-10-25 10:00,2024-10-20,2024-10-20 11:21:07
-Bengals,2024-10-20,Thursday Night,Night,41,F,5 mph,NE,"Mostly clear, with a low around 41.",2024-10-25 20:00,2024-10-20,2024-10-20 11:21:07
-Bengals,2024-10-20,Friday,Day,67,F,5 mph,SE,"Sunny, with a high near 67.",2024-10-26 10:00,2024-10-20,2024-10-20 11:21:07
-Bengals,2024-10-20,Friday Night,Night,46,F,5 mph,SE,"Mostly clear, with a low around 46.",2024-10-26 20:00,2024-10-20,2024-10-20 11:21:07
-Bengals,2024-10-20,Saturday,Day,71,F,2 to 7 mph,SE,"Sunny, with a high near 71.",2024-10-27 10:00,2024-10-20,2024-10-20 11:21:07
-Bengals,2024-10-20,Saturday Night,Night,50,F,7 mph,S,"A slight chance of rain showers after 2am. Partly cloudy, with a low around 50.",2024-10-27 20:00,2024-10-20,2024-10-20 11:21:07
+Bengals,2024-10-20,This Afternoon,Day,73,F,5 mph,SW,"Sunny, with a high near 73. Southwest wind around 5 mph.",2024-10-20 10:00,2024-10-20,2024-10-20 16:37:10
+Bengals,2024-10-20,Tonight,Day,42,F,0 to 3 mph,W,"Areas of fog after 2am. Clear, with a low around 42. West wind 0 to 3 mph.",2024-10-20 10:00,2024-10-20,2024-10-20 16:37:10
+Bengals,2024-10-20,Monday,Day,77,F,0 to 3 mph,SW,"Areas of fog before 11am. Sunny, with a high near 77. Southwest wind 0 to 3 mph.",2024-10-22 10:00,2024-10-20,2024-10-20 16:37:10
+Bengals,2024-10-20,Monday Night,Night,45,F,3 mph,S,"Patchy fog after 4am. Clear, with a low around 45. South wind around 3 mph.",2024-10-22 20:00,2024-10-20,2024-10-20 16:37:10
+Bengals,2024-10-20,Tuesday,Day,79,F,1 to 7 mph,S,"Areas of fog before 2pm. Sunny, with a high near 79. South wind 1 to 7 mph.",2024-10-23 10:00,2024-10-20,2024-10-20 16:37:10
+Bengals,2024-10-20,Tuesday Night,Night,55,F,6 mph,S,"Mostly clear, with a low around 55.",2024-10-23 20:00,2024-10-20,2024-10-20 16:37:10
+Bengals,2024-10-20,Wednesday,Day,79,F,6 to 10 mph,SW,"Sunny, with a high near 79.",2024-10-24 10:00,2024-10-20,2024-10-20 16:37:10
+Bengals,2024-10-20,Wednesday Night,Night,43,F,3 to 9 mph,NW,"Mostly clear, with a low around 43.",2024-10-24 20:00,2024-10-20,2024-10-20 16:37:10
+Bengals,2024-10-20,Thursday,Day,62,F,3 mph,N,"Sunny, with a high near 62.",2024-10-25 10:00,2024-10-20,2024-10-20 16:37:10
+Bengals,2024-10-20,Thursday Night,Night,39,F,3 mph,NE,"Mostly clear, with a low around 39.",2024-10-25 20:00,2024-10-20,2024-10-20 16:37:10
+Bengals,2024-10-20,Friday,Day,68,F,1 to 5 mph,SE,"Sunny, with a high near 68.",2024-10-26 10:00,2024-10-20,2024-10-20 16:37:10
+Bengals,2024-10-20,Friday Night,Night,45,F,5 mph,SE,"A slight chance of rain showers after 2am. Mostly clear, with a low around 45.",2024-10-26 20:00,2024-10-20,2024-10-20 16:37:10
+Bengals,2024-10-20,Saturday,Day,73,F,2 to 7 mph,S,"A slight chance of rain showers before 8am. Sunny, with a high near 73.",2024-10-27 10:00,2024-10-20,2024-10-20 16:37:10
+Bengals,2024-10-20,Saturday Night,Night,53,F,3 to 7 mph,S,"Partly cloudy, with a low around 53.",2024-10-27 20:00,2024-10-20,2024-10-20 16:37:10

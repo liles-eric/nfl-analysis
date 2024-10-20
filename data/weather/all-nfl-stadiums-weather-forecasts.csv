@@ -1,449 +1,449 @@
 Team,Actual Date,Period,Time (Day/Night),Temperature,Temperature Unit,Wind Speed,Wind Direction,Detailed Forecast,Combined Date Time,Date Ran,DateTime Ran
-Steelers,2024-10-20,Today,Day,75,F,6 mph,SW,"Sunny, with a high near 75. Southwest wind around 6 mph.",2024-10-20 10:00,2024-10-20,2024-10-20 11:21:07
-Steelers,2024-10-20,Tonight,Day,42,F,2 to 6 mph,SW,"Clear, with a low around 42. Southwest wind 2 to 6 mph.",2024-10-20 10:00,2024-10-20,2024-10-20 11:21:07
-Steelers,2024-10-20,Monday,Day,76,F,2 to 6 mph,SW,"Sunny, with a high near 76. Southwest wind 2 to 6 mph.",2024-10-22 10:00,2024-10-20,2024-10-20 11:21:07
-Steelers,2024-10-20,Monday Night,Night,47,F,1 to 5 mph,S,"Clear, with a low around 47. South wind 1 to 5 mph.",2024-10-22 20:00,2024-10-20,2024-10-20 11:21:07
-Steelers,2024-10-20,Tuesday,Day,80,F,1 to 6 mph,SE,"Sunny, with a high near 80. Southeast wind 1 to 6 mph.",2024-10-23 10:00,2024-10-20,2024-10-20 11:21:07
-Steelers,2024-10-20,Tuesday Night,Night,52,F,6 mph,S,"Mostly clear, with a low around 52.",2024-10-23 20:00,2024-10-20,2024-10-20 11:21:07
-Steelers,2024-10-20,Wednesday,Day,76,F,6 to 15 mph,SW,"Sunny, with a high near 76.",2024-10-24 10:00,2024-10-20,2024-10-20 11:21:07
-Steelers,2024-10-20,Wednesday Night,Night,44,F,8 to 13 mph,W,"A chance of rain showers after 8pm. Partly cloudy, with a low around 44. Chance of precipitation is 30%.",2024-10-24 20:00,2024-10-20,2024-10-20 11:21:07
-Steelers,2024-10-20,Thursday,Day,58,F,6 to 9 mph,NW,"A chance of rain showers before 8am. Sunny, with a high near 58.",2024-10-25 10:00,2024-10-20,2024-10-20 11:21:07
-Steelers,2024-10-20,Thursday Night,Night,38,F,1 to 7 mph,NE,"Mostly clear, with a low around 38.",2024-10-25 20:00,2024-10-20,2024-10-20 11:21:07
-Steelers,2024-10-20,Friday,Day,61,F,1 to 6 mph,SW,"Sunny, with a high near 61.",2024-10-26 10:00,2024-10-20,2024-10-20 11:21:07
-Steelers,2024-10-20,Friday Night,Night,40,F,2 to 6 mph,SW,"A chance of rain showers after 8pm. Mostly clear, with a low around 40.",2024-10-26 20:00,2024-10-20,2024-10-20 11:21:07
-Steelers,2024-10-20,Saturday,Day,68,F,3 to 9 mph,SW,"A chance of rain showers before 8am, then a slight chance of rain. Sunny, with a high near 68.",2024-10-27 10:00,2024-10-20,2024-10-20 11:21:07
-Steelers,2024-10-20,Saturday Night,Night,47,F,8 mph,SW,"A slight chance of rain before 8pm, then a chance of rain showers between 8pm and 2am, then a slight chance of rain. Partly cloudy, with a low around 47.",2024-10-27 20:00,2024-10-20,2024-10-20 11:21:07
-Raiders,2024-10-20,Today,Day,78,F,5 mph,E,"Sunny, with a high near 78. East wind around 5 mph.",2024-10-20 10:00,2024-10-20,2024-10-20 11:21:07
-Raiders,2024-10-20,Tonight,Day,57,F,5 mph,NW,"Mostly clear. Low around 57, with temperatures rising to around 59 overnight. Northwest wind around 5 mph.",2024-10-20 10:00,2024-10-20,2024-10-20 11:21:07
-Raiders,2024-10-20,Monday,Day,80,F,3 mph,NNE,"Sunny, with a high near 80. North northeast wind around 3 mph.",2024-10-22 10:00,2024-10-20,2024-10-20 11:21:07
-Raiders,2024-10-20,Monday Night,Night,59,F,5 mph,NNW,"Mostly clear, with a low around 59. North northwest wind around 5 mph.",2024-10-22 20:00,2024-10-20,2024-10-20 11:21:07
-Raiders,2024-10-20,Tuesday,Day,84,F,5 mph,NNE,"Sunny, with a high near 84. North northeast wind around 5 mph.",2024-10-23 10:00,2024-10-20,2024-10-20 11:21:07
-Raiders,2024-10-20,Tuesday Night,Night,61,F,5 mph,NW,"Clear, with a low around 61.",2024-10-23 20:00,2024-10-20,2024-10-20 11:21:07
-Raiders,2024-10-20,Wednesday,Day,87,F,5 mph,NNE,"Sunny, with a high near 87.",2024-10-24 10:00,2024-10-20,2024-10-20 11:21:07
-Raiders,2024-10-20,Wednesday Night,Night,63,F,5 mph,WNW,"Mostly clear, with a low around 63.",2024-10-24 20:00,2024-10-20,2024-10-20 11:21:07
-Raiders,2024-10-20,Thursday,Day,88,F,6 mph,E,"Sunny, with a high near 88.",2024-10-25 10:00,2024-10-20,2024-10-20 11:21:07
-Raiders,2024-10-20,Thursday Night,Night,62,F,6 mph,SW,"Mostly clear, with a low around 62.",2024-10-25 20:00,2024-10-20,2024-10-20 11:21:07
-Raiders,2024-10-20,Friday,Day,86,F,7 mph,SSW,"Sunny, with a high near 86.",2024-10-26 10:00,2024-10-20,2024-10-20 11:21:07
-Raiders,2024-10-20,Friday Night,Night,60,F,6 mph,WSW,"Mostly clear, with a low around 60.",2024-10-26 20:00,2024-10-20,2024-10-20 11:21:07
-Raiders,2024-10-20,Saturday,Day,85,F,6 mph,NNE,"Sunny, with a high near 85.",2024-10-27 10:00,2024-10-20,2024-10-20 11:21:07
-Raiders,2024-10-20,Saturday Night,Night,60,F,5 mph,NW,"Mostly clear, with a low around 60.",2024-10-27 20:00,2024-10-20,2024-10-20 11:21:07
-Cowboys,2024-10-20,Today,Day,81,F,5 mph,ESE,"Sunny, with a high near 81. East southeast wind around 5 mph.",2024-10-20 10:00,2024-10-20,2024-10-20 11:21:07
-Cowboys,2024-10-20,Tonight,Day,58,F,5 mph,SE,"Mostly clear, with a low around 58. Southeast wind around 5 mph.",2024-10-20 10:00,2024-10-20,2024-10-20 11:21:07
-Cowboys,2024-10-20,Monday,Day,83,F,5 to 10 mph,SSE,"Sunny. High near 83, with temperatures falling to around 81 in the afternoon. South southeast wind 5 to 10 mph, with gusts as high as 20 mph.",2024-10-22 10:00,2024-10-20,2024-10-20 11:21:07
-Cowboys,2024-10-20,Monday Night,Night,64,F,5 to 10 mph,S,"Clear, with a low around 64. South wind 5 to 10 mph.",2024-10-22 20:00,2024-10-20,2024-10-20 11:21:07
-Cowboys,2024-10-20,Tuesday,Day,88,F,5 to 10 mph,SSW,"Sunny, with a high near 88. South southwest wind 5 to 10 mph.",2024-10-23 10:00,2024-10-20,2024-10-20 11:21:07
-Cowboys,2024-10-20,Tuesday Night,Night,67,F,5 mph,S,"Mostly clear, with a low around 67. South wind around 5 mph.",2024-10-23 20:00,2024-10-20,2024-10-20 11:21:07
-Cowboys,2024-10-20,Wednesday,Day,91,F,5 mph,SSW,"Sunny, with a high near 91. South southwest wind around 5 mph.",2024-10-24 10:00,2024-10-20,2024-10-20 11:21:07
-Cowboys,2024-10-20,Wednesday Night,Night,66,F,5 mph,SSE,"Mostly clear, with a low around 66. South southeast wind around 5 mph.",2024-10-24 20:00,2024-10-20,2024-10-20 11:21:07
-Cowboys,2024-10-20,Thursday,Day,86,F,5 to 10 mph,SSE,"Sunny, with a high near 86. South southeast wind 5 to 10 mph.",2024-10-25 10:00,2024-10-20,2024-10-20 11:21:07
-Cowboys,2024-10-20,Thursday Night,Night,63,F,5 to 10 mph,SSE,"Clear, with a low around 63.",2024-10-25 20:00,2024-10-20,2024-10-20 11:21:07
-Cowboys,2024-10-20,Friday,Day,86,F,10 mph,S,"Sunny, with a high near 86.",2024-10-26 10:00,2024-10-20,2024-10-20 11:21:07
-Cowboys,2024-10-20,Friday Night,Night,64,F,5 to 10 mph,S,"Clear, with a low around 64.",2024-10-26 20:00,2024-10-20,2024-10-20 11:21:07
-Cowboys,2024-10-20,Saturday,Day,87,F,10 mph,S,"Sunny, with a high near 87.",2024-10-27 10:00,2024-10-20,2024-10-20 11:21:07
-Cowboys,2024-10-20,Saturday Night,Night,64,F,10 mph,S,"Mostly clear, with a low around 64.",2024-10-27 20:00,2024-10-20,2024-10-20 11:21:07
-Panthers,2024-10-20,Today,Day,76,F,5 mph,NNE,"Sunny, with a high near 76. North northeast wind around 5 mph.",2024-10-20 10:00,2024-10-20,2024-10-20 11:21:07
-Panthers,2024-10-20,Tonight,Day,47,F,3 mph,NNE,"Clear, with a low around 47. North northeast wind around 3 mph.",2024-10-20 10:00,2024-10-20,2024-10-20 11:21:07
-Panthers,2024-10-20,Monday,Day,77,F,6 mph,NNE,"Sunny, with a high near 77. North northeast wind around 6 mph.",2024-10-22 10:00,2024-10-20,2024-10-20 11:21:07
-Panthers,2024-10-20,Monday Night,Night,48,F,5 mph,NE,"Clear, with a low around 48. Northeast wind around 5 mph.",2024-10-22 20:00,2024-10-20,2024-10-20 11:21:07
-Panthers,2024-10-20,Tuesday,Day,77,F,3 mph,NE,"Sunny, with a high near 77. Northeast wind around 3 mph.",2024-10-23 10:00,2024-10-20,2024-10-20 11:21:07
-Panthers,2024-10-20,Tuesday Night,Night,50,F,2 mph,NE,"Mostly clear, with a low around 50.",2024-10-23 20:00,2024-10-20,2024-10-20 11:21:07
-Panthers,2024-10-20,Wednesday,Day,78,F,3 mph,NW,"Sunny, with a high near 78.",2024-10-24 10:00,2024-10-20,2024-10-20 11:21:07
-Panthers,2024-10-20,Wednesday Night,Night,54,F,3 mph,W,"Clear, with a low around 54.",2024-10-24 20:00,2024-10-20,2024-10-20 11:21:07
-Panthers,2024-10-20,Thursday,Day,77,F,6 mph,NNW,"Sunny, with a high near 77.",2024-10-25 10:00,2024-10-20,2024-10-20 11:21:07
-Panthers,2024-10-20,Thursday Night,Night,48,F,5 mph,NE,"Mostly clear, with a low around 48.",2024-10-25 20:00,2024-10-20,2024-10-20 11:21:07
-Panthers,2024-10-20,Friday,Day,71,F,5 mph,E,"Sunny, with a high near 71.",2024-10-26 10:00,2024-10-20,2024-10-20 11:21:07
-Panthers,2024-10-20,Friday Night,Night,50,F,5 mph,E,"Mostly clear, with a low around 50.",2024-10-26 20:00,2024-10-20,2024-10-20 11:21:07
-Panthers,2024-10-20,Saturday,Day,74,F,5 mph,E,"Sunny, with a high near 74.",2024-10-27 10:00,2024-10-20,2024-10-20 11:21:07
-Panthers,2024-10-20,Saturday Night,Night,52,F,5 mph,E,"Mostly clear, with a low around 52.",2024-10-27 20:00,2024-10-20,2024-10-20 11:21:07
-Saints,2024-10-20,Today,Day,78,F,5 to 10 mph,NE,"Sunny. High near 78, with temperatures falling to around 76 in the afternoon. Northeast wind 5 to 10 mph.",2024-10-20 10:00,2024-10-20,2024-10-20 11:21:07
-Saints,2024-10-20,Tonight,Day,61,F,0 to 5 mph,NE,"Clear. Low around 61, with temperatures rising to around 63 overnight. Northeast wind 0 to 5 mph.",2024-10-20 10:00,2024-10-20,2024-10-20 11:21:07
-Saints,2024-10-20,Monday,Day,78,F,5 to 10 mph,E,"Sunny. High near 78, with temperatures falling to around 75 in the afternoon. East wind 5 to 10 mph.",2024-10-22 10:00,2024-10-20,2024-10-20 11:21:07
-Saints,2024-10-20,Monday Night,Night,61,F,0 to 5 mph,E,"Clear, with a low around 61. East wind 0 to 5 mph.",2024-10-22 20:00,2024-10-20,2024-10-20 11:21:07
-Saints,2024-10-20,Tuesday,Day,80,F,5 mph,NE,"Sunny, with a high near 80. Northeast wind around 5 mph.",2024-10-23 10:00,2024-10-20,2024-10-20 11:21:07
-Saints,2024-10-20,Tuesday Night,Night,62,F,0 to 5 mph,E,"Mostly clear, with a low around 62. East wind 0 to 5 mph.",2024-10-23 20:00,2024-10-20,2024-10-20 11:21:07
-Saints,2024-10-20,Wednesday,Day,81,F,0 to 5 mph,NE,"Sunny, with a high near 81. Northeast wind 0 to 5 mph.",2024-10-24 10:00,2024-10-20,2024-10-20 11:21:07
-Saints,2024-10-20,Wednesday Night,Night,63,F,0 to 5 mph,SW,"Mostly clear, with a low around 63. Southwest wind 0 to 5 mph.",2024-10-24 20:00,2024-10-20,2024-10-20 11:21:07
-Saints,2024-10-20,Thursday,Day,83,F,0 to 5 mph,N,"Sunny, with a high near 83. North wind 0 to 5 mph.",2024-10-25 10:00,2024-10-20,2024-10-20 11:21:07
-Saints,2024-10-20,Thursday Night,Night,64,F,0 to 5 mph,SW,"Mostly clear, with a low around 64. Southwest wind 0 to 5 mph.",2024-10-25 20:00,2024-10-20,2024-10-20 11:21:07
-Saints,2024-10-20,Friday,Day,81,F,5 mph,NE,"Sunny, with a high near 81. Northeast wind around 5 mph.",2024-10-26 10:00,2024-10-20,2024-10-20 11:21:07
-Saints,2024-10-20,Friday Night,Night,64,F,0 to 5 mph,E,"Clear, with a low around 64. East wind 0 to 5 mph.",2024-10-26 20:00,2024-10-20,2024-10-20 11:21:07
-Saints,2024-10-20,Saturday,Day,81,F,0 to 5 mph,E,"Sunny, with a high near 81. East wind 0 to 5 mph.",2024-10-27 10:00,2024-10-20,2024-10-20 11:21:07
-Saints,2024-10-20,Saturday Night,Night,65,F,5 mph,E,"Mostly clear, with a low around 65. East wind around 5 mph.",2024-10-27 20:00,2024-10-20,2024-10-20 11:21:07
-Broncos,2024-10-20,Today,Day,74,F,3 to 9 mph,SSW,"Mostly sunny. High near 74, with temperatures falling to around 70 in the afternoon. South southwest wind 3 to 9 mph, with gusts as high as 18 mph.",2024-10-20 10:00,2024-10-20,2024-10-20 11:21:07
-Broncos,2024-10-20,Tonight,Day,45,F,5 to 8 mph,SW,"A chance of rain after midnight. Partly cloudy. Low around 45, with temperatures rising to around 47 overnight. Southwest wind 5 to 8 mph. Chance of precipitation is 30%. New rainfall amounts less than a tenth of an inch possible.",2024-10-20 10:00,2024-10-20,2024-10-20 11:21:07
-Broncos,2024-10-20,Monday,Day,70,F,7 to 15 mph,W,"A chance of rain showers before noon. Mostly sunny. High near 70, with temperatures falling to around 67 in the afternoon. West wind 7 to 15 mph. Chance of precipitation is 40%.",2024-10-22 10:00,2024-10-20,2024-10-20 11:21:07
-Broncos,2024-10-20,Monday Night,Night,44,F,6 to 12 mph,WSW,"Clear, with a low around 44. West southwest wind 6 to 12 mph, with gusts as high as 20 mph.",2024-10-22 20:00,2024-10-20,2024-10-20 11:21:07
-Broncos,2024-10-20,Tuesday,Day,75,F,6 mph,SE,"Sunny, with a high near 75. Southeast wind around 6 mph.",2024-10-23 10:00,2024-10-20,2024-10-20 11:21:07
-Broncos,2024-10-20,Tuesday Night,Night,43,F,5 mph,SSW,"Mostly clear, with a low around 43.",2024-10-23 20:00,2024-10-20,2024-10-20 11:21:07
-Broncos,2024-10-20,Wednesday,Day,70,F,6 mph,SE,"Sunny, with a high near 70.",2024-10-24 10:00,2024-10-20,2024-10-20 11:21:07
-Broncos,2024-10-20,Wednesday Night,Night,42,F,5 mph,NW,"Clear, with a low around 42.",2024-10-24 20:00,2024-10-20,2024-10-20 11:21:07
-Broncos,2024-10-20,Thursday,Day,77,F,6 mph,SSE,"Sunny, with a high near 77.",2024-10-25 10:00,2024-10-20,2024-10-20 11:21:07
-Broncos,2024-10-20,Thursday Night,Night,44,F,6 mph,SW,"Mostly clear, with a low around 44.",2024-10-25 20:00,2024-10-20,2024-10-20 11:21:07
-Broncos,2024-10-20,Friday,Day,76,F,6 mph,S,"Mostly sunny, with a high near 76.",2024-10-26 10:00,2024-10-20,2024-10-20 11:21:07
-Broncos,2024-10-20,Friday Night,Night,42,F,6 mph,W,"Partly cloudy, with a low around 42.",2024-10-26 20:00,2024-10-20,2024-10-20 11:21:07
-Broncos,2024-10-20,Saturday,Day,71,F,6 mph,NW,"Sunny, with a high near 71.",2024-10-27 10:00,2024-10-20,2024-10-20 11:21:07
-Broncos,2024-10-20,Saturday Night,Night,40,F,5 mph,WNW,"Mostly clear, with a low around 40.",2024-10-27 20:00,2024-10-20,2024-10-20 11:21:07
-Commanders,2024-10-20,Today,Day,75,F,3 mph,W,"Sunny, with a high near 75. West wind around 3 mph.",2024-10-20 10:00,2024-10-20,2024-10-20 11:21:07
-Commanders,2024-10-20,Tonight,Day,45,F,2 mph,W,"Clear, with a low around 45. West wind around 2 mph.",2024-10-20 10:00,2024-10-20,2024-10-20 11:21:07
-Commanders,2024-10-20,Monday,Day,78,F,5 mph,W,"Sunny, with a high near 78. West wind around 5 mph.",2024-10-22 10:00,2024-10-20,2024-10-20 11:21:07
-Commanders,2024-10-20,Monday Night,Night,49,F,3 mph,W,"Clear, with a low around 49. West wind around 3 mph.",2024-10-22 20:00,2024-10-20,2024-10-20 11:21:07
-Commanders,2024-10-20,Tuesday,Day,80,F,3 mph,E,"Sunny, with a high near 80. East wind around 3 mph.",2024-10-23 10:00,2024-10-20,2024-10-20 11:21:07
-Commanders,2024-10-20,Tuesday Night,Night,50,F,3 mph,S,"Mostly clear, with a low around 50.",2024-10-23 20:00,2024-10-20,2024-10-20 11:21:07
-Commanders,2024-10-20,Wednesday,Day,77,F,3 to 7 mph,S,"Sunny, with a high near 77.",2024-10-24 10:00,2024-10-20,2024-10-20 11:21:07
-Commanders,2024-10-20,Wednesday Night,Night,54,F,8 mph,SW,"Mostly clear, with a low around 54.",2024-10-24 20:00,2024-10-20,2024-10-20 11:21:07
-Commanders,2024-10-20,Thursday,Day,66,F,9 to 13 mph,NW,"Sunny, with a high near 66.",2024-10-25 10:00,2024-10-20,2024-10-20 11:21:07
-Commanders,2024-10-20,Thursday Night,Night,44,F,6 to 10 mph,NW,"Mostly clear, with a low around 44.",2024-10-25 20:00,2024-10-20,2024-10-20 11:21:07
-Commanders,2024-10-20,Friday,Day,63,F,7 mph,NW,"Mostly sunny, with a high near 63.",2024-10-26 10:00,2024-10-20,2024-10-20 11:21:07
-Commanders,2024-10-20,Friday Night,Night,46,F,6 mph,S,"Partly cloudy, with a low around 46.",2024-10-26 20:00,2024-10-20,2024-10-20 11:21:07
-Commanders,2024-10-20,Saturday,Day,68,F,3 to 7 mph,SW,"Mostly sunny, with a high near 68.",2024-10-27 10:00,2024-10-20,2024-10-20 11:21:07
-Commanders,2024-10-20,Saturday Night,Night,47,F,7 mph,S,"Partly cloudy, with a low around 47.",2024-10-27 20:00,2024-10-20,2024-10-20 11:21:07
-Browns,2024-10-20,Today,Day,70,F,8 mph,SW,"Sunny, with a high near 70. Southwest wind around 8 mph.",2024-10-20 10:00,2024-10-20,2024-10-20 11:21:07
-Browns,2024-10-20,Tonight,Day,53,F,8 mph,SW,"Clear, with a low around 53. Southwest wind around 8 mph.",2024-10-20 10:00,2024-10-20,2024-10-20 11:21:07
-Browns,2024-10-20,Monday,Day,74,F,9 mph,SW,"Sunny, with a high near 74. Southwest wind around 9 mph.",2024-10-22 10:00,2024-10-20,2024-10-20 11:21:07
-Browns,2024-10-20,Monday Night,Night,53,F,7 mph,SW,"Clear, with a low around 53. Southwest wind around 7 mph.",2024-10-22 20:00,2024-10-20,2024-10-20 11:21:07
-Browns,2024-10-20,Tuesday,Day,76,F,8 mph,S,"Sunny, with a high near 76. South wind around 8 mph.",2024-10-23 10:00,2024-10-20,2024-10-20 11:21:07
-Browns,2024-10-20,Tuesday Night,Night,58,F,7 to 10 mph,S,"Partly cloudy, with a low around 58.",2024-10-23 20:00,2024-10-20,2024-10-20 11:21:07
-Browns,2024-10-20,Wednesday,Day,73,F,10 to 15 mph,SW,"A chance of rain showers after 2pm. Mostly sunny, with a high near 73. Chance of precipitation is 30%.",2024-10-24 10:00,2024-10-20,2024-10-20 11:21:07
-Browns,2024-10-20,Wednesday Night,Night,46,F,13 to 16 mph,NW,"A chance of rain showers. Mostly cloudy, with a low around 46. Chance of precipitation is 40%.",2024-10-24 20:00,2024-10-20,2024-10-20 11:21:07
-Browns,2024-10-20,Thursday,Day,55,F,12 mph,NW,"A slight chance of rain showers before 8am. Mostly sunny, with a high near 55.",2024-10-25 10:00,2024-10-20,2024-10-20 11:21:07
-Browns,2024-10-20,Thursday Night,Night,43,F,5 to 9 mph,SW,"Partly cloudy, with a low around 43.",2024-10-25 20:00,2024-10-20,2024-10-20 11:21:07
-Browns,2024-10-20,Friday,Day,60,F,6 to 9 mph,SW,"Mostly sunny, with a high near 60.",2024-10-26 10:00,2024-10-20,2024-10-20 11:21:07
-Browns,2024-10-20,Friday Night,Night,47,F,8 mph,S,"A slight chance of rain showers after 8pm. Partly cloudy, with a low around 47.",2024-10-26 20:00,2024-10-20,2024-10-20 11:21:07
-Browns,2024-10-20,Saturday,Day,63,F,8 to 12 mph,S,"A slight chance of rain showers. Mostly sunny, with a high near 63.",2024-10-27 10:00,2024-10-20,2024-10-20 11:21:07
-Browns,2024-10-20,Saturday Night,Night,49,F,12 mph,S,"A chance of rain showers. Mostly cloudy, with a low around 49. Chance of precipitation is 30%.",2024-10-27 20:00,2024-10-20,2024-10-20 11:21:07
-Lions,2024-10-20,Today,Day,73,F,7 to 12 mph,SW,"Sunny, with a high near 73. Southwest wind 7 to 12 mph.",2024-10-20 10:00,2024-10-20,2024-10-20 11:21:07
-Lions,2024-10-20,Tonight,Day,50,F,8 mph,SW,"Mostly clear, with a low around 50. Southwest wind around 8 mph.",2024-10-20 10:00,2024-10-20,2024-10-20 11:21:07
-Lions,2024-10-20,Monday,Day,76,F,7 to 10 mph,SW,"Sunny, with a high near 76. Southwest wind 7 to 10 mph.",2024-10-22 10:00,2024-10-20,2024-10-20 11:21:07
-Lions,2024-10-20,Monday Night,Night,50,F,3 to 7 mph,SW,"Mostly clear, with a low around 50. Southwest wind 3 to 7 mph.",2024-10-22 20:00,2024-10-20,2024-10-20 11:21:07
-Lions,2024-10-20,Tuesday,Day,73,F,3 to 8 mph,SSW,"Mostly sunny, with a high near 73. South southwest wind 3 to 8 mph.",2024-10-23 10:00,2024-10-20,2024-10-20 11:21:07
-Lions,2024-10-20,Tuesday Night,Night,56,F,6 to 9 mph,S,"Partly cloudy, with a low around 56.",2024-10-23 20:00,2024-10-20,2024-10-20 11:21:07
-Lions,2024-10-20,Wednesday,Day,71,F,9 to 13 mph,WSW,"A chance of rain showers after 2pm. Mostly sunny, with a high near 71. Chance of precipitation is 30%.",2024-10-24 10:00,2024-10-20,2024-10-20 11:21:07
-Lions,2024-10-20,Wednesday Night,Night,41,F,7 to 12 mph,NW,"A chance of rain showers before 2am. Partly cloudy, with a low around 41.",2024-10-24 20:00,2024-10-20,2024-10-20 11:21:07
-Lions,2024-10-20,Thursday,Day,56,F,7 mph,WNW,"Sunny, with a high near 56.",2024-10-25 10:00,2024-10-20,2024-10-20 11:21:07
-Lions,2024-10-20,Thursday Night,Night,41,F,6 mph,WSW,"Partly cloudy, with a low around 41.",2024-10-25 20:00,2024-10-20,2024-10-20 11:21:07
-Lions,2024-10-20,Friday,Day,59,F,3 to 8 mph,SW,"Mostly sunny, with a high near 59.",2024-10-26 10:00,2024-10-20,2024-10-20 11:21:07
-Lions,2024-10-20,Friday Night,Night,44,F,7 mph,SSW,"A slight chance of rain showers after 8pm. Partly cloudy, with a low around 44.",2024-10-26 20:00,2024-10-20,2024-10-20 11:21:07
-Lions,2024-10-20,Saturday,Day,62,F,6 to 10 mph,SSW,"A slight chance of rain showers. Mostly sunny, with a high near 62.",2024-10-27 10:00,2024-10-20,2024-10-20 11:21:07
-Lions,2024-10-20,Saturday Night,Night,45,F,9 mph,SW,"A chance of rain showers. Mostly cloudy, with a low around 45.",2024-10-27 20:00,2024-10-20,2024-10-20 11:21:07
-Chiefs,2024-10-20,Today,Day,79,F,8 mph,SW,"Sunny, with a high near 79. Southwest wind around 8 mph.",2024-10-20 10:00,2024-10-20,2024-10-20 11:21:07
-Chiefs,2024-10-20,Tonight,Day,53,F,7 mph,S,"Mostly clear, with a low around 53. South wind around 7 mph.",2024-10-20 10:00,2024-10-20,2024-10-20 11:21:07
-Chiefs,2024-10-20,Monday,Day,80,F,6 to 13 mph,S,"Sunny, with a high near 80. South wind 6 to 13 mph, with gusts as high as 22 mph.",2024-10-22 10:00,2024-10-20,2024-10-20 11:21:07
-Chiefs,2024-10-20,Monday Night,Night,59,F,8 to 13 mph,S,"Rain showers likely between 7pm and 1am, then a chance of showers and thunderstorms. Partly cloudy, with a low around 59. South wind 8 to 13 mph, with gusts as high as 22 mph. Chance of precipitation is 60%. New rainfall amounts less than a tenth of an inch possible.",2024-10-22 20:00,2024-10-20,2024-10-20 11:21:07
-Chiefs,2024-10-20,Tuesday,Day,83,F,8 to 13 mph,SW,"A chance of showers and thunderstorms before 7am. Sunny, with a high near 83. Southwest wind 8 to 13 mph, with gusts as high as 22 mph. Chance of precipitation is 40%. New rainfall amounts less than a tenth of an inch possible.",2024-10-23 10:00,2024-10-20,2024-10-20 11:21:07
-Chiefs,2024-10-20,Tuesday Night,Night,56,F,2 to 6 mph,WNW,"Clear, with a low around 56.",2024-10-23 20:00,2024-10-20,2024-10-20 11:21:07
-Chiefs,2024-10-20,Wednesday,Day,73,F,5 to 10 mph,N,"Sunny, with a high near 73.",2024-10-24 10:00,2024-10-20,2024-10-20 11:21:07
-Chiefs,2024-10-20,Wednesday Night,Night,44,F,6 to 9 mph,NE,"Clear, with a low around 44.",2024-10-24 20:00,2024-10-20,2024-10-20 11:21:07
-Chiefs,2024-10-20,Thursday,Day,67,F,6 to 9 mph,ESE,"Sunny, with a high near 67.",2024-10-25 10:00,2024-10-20,2024-10-20 11:21:07
-Chiefs,2024-10-20,Thursday Night,Night,49,F,8 mph,SSE,"A slight chance of showers and thunderstorms after 7pm. Mostly clear, with a low around 49.",2024-10-25 20:00,2024-10-20,2024-10-20 11:21:07
-Chiefs,2024-10-20,Friday,Day,73,F,7 to 12 mph,S,"A slight chance of showers and thunderstorms before 7am. Sunny, with a high near 73.",2024-10-26 10:00,2024-10-20,2024-10-20 11:21:07
-Chiefs,2024-10-20,Friday Night,Night,53,F,10 mph,SSE,"A slight chance of rain showers between 7pm and 1am. Mostly clear, with a low around 53.",2024-10-26 20:00,2024-10-20,2024-10-20 11:21:07
-Chiefs,2024-10-20,Saturday,Day,74,F,10 to 14 mph,SSW,"Mostly sunny, with a high near 74.",2024-10-27 10:00,2024-10-20,2024-10-20 11:21:07
-Chiefs,2024-10-20,Saturday Night,Night,49,F,7 to 10 mph,WNW,"Mostly clear, with a low around 49.",2024-10-27 20:00,2024-10-20,2024-10-20 11:21:07
-Patriots,2024-10-20,Today,Day,72,F,7 mph,SW,"Sunny, with a high near 72. Southwest wind around 7 mph.",2024-10-20 10:00,2024-10-20,2024-10-20 11:21:07
-Patriots,2024-10-20,Tonight,Day,45,F,6 mph,SW,"Clear, with a low around 45. Southwest wind around 6 mph.",2024-10-20 10:00,2024-10-20,2024-10-20 11:21:07
-Patriots,2024-10-20,Monday,Day,76,F,6 to 9 mph,W,"Sunny, with a high near 76. West wind 6 to 9 mph.",2024-10-22 10:00,2024-10-20,2024-10-20 11:21:07
-Patriots,2024-10-20,Monday Night,Night,51,F,2 to 6 mph,NW,"Clear, with a low around 51. Northwest wind 2 to 6 mph.",2024-10-22 20:00,2024-10-20,2024-10-20 11:21:07
-Patriots,2024-10-20,Tuesday,Day,73,F,5 mph,NE,"Sunny, with a high near 73. Northeast wind around 5 mph.",2024-10-23 10:00,2024-10-20,2024-10-20 11:21:07
-Patriots,2024-10-20,Tuesday Night,Night,50,F,5 mph,S,"Mostly clear, with a low around 50. South wind around 5 mph.",2024-10-23 20:00,2024-10-20,2024-10-20 11:21:07
-Patriots,2024-10-20,Wednesday,Day,73,F,2 to 9 mph,S,"Sunny, with a high near 73. South wind 2 to 9 mph.",2024-10-24 10:00,2024-10-20,2024-10-20 11:21:07
-Patriots,2024-10-20,Wednesday Night,Night,52,F,9 mph,SW,"Partly cloudy, with a low around 52. Southwest wind around 9 mph.",2024-10-24 20:00,2024-10-20,2024-10-20 11:21:07
-Patriots,2024-10-20,Thursday,Day,62,F,8 to 12 mph,W,"Mostly sunny, with a high near 62. West wind 8 to 12 mph, with gusts as high as 24 mph.",2024-10-25 10:00,2024-10-20,2024-10-20 11:21:07
-Patriots,2024-10-20,Thursday Night,Night,37,F,6 to 10 mph,NW,"Mostly clear, with a low around 37. Northwest wind 6 to 10 mph, with gusts as high as 21 mph.",2024-10-25 20:00,2024-10-20,2024-10-20 11:21:07
-Patriots,2024-10-20,Friday,Day,55,F,6 mph,NW,"Mostly sunny, with a high near 55. Northwest wind around 6 mph.",2024-10-26 10:00,2024-10-20,2024-10-20 11:21:07
-Patriots,2024-10-20,Friday Night,Night,37,F,6 mph,W,"Partly cloudy, with a low around 37. West wind around 6 mph.",2024-10-26 20:00,2024-10-20,2024-10-20 11:21:07
-Patriots,2024-10-20,Saturday,Day,58,F,7 mph,W,"Mostly sunny, with a high near 58. West wind around 7 mph.",2024-10-27 10:00,2024-10-20,2024-10-20 11:21:07
-Patriots,2024-10-20,Saturday Night,Night,39,F,7 mph,SW,"Partly cloudy, with a low around 39. Southwest wind around 7 mph.",2024-10-27 20:00,2024-10-20,2024-10-20 11:21:07
-Dolphins,2024-10-20,Today,Day,85,F,16 mph,NE,"A slight chance of rain showers. Mostly sunny, with a high near 85. Northeast wind around 16 mph, with gusts as high as 23 mph. Chance of precipitation is 20%. New rainfall amounts less than a tenth of an inch possible.",2024-10-20 10:00,2024-10-20,2024-10-20 11:21:07
-Dolphins,2024-10-20,Tonight,Day,75,F,10 to 15 mph,NE,"A slight chance of rain showers. Mostly cloudy, with a low around 75. Northeast wind 10 to 15 mph, with gusts as high as 22 mph. Chance of precipitation is 20%. New rainfall amounts less than a tenth of an inch possible.",2024-10-20 10:00,2024-10-20,2024-10-20 11:21:07
-Dolphins,2024-10-20,Monday,Day,85,F,10 to 16 mph,NE,"A slight chance of rain showers. Mostly sunny, with a high near 85. Northeast wind 10 to 16 mph, with gusts as high as 23 mph. Chance of precipitation is 20%. New rainfall amounts less than a tenth of an inch possible.",2024-10-22 10:00,2024-10-20,2024-10-20 11:21:07
-Dolphins,2024-10-20,Monday Night,Night,75,F,10 to 15 mph,NE,"A slight chance of rain showers before 2am. Partly cloudy, with a low around 75. Northeast wind 10 to 15 mph, with gusts as high as 21 mph. Chance of precipitation is 20%.",2024-10-22 20:00,2024-10-20,2024-10-20 11:21:07
-Dolphins,2024-10-20,Tuesday,Day,86,F,10 to 17 mph,NE,"A slight chance of rain showers after 8am. Sunny, with a high near 86. Northeast wind 10 to 17 mph, with gusts as high as 24 mph. Chance of precipitation is 20%.",2024-10-23 10:00,2024-10-20,2024-10-20 11:21:07
-Dolphins,2024-10-20,Tuesday Night,Night,75,F,9 to 16 mph,NE,"A slight chance of rain showers. Mostly clear, with a low around 75. Northeast wind 9 to 16 mph, with gusts as high as 22 mph. Chance of precipitation is 20%.",2024-10-23 20:00,2024-10-20,2024-10-20 11:21:07
-Dolphins,2024-10-20,Wednesday,Day,86,F,10 to 15 mph,NE,"A slight chance of rain showers. Sunny, with a high near 86. Northeast wind 10 to 15 mph, with gusts as high as 20 mph. Chance of precipitation is 20%.",2024-10-24 10:00,2024-10-20,2024-10-20 11:21:07
-Dolphins,2024-10-20,Wednesday Night,Night,74,F,7 to 13 mph,NE,"A slight chance of rain showers. Mostly clear, with a low around 74. Northeast wind 7 to 13 mph, with gusts as high as 18 mph. Chance of precipitation is 20%.",2024-10-24 20:00,2024-10-20,2024-10-20 11:21:07
-Dolphins,2024-10-20,Thursday,Day,85,F,8 to 13 mph,NE,"A slight chance of rain showers. Sunny, with a high near 85. Northeast wind 8 to 13 mph. Chance of precipitation is 20%.",2024-10-25 10:00,2024-10-20,2024-10-20 11:21:07
-Dolphins,2024-10-20,Thursday Night,Night,74,F,6 to 12 mph,NE,"A slight chance of rain showers. Partly cloudy, with a low around 74. Chance of precipitation is 20%.",2024-10-25 20:00,2024-10-20,2024-10-20 11:21:07
-Dolphins,2024-10-20,Friday,Day,85,F,7 to 14 mph,NE,"A slight chance of rain showers. Mostly sunny, with a high near 85. Chance of precipitation is 20%.",2024-10-26 10:00,2024-10-20,2024-10-20 11:21:07
-Dolphins,2024-10-20,Friday Night,Night,75,F,8 to 13 mph,NE,"A slight chance of rain showers before 2am. Partly cloudy, with a low around 75. Chance of precipitation is 20%.",2024-10-26 20:00,2024-10-20,2024-10-20 11:21:07
-Dolphins,2024-10-20,Saturday,Day,84,F,9 to 15 mph,NE,"A slight chance of rain showers after 8am. Partly sunny, with a high near 84. Chance of precipitation is 20%.",2024-10-27 10:00,2024-10-20,2024-10-20 11:21:07
-Dolphins,2024-10-20,Saturday Night,Night,76,F,8 to 14 mph,NE,"A slight chance of rain showers before 2am. Mostly cloudy, with a low around 76. Chance of precipitation is 20%.",2024-10-27 20:00,2024-10-20,2024-10-20 11:21:07
-Bills,2024-10-20,Today,Day,69,F,10 to 15 mph,SW,"Sunny, with a high near 69. Southwest wind 10 to 15 mph, with gusts as high as 26 mph.",2024-10-20 10:00,2024-10-20,2024-10-20 11:21:07
-Bills,2024-10-20,Tonight,Day,54,F,12 mph,SW,"Mostly clear, with a low around 54. Southwest wind around 12 mph.",2024-10-20 10:00,2024-10-20,2024-10-20 11:21:07
-Bills,2024-10-20,Monday,Day,71,F,10 to 18 mph,SW,"Mostly sunny, with a high near 71. Southwest wind 10 to 18 mph.",2024-10-22 10:00,2024-10-20,2024-10-20 11:21:07
-Bills,2024-10-20,Monday Night,Night,53,F,5 to 14 mph,SW,"Mostly clear, with a low around 53. Southwest wind 5 to 14 mph.",2024-10-22 20:00,2024-10-20,2024-10-20 11:21:07
-Bills,2024-10-20,Tuesday,Day,77,F,5 to 10 mph,SW,"Sunny, with a high near 77. Southwest wind 5 to 10 mph.",2024-10-23 10:00,2024-10-20,2024-10-20 11:21:07
-Bills,2024-10-20,Tuesday Night,Night,58,F,5 to 10 mph,S,"Mostly clear, with a low around 58. South wind 5 to 10 mph.",2024-10-23 20:00,2024-10-20,2024-10-20 11:21:07
-Bills,2024-10-20,Wednesday,Day,72,F,10 to 20 mph,SW,"A chance of rain showers after 2pm. Mostly sunny, with a high near 72. Southwest wind 10 to 20 mph, with gusts as high as 30 mph. Chance of precipitation is 30%.",2024-10-24 10:00,2024-10-20,2024-10-20 11:21:07
-Bills,2024-10-20,Wednesday Night,Night,42,F,12 to 18 mph,W,"Rain showers likely. Mostly cloudy, with a low around 42. West wind 12 to 18 mph, with gusts as high as 30 mph. Chance of precipitation is 70%.",2024-10-24 20:00,2024-10-20,2024-10-20 11:21:07
-Bills,2024-10-20,Thursday,Day,51,F,8 to 12 mph,NW,"A chance of rain showers. Partly sunny, with a high near 51. Chance of precipitation is 40%.",2024-10-25 10:00,2024-10-20,2024-10-20 11:21:07
-Bills,2024-10-20,Thursday Night,Night,39,F,3 to 7 mph,W,"A slight chance of rain showers before 8pm. Partly cloudy, with a low around 39.",2024-10-25 20:00,2024-10-20,2024-10-20 11:21:07
-Bills,2024-10-20,Friday,Day,56,F,3 to 9 mph,SW,"Mostly sunny, with a high near 56.",2024-10-26 10:00,2024-10-20,2024-10-20 11:21:07
-Bills,2024-10-20,Friday Night,Night,42,F,7 mph,SW,"Partly cloudy, with a low around 42.",2024-10-26 20:00,2024-10-20,2024-10-20 11:21:07
-Bills,2024-10-20,Saturday,Day,62,F,6 to 9 mph,SW,"A slight chance of rain showers after 2pm. Mostly sunny, with a high near 62.",2024-10-27 10:00,2024-10-20,2024-10-20 11:21:07
-Bills,2024-10-20,Saturday Night,Night,45,F,7 to 10 mph,SW,"A chance of rain showers. Mostly cloudy, with a low around 45. Chance of precipitation is 30%.",2024-10-27 20:00,2024-10-20,2024-10-20 11:21:07
-Packers,2024-10-20,Today,Day,79,F,6 to 14 mph,SW,"Mostly sunny. High near 79, with temperatures falling to around 76 in the afternoon. Southwest wind 6 to 14 mph, with gusts as high as 28 mph.",2024-10-20 10:00,2024-10-20,2024-10-20 11:21:07
-Packers,2024-10-20,Tonight,Day,56,F,7 to 10 mph,SW,"Mostly clear, with a low around 56. Southwest wind 7 to 10 mph, with gusts as high as 20 mph.",2024-10-20 10:00,2024-10-20,2024-10-20 11:21:07
-Packers,2024-10-20,Monday,Day,77,F,6 to 10 mph,SW,"Sunny. High near 77, with temperatures falling to around 74 in the afternoon. Southwest wind 6 to 10 mph.",2024-10-22 10:00,2024-10-20,2024-10-20 11:21:07
-Packers,2024-10-20,Monday Night,Night,55,F,8 mph,SSW,"Partly cloudy, with a low around 55. South southwest wind around 8 mph.",2024-10-22 20:00,2024-10-20,2024-10-20 11:21:07
-Packers,2024-10-20,Tuesday,Day,73,F,6 to 12 mph,SSW,"Mostly sunny, with a high near 73. South southwest wind 6 to 12 mph, with gusts as high as 20 mph.",2024-10-23 10:00,2024-10-20,2024-10-20 11:21:07
-Packers,2024-10-20,Tuesday Night,Night,49,F,10 mph,WSW,"A chance of rain showers after 7pm. Partly cloudy, with a low around 49. Chance of precipitation is 30%.",2024-10-23 20:00,2024-10-20,2024-10-20 11:21:07
-Packers,2024-10-20,Wednesday,Day,57,F,8 to 13 mph,NW,"A chance of rain showers. Partly sunny, with a high near 57. Chance of precipitation is 30%.",2024-10-24 10:00,2024-10-20,2024-10-20 11:21:07
-Packers,2024-10-20,Wednesday Night,Night,33,F,3 to 10 mph,NW,"A slight chance of rain showers before 7pm. Mostly clear, with a low around 33.",2024-10-24 20:00,2024-10-20,2024-10-20 11:21:07
-Packers,2024-10-20,Thursday,Day,54,F,3 to 7 mph,W,"Sunny, with a high near 54.",2024-10-25 10:00,2024-10-20,2024-10-20 11:21:07
-Packers,2024-10-20,Thursday Night,Night,37,F,6 mph,SW,"A slight chance of rain showers after 7pm. Partly cloudy, with a low around 37.",2024-10-25 20:00,2024-10-20,2024-10-20 11:21:07
-Packers,2024-10-20,Friday,Day,60,F,3 to 8 mph,SSW,"A slight chance of rain showers before 7am. Sunny, with a high near 60.",2024-10-26 10:00,2024-10-20,2024-10-20 11:21:07
-Packers,2024-10-20,Friday Night,Night,41,F,7 mph,S,"Partly cloudy, with a low around 41.",2024-10-26 20:00,2024-10-20,2024-10-20 11:21:07
-Packers,2024-10-20,Saturday,Day,62,F,6 to 12 mph,S,"A slight chance of rain showers after 1pm. Partly sunny, with a high near 62.",2024-10-27 10:00,2024-10-20,2024-10-20 11:21:07
-Packers,2024-10-20,Saturday Night,Night,44,F,7 to 10 mph,SSW,"A chance of rain showers. Mostly cloudy, with a low around 44.",2024-10-27 20:00,2024-10-20,2024-10-20 11:21:07
-49ers,2024-10-20,Today,Day,78,F,1 to 9 mph,WNW,"Sunny. High near 78, with temperatures falling to around 75 in the afternoon. West northwest wind 1 to 9 mph.",2024-10-20 10:00,2024-10-20,2024-10-20 11:21:07
-49ers,2024-10-20,Tonight,Day,50,F,2 to 6 mph,WNW,"Partly cloudy, with a low around 50. West northwest wind 2 to 6 mph.",2024-10-20 10:00,2024-10-20,2024-10-20 11:21:07
-49ers,2024-10-20,Monday,Day,72,F,1 to 10 mph,WNW,"Sunny. High near 72, with temperatures falling to around 68 in the afternoon. West northwest wind 1 to 10 mph.",2024-10-22 10:00,2024-10-20,2024-10-20 11:21:07
-49ers,2024-10-20,Monday Night,Night,50,F,2 to 8 mph,WNW,"Patchy fog after 4am. Mostly clear, with a low around 50. West northwest wind 2 to 8 mph.",2024-10-22 20:00,2024-10-20,2024-10-20 11:21:07
-49ers,2024-10-20,Tuesday,Day,73,F,2 to 9 mph,WNW,"Patchy fog before 8am. Sunny, with a high near 73. West northwest wind 2 to 9 mph.",2024-10-23 10:00,2024-10-20,2024-10-20 11:21:07
-49ers,2024-10-20,Tuesday Night,Night,52,F,2 to 7 mph,NNE,"Clear, with a low around 52.",2024-10-23 20:00,2024-10-20,2024-10-20 11:21:07
-49ers,2024-10-20,Wednesday,Day,79,F,2 to 6 mph,N,"Sunny, with a high near 79.",2024-10-24 10:00,2024-10-20,2024-10-20 11:21:07
-49ers,2024-10-20,Wednesday Night,Night,53,F,6 mph,WSW,"Mostly clear, with a low around 53.",2024-10-24 20:00,2024-10-20,2024-10-20 11:21:07
-49ers,2024-10-20,Thursday,Day,75,F,3 to 7 mph,WSW,"A slight chance of drizzle after 5pm. Mostly sunny, with a high near 75.",2024-10-25 10:00,2024-10-20,2024-10-20 11:21:07
-49ers,2024-10-20,Thursday Night,Night,53,F,3 to 7 mph,SSW,"A slight chance of drizzle before 11pm, then a slight chance of rain between 11pm and 5am, then a slight chance of drizzle. Mostly cloudy, with a low around 53.",2024-10-25 20:00,2024-10-20,2024-10-20 11:21:07
-49ers,2024-10-20,Friday,Day,71,F,3 to 8 mph,W,"A slight chance of drizzle before 11am. Mostly sunny, with a high near 71.",2024-10-26 10:00,2024-10-20,2024-10-20 11:21:07
-49ers,2024-10-20,Friday Night,Night,52,F,2 to 8 mph,NNW,"Partly cloudy, with a low around 52.",2024-10-26 20:00,2024-10-20,2024-10-20 11:21:07
-49ers,2024-10-20,Saturday,Day,72,F,2 to 8 mph,NNW,"Sunny, with a high near 72.",2024-10-27 10:00,2024-10-20,2024-10-20 11:21:07
-49ers,2024-10-20,Saturday Night,Night,52,F,2 to 8 mph,NNW,"Partly cloudy, with a low around 52.",2024-10-27 20:00,2024-10-20,2024-10-20 11:21:07
-Eagles,2024-10-20,Today,Day,76,F,0 to 5 mph,W,"Sunny, with a high near 76. West wind 0 to 5 mph.",2024-10-20 10:00,2024-10-20,2024-10-20 11:21:07
-Eagles,2024-10-20,Tonight,Day,45,F,0 to 5 mph,W,"Clear, with a low around 45. West wind 0 to 5 mph.",2024-10-20 10:00,2024-10-20,2024-10-20 11:21:07
-Eagles,2024-10-20,Monday,Day,80,F,0 to 5 mph,W,"Sunny, with a high near 80. West wind 0 to 5 mph.",2024-10-22 10:00,2024-10-20,2024-10-20 11:21:07
-Eagles,2024-10-20,Monday Night,Night,55,F,0 to 5 mph,NW,"Clear, with a low around 55. Northwest wind 0 to 5 mph.",2024-10-22 20:00,2024-10-20,2024-10-20 11:21:07
-Eagles,2024-10-20,Tuesday,Day,82,F,0 to 5 mph,NE,"Sunny, with a high near 82. Northeast wind 0 to 5 mph.",2024-10-23 10:00,2024-10-20,2024-10-20 11:21:07
-Eagles,2024-10-20,Tuesday Night,Night,53,F,0 to 5 mph,S,"Mostly clear, with a low around 53.",2024-10-23 20:00,2024-10-20,2024-10-20 11:21:07
-Eagles,2024-10-20,Wednesday,Day,78,F,0 to 5 mph,S,"Sunny, with a high near 78.",2024-10-24 10:00,2024-10-20,2024-10-20 11:21:07
-Eagles,2024-10-20,Wednesday Night,Night,54,F,5 mph,SW,"Partly cloudy, with a low around 54.",2024-10-24 20:00,2024-10-20,2024-10-20 11:21:07
-Eagles,2024-10-20,Thursday,Day,66,F,5 to 10 mph,NW,"Sunny, with a high near 66.",2024-10-25 10:00,2024-10-20,2024-10-20 11:21:07
-Eagles,2024-10-20,Thursday Night,Night,43,F,5 to 10 mph,NW,"Mostly clear, with a low around 43.",2024-10-25 20:00,2024-10-20,2024-10-20 11:21:07
-Eagles,2024-10-20,Friday,Day,63,F,5 mph,NW,"Mostly sunny, with a high near 63.",2024-10-26 10:00,2024-10-20,2024-10-20 11:21:07
-Eagles,2024-10-20,Friday Night,Night,45,F,0 to 5 mph,NW,"Partly cloudy, with a low around 45.",2024-10-26 20:00,2024-10-20,2024-10-20 11:21:07
-Eagles,2024-10-20,Saturday,Day,66,F,0 to 5 mph,W,"Sunny, with a high near 66.",2024-10-27 10:00,2024-10-20,2024-10-20 11:21:07
-Eagles,2024-10-20,Saturday Night,Night,47,F,5 mph,SW,"Partly cloudy, with a low around 47.",2024-10-27 20:00,2024-10-20,2024-10-20 11:21:07
-Colts,2024-10-20,Today,Day,73,F,6 mph,SW,"Sunny, with a high near 73. Southwest wind around 6 mph.",2024-10-20 10:00,2024-10-20,2024-10-20 11:21:07
-Colts,2024-10-20,Tonight,Day,46,F,6 mph,SSW,"Clear. Low around 46, with temperatures rising to around 48 overnight. South southwest wind around 6 mph.",2024-10-20 10:00,2024-10-20,2024-10-20 11:21:07
-Colts,2024-10-20,Monday,Day,77,F,2 to 6 mph,SSW,"Sunny, with a high near 77. South southwest wind 2 to 6 mph.",2024-10-22 10:00,2024-10-20,2024-10-20 11:21:07
-Colts,2024-10-20,Monday Night,Night,48,F,2 to 6 mph,S,"Mostly clear, with a low around 48. South wind 2 to 6 mph.",2024-10-22 20:00,2024-10-20,2024-10-20 11:21:07
-Colts,2024-10-20,Tuesday,Day,76,F,2 to 10 mph,S,"Mostly sunny, with a high near 76. South wind 2 to 10 mph.",2024-10-23 10:00,2024-10-20,2024-10-20 11:21:07
-Colts,2024-10-20,Tuesday Night,Night,56,F,9 mph,SSW,"Mostly clear, with a low around 56. South southwest wind around 9 mph.",2024-10-23 20:00,2024-10-20,2024-10-20 11:21:07
-Colts,2024-10-20,Wednesday,Day,77,F,6 to 10 mph,WSW,"Sunny, with a high near 77. West southwest wind 6 to 10 mph, with gusts as high as 18 mph.",2024-10-24 10:00,2024-10-20,2024-10-20 11:21:07
-Colts,2024-10-20,Wednesday Night,Night,43,F,6 to 10 mph,NNW,"Mostly clear, with a low around 43. North northwest wind 6 to 10 mph.",2024-10-24 20:00,2024-10-20,2024-10-20 11:21:07
-Colts,2024-10-20,Thursday,Day,62,F,6 mph,N,"Sunny, with a high near 62. North wind around 6 mph.",2024-10-25 10:00,2024-10-20,2024-10-20 11:21:07
-Colts,2024-10-20,Thursday Night,Night,42,F,6 mph,E,"Mostly clear, with a low around 42. East wind around 6 mph.",2024-10-25 20:00,2024-10-20,2024-10-20 11:21:07
-Colts,2024-10-20,Friday,Day,66,F,3 to 7 mph,SSE,"Sunny, with a high near 66.",2024-10-26 10:00,2024-10-20,2024-10-20 11:21:07
-Colts,2024-10-20,Friday Night,Night,47,F,7 mph,S,"Mostly clear, with a low around 47.",2024-10-26 20:00,2024-10-20,2024-10-20 11:21:07
-Colts,2024-10-20,Saturday,Day,69,F,6 to 10 mph,SSE,"Mostly sunny, with a high near 69.",2024-10-27 10:00,2024-10-20,2024-10-20 11:21:07
-Colts,2024-10-20,Saturday Night,Night,50,F,7 to 10 mph,S,"A slight chance of rain showers after 8pm. Partly cloudy, with a low around 50. Chance of precipitation is 20%.",2024-10-27 20:00,2024-10-20,2024-10-20 11:21:07
-Seahawks,2024-10-20,Today,Day,68,F,10 to 20 mph,SSW,"Rain after 11am. Mostly cloudy. High near 68, with temperatures falling to around 61 in the afternoon. South southwest wind 10 to 20 mph, with gusts as high as 28 mph. Chance of precipitation is 90%. New rainfall amounts between a tenth and quarter of an inch possible.",2024-10-20 10:00,2024-10-20,2024-10-20 11:21:07
-Seahawks,2024-10-20,Tonight,Day,50,F,5 to 18 mph,SSW,"Rain. Mostly cloudy, with a low around 50. South southwest wind 5 to 18 mph, with gusts as high as 23 mph. Chance of precipitation is 80%. New rainfall amounts between a tenth and quarter of an inch possible.",2024-10-20 10:00,2024-10-20,2024-10-20 11:21:07
-Seahawks,2024-10-20,Monday,Day,57,F,5 to 9 mph,S,"Rain. Mostly cloudy. High near 57, with temperatures falling to around 55 in the afternoon. South wind 5 to 9 mph. Chance of precipitation is 90%. New rainfall amounts between a tenth and quarter of an inch possible.",2024-10-22 10:00,2024-10-20,2024-10-20 11:21:07
-Seahawks,2024-10-20,Monday Night,Night,46,F,3 to 8 mph,S,"Rain. Mostly cloudy, with a low around 46. South wind 3 to 8 mph. Chance of precipitation is 80%. New rainfall amounts between a tenth and quarter of an inch possible.",2024-10-22 20:00,2024-10-20,2024-10-20 11:21:07
-Seahawks,2024-10-20,Tuesday,Day,56,F,2 to 6 mph,ENE,"A slight chance of rain before 11am. Mostly sunny, with a high near 56. East northeast wind 2 to 6 mph. Chance of precipitation is 20%. New rainfall amounts less than a tenth of an inch possible.",2024-10-23 10:00,2024-10-20,2024-10-20 11:21:07
-Seahawks,2024-10-20,Tuesday Night,Night,44,F,6 mph,N,"Partly cloudy, with a low around 44.",2024-10-23 20:00,2024-10-20,2024-10-20 11:21:07
-Seahawks,2024-10-20,Wednesday,Day,55,F,7 mph,N,"Partly sunny, with a high near 55.",2024-10-24 10:00,2024-10-20,2024-10-20 11:21:07
-Seahawks,2024-10-20,Wednesday Night,Night,43,F,6 mph,NNE,"Partly cloudy, with a low around 43.",2024-10-24 20:00,2024-10-20,2024-10-20 11:21:07
-Seahawks,2024-10-20,Thursday,Day,56,F,6 mph,NNW,"A chance of rain after 11am. Partly sunny, with a high near 56.",2024-10-25 10:00,2024-10-20,2024-10-20 11:21:07
-Seahawks,2024-10-20,Thursday Night,Night,47,F,6 mph,SSE,"Rain likely. Mostly cloudy, with a low around 47.",2024-10-25 20:00,2024-10-20,2024-10-20 11:21:07
-Seahawks,2024-10-20,Friday,Day,56,F,7 mph,S,"Rain likely. Mostly cloudy, with a high near 56.",2024-10-26 10:00,2024-10-20,2024-10-20 11:21:07
-Seahawks,2024-10-20,Friday Night,Night,49,F,9 mph,S,"Rain likely. Mostly cloudy, with a low around 49.",2024-10-26 20:00,2024-10-20,2024-10-20 11:21:07
-Seahawks,2024-10-20,Saturday,Day,58,F,10 mph,S,"Rain. Mostly cloudy, with a high near 58.",2024-10-27 10:00,2024-10-20,2024-10-20 11:21:07
-Seahawks,2024-10-20,Saturday Night,Night,50,F,10 mph,S,"Rain. Mostly cloudy, with a low around 50.",2024-10-27 20:00,2024-10-20,2024-10-20 11:21:07
-Ravens,2024-10-20,Today,Day,76,F,3 mph,W,"Sunny, with a high near 76. West wind around 3 mph.",2024-10-20 10:00,2024-10-20,2024-10-20 11:21:07
-Ravens,2024-10-20,Tonight,Day,47,F,2 mph,W,"Clear, with a low around 47. West wind around 2 mph.",2024-10-20 10:00,2024-10-20,2024-10-20 11:21:07
-Ravens,2024-10-20,Monday,Day,79,F,5 mph,W,"Sunny, with a high near 79. West wind around 5 mph.",2024-10-22 10:00,2024-10-20,2024-10-20 11:21:07
-Ravens,2024-10-20,Monday Night,Night,52,F,3 mph,NW,"Clear, with a low around 52. Northwest wind around 3 mph.",2024-10-22 20:00,2024-10-20,2024-10-20 11:21:07
-Ravens,2024-10-20,Tuesday,Day,80,F,1 to 5 mph,E,"Sunny, with a high near 80. East wind 1 to 5 mph.",2024-10-23 10:00,2024-10-20,2024-10-20 11:21:07
-Ravens,2024-10-20,Tuesday Night,Night,51,F,3 mph,S,"Mostly clear, with a low around 51.",2024-10-23 20:00,2024-10-20,2024-10-20 11:21:07
-Ravens,2024-10-20,Wednesday,Day,76,F,2 to 8 mph,S,"Sunny, with a high near 76.",2024-10-24 10:00,2024-10-20,2024-10-20 11:21:07
-Ravens,2024-10-20,Wednesday Night,Night,54,F,6 to 9 mph,SW,"Partly cloudy, with a low around 54.",2024-10-24 20:00,2024-10-20,2024-10-20 11:21:07
-Ravens,2024-10-20,Thursday,Day,66,F,9 to 14 mph,NW,"Sunny, with a high near 66.",2024-10-25 10:00,2024-10-20,2024-10-20 11:21:07
-Ravens,2024-10-20,Thursday Night,Night,44,F,7 to 12 mph,N,"Mostly clear, with a low around 44.",2024-10-25 20:00,2024-10-20,2024-10-20 11:21:07
-Ravens,2024-10-20,Friday,Day,63,F,7 mph,NW,"Mostly sunny, with a high near 63.",2024-10-26 10:00,2024-10-20,2024-10-20 11:21:07
-Ravens,2024-10-20,Friday Night,Night,47,F,3 to 7 mph,NW,"Partly cloudy, with a low around 47.",2024-10-26 20:00,2024-10-20,2024-10-20 11:21:07
-Ravens,2024-10-20,Saturday,Day,67,F,5 to 9 mph,NE,"Mostly sunny, with a high near 67.",2024-10-27 10:00,2024-10-20,2024-10-20 11:21:07
-Ravens,2024-10-20,Saturday Night,Night,48,F,5 to 8 mph,SW,"Partly cloudy, with a low around 48.",2024-10-27 20:00,2024-10-20,2024-10-20 11:21:07
-Falcons,2024-10-20,Today,Day,76,F,5 mph,NE,"Sunny, with a high near 76. Northeast wind around 5 mph.",2024-10-20 10:00,2024-10-20,2024-10-20 11:21:07
-Falcons,2024-10-20,Tonight,Day,49,F,0 to 5 mph,N,"Clear, with a low around 49. North wind 0 to 5 mph.",2024-10-20 10:00,2024-10-20,2024-10-20 11:21:07
-Falcons,2024-10-20,Monday,Day,78,F,0 to 5 mph,NE,"Sunny, with a high near 78. Northeast wind 0 to 5 mph.",2024-10-22 10:00,2024-10-20,2024-10-20 11:21:07
-Falcons,2024-10-20,Monday Night,Night,50,F,0 to 5 mph,E,"Clear, with a low around 50. East wind 0 to 5 mph.",2024-10-22 20:00,2024-10-20,2024-10-20 11:21:07
-Falcons,2024-10-20,Tuesday,Day,77,F,5 mph,E,"Sunny, with a high near 77. East wind around 5 mph.",2024-10-23 10:00,2024-10-20,2024-10-20 11:21:07
-Falcons,2024-10-20,Tuesday Night,Night,52,F,0 to 5 mph,E,"Clear, with a low around 52.",2024-10-23 20:00,2024-10-20,2024-10-20 11:21:07
-Falcons,2024-10-20,Wednesday,Day,79,F,0 to 5 mph,E,"Sunny, with a high near 79.",2024-10-24 10:00,2024-10-20,2024-10-20 11:21:07
-Falcons,2024-10-20,Wednesday Night,Night,56,F,0 to 5 mph,NW,"Clear, with a low around 56.",2024-10-24 20:00,2024-10-20,2024-10-20 11:21:07
-Falcons,2024-10-20,Thursday,Day,80,F,5 mph,NW,"Sunny, with a high near 80.",2024-10-25 10:00,2024-10-20,2024-10-20 11:21:07
-Falcons,2024-10-20,Thursday Night,Night,53,F,5 mph,N,"Clear, with a low around 53.",2024-10-25 20:00,2024-10-20,2024-10-20 11:21:07
-Falcons,2024-10-20,Friday,Day,76,F,5 mph,E,"Sunny, with a high near 76.",2024-10-26 10:00,2024-10-20,2024-10-20 11:21:07
-Falcons,2024-10-20,Friday Night,Night,53,F,5 mph,E,"Mostly clear, with a low around 53.",2024-10-26 20:00,2024-10-20,2024-10-20 11:21:07
-Falcons,2024-10-20,Saturday,Day,77,F,5 mph,E,"Sunny, with a high near 77.",2024-10-27 10:00,2024-10-20,2024-10-20 11:21:07
-Falcons,2024-10-20,Saturday Night,Night,54,F,5 mph,E,"Mostly clear, with a low around 54.",2024-10-27 20:00,2024-10-20,2024-10-20 11:21:07
-Jets,2024-10-20,Today,Day,75,F,2 to 6 mph,SW,"Sunny. High near 75, with temperatures falling to around 73 in the afternoon. Southwest wind 2 to 6 mph.",2024-10-20 10:00,2024-10-20,2024-10-20 11:21:07
-Jets,2024-10-20,Tonight,Day,52,F,2 to 6 mph,SW,"Clear, with a low around 52. Southwest wind 2 to 6 mph.",2024-10-20 10:00,2024-10-20,2024-10-20 11:21:07
-Jets,2024-10-20,Monday,Day,80,F,6 mph,W,"Sunny, with a high near 80. West wind around 6 mph.",2024-10-22 10:00,2024-10-20,2024-10-20 11:21:07
-Jets,2024-10-20,Monday Night,Night,57,F,2 to 6 mph,NW,"Mostly clear. Low around 57, with temperatures rising to around 59 overnight. Northwest wind 2 to 6 mph.",2024-10-22 20:00,2024-10-20,2024-10-20 11:21:07
-Jets,2024-10-20,Tuesday,Day,78,F,2 to 6 mph,NE,"Sunny. High near 78, with temperatures falling to around 75 in the afternoon. Northeast wind 2 to 6 mph.",2024-10-23 10:00,2024-10-20,2024-10-20 11:21:07
-Jets,2024-10-20,Tuesday Night,Night,53,F,2 to 6 mph,S,"Mostly clear. Low around 53, with temperatures rising to around 56 overnight.",2024-10-23 20:00,2024-10-20,2024-10-20 11:21:07
-Jets,2024-10-20,Wednesday,Day,76,F,2 to 9 mph,S,"Sunny, with a high near 76.",2024-10-24 10:00,2024-10-20,2024-10-20 11:21:07
-Jets,2024-10-20,Wednesday Night,Night,53,F,6 to 9 mph,SW,"A slight chance of rain showers after 2am. Partly cloudy, with a low around 53.",2024-10-24 20:00,2024-10-20,2024-10-20 11:21:07
-Jets,2024-10-20,Thursday,Day,65,F,8 to 12 mph,NW,"Sunny, with a high near 65.",2024-10-25 10:00,2024-10-20,2024-10-20 11:21:07
-Jets,2024-10-20,Thursday Night,Night,44,F,6 to 10 mph,NW,"Mostly clear, with a low around 44.",2024-10-25 20:00,2024-10-20,2024-10-20 11:21:07
-Jets,2024-10-20,Friday,Day,61,F,7 mph,NW,"Mostly sunny, with a high near 61.",2024-10-26 10:00,2024-10-20,2024-10-20 11:21:07
-Jets,2024-10-20,Friday Night,Night,45,F,3 to 7 mph,NW,"Mostly clear, with a low around 45.",2024-10-26 20:00,2024-10-20,2024-10-20 11:21:07
-Jets,2024-10-20,Saturday,Day,64,F,5 to 8 mph,SW,"Mostly sunny, with a high near 64.",2024-10-27 10:00,2024-10-20,2024-10-20 11:21:07
-Jets,2024-10-20,Saturday Night,Night,47,F,7 mph,W,"Partly cloudy, with a low around 47.",2024-10-27 20:00,2024-10-20,2024-10-20 11:21:07
-Giants,2024-10-20,Today,Day,75,F,2 to 6 mph,SW,"Sunny. High near 75, with temperatures falling to around 73 in the afternoon. Southwest wind 2 to 6 mph.",2024-10-20 10:00,2024-10-20,2024-10-20 11:21:07
-Giants,2024-10-20,Tonight,Day,52,F,2 to 6 mph,SW,"Clear, with a low around 52. Southwest wind 2 to 6 mph.",2024-10-20 10:00,2024-10-20,2024-10-20 11:21:07
-Giants,2024-10-20,Monday,Day,80,F,6 mph,W,"Sunny, with a high near 80. West wind around 6 mph.",2024-10-22 10:00,2024-10-20,2024-10-20 11:21:07
-Giants,2024-10-20,Monday Night,Night,57,F,2 to 6 mph,NW,"Mostly clear. Low around 57, with temperatures rising to around 59 overnight. Northwest wind 2 to 6 mph.",2024-10-22 20:00,2024-10-20,2024-10-20 11:21:07
-Giants,2024-10-20,Tuesday,Day,78,F,2 to 6 mph,NE,"Sunny. High near 78, with temperatures falling to around 75 in the afternoon. Northeast wind 2 to 6 mph.",2024-10-23 10:00,2024-10-20,2024-10-20 11:21:07
-Giants,2024-10-20,Tuesday Night,Night,53,F,2 to 6 mph,S,"Mostly clear. Low around 53, with temperatures rising to around 56 overnight.",2024-10-23 20:00,2024-10-20,2024-10-20 11:21:07
-Giants,2024-10-20,Wednesday,Day,76,F,2 to 9 mph,S,"Sunny, with a high near 76.",2024-10-24 10:00,2024-10-20,2024-10-20 11:21:07
-Giants,2024-10-20,Wednesday Night,Night,53,F,6 to 9 mph,SW,"A slight chance of rain showers after 2am. Partly cloudy, with a low around 53.",2024-10-24 20:00,2024-10-20,2024-10-20 11:21:07
-Giants,2024-10-20,Thursday,Day,65,F,8 to 12 mph,NW,"Sunny, with a high near 65.",2024-10-25 10:00,2024-10-20,2024-10-20 11:21:07
-Giants,2024-10-20,Thursday Night,Night,44,F,6 to 10 mph,NW,"Mostly clear, with a low around 44.",2024-10-25 20:00,2024-10-20,2024-10-20 11:21:07
-Giants,2024-10-20,Friday,Day,61,F,7 mph,NW,"Mostly sunny, with a high near 61.",2024-10-26 10:00,2024-10-20,2024-10-20 11:21:07
-Giants,2024-10-20,Friday Night,Night,45,F,3 to 7 mph,NW,"Mostly clear, with a low around 45.",2024-10-26 20:00,2024-10-20,2024-10-20 11:21:07
-Giants,2024-10-20,Saturday,Day,64,F,5 to 8 mph,SW,"Mostly sunny, with a high near 64.",2024-10-27 10:00,2024-10-20,2024-10-20 11:21:07
-Giants,2024-10-20,Saturday Night,Night,47,F,7 mph,W,"Partly cloudy, with a low around 47.",2024-10-27 20:00,2024-10-20,2024-10-20 11:21:07
-Titans,2024-10-20,Today,Day,77,F,0 to 5 mph,NNE,"Sunny, with a high near 77. North northeast wind 0 to 5 mph.",2024-10-20 10:00,2024-10-20,2024-10-20 11:21:07
-Titans,2024-10-20,Tonight,Day,44,F,0 mph,,"Patchy fog after 4am. Mostly clear, with a low around 44. Northeast wind around 0 mph.",2024-10-20 10:00,2024-10-20,2024-10-20 11:21:07
-Titans,2024-10-20,Monday,Day,79,F,0 to 5 mph,ENE,"Areas of fog before 9am. Sunny, with a high near 79. East northeast wind 0 to 5 mph.",2024-10-22 10:00,2024-10-20,2024-10-20 11:21:07
-Titans,2024-10-20,Monday Night,Night,48,F,0 mph,,"Mostly clear, with a low around 48. East southeast wind around 0 mph.",2024-10-22 20:00,2024-10-20,2024-10-20 11:21:07
-Titans,2024-10-20,Tuesday,Day,82,F,0 to 10 mph,S,"Sunny, with a high near 82. South wind 0 to 10 mph.",2024-10-23 10:00,2024-10-20,2024-10-20 11:21:07
-Titans,2024-10-20,Tuesday Night,Night,54,F,5 mph,S,"Mostly clear, with a low around 54. South wind around 5 mph.",2024-10-23 20:00,2024-10-20,2024-10-20 11:21:07
-Titans,2024-10-20,Wednesday,Day,83,F,5 to 10 mph,SW,"Sunny, with a high near 83. Southwest wind 5 to 10 mph.",2024-10-24 10:00,2024-10-20,2024-10-20 11:21:07
-Titans,2024-10-20,Wednesday Night,Night,52,F,5 mph,NNW,"Mostly clear, with a low around 52. North northwest wind around 5 mph.",2024-10-24 20:00,2024-10-20,2024-10-20 11:21:07
-Titans,2024-10-20,Thursday,Day,73,F,5 mph,NNE,"Sunny, with a high near 73. North northeast wind around 5 mph.",2024-10-25 10:00,2024-10-20,2024-10-20 11:21:07
-Titans,2024-10-20,Thursday Night,Night,46,F,0 to 5 mph,NE,"Mostly clear, with a low around 46.",2024-10-25 20:00,2024-10-20,2024-10-20 11:21:07
-Titans,2024-10-20,Friday,Day,75,F,0 to 5 mph,E,"Sunny, with a high near 75.",2024-10-26 10:00,2024-10-20,2024-10-20 11:21:07
-Titans,2024-10-20,Friday Night,Night,50,F,5 mph,SE,"Mostly clear, with a low around 50.",2024-10-26 20:00,2024-10-20,2024-10-20 11:21:07
-Titans,2024-10-20,Saturday,Day,80,F,5 to 10 mph,S,"Sunny, with a high near 80.",2024-10-27 10:00,2024-10-20,2024-10-20 11:21:07
-Titans,2024-10-20,Saturday Night,Night,56,F,5 to 10 mph,S,"Mostly clear, with a low around 56.",2024-10-27 20:00,2024-10-20,2024-10-20 11:21:07
-Texans,2024-10-20,Today,Day,85,F,5 to 10 mph,E,"Sunny, with a high near 85. East wind 5 to 10 mph.",2024-10-20 10:00,2024-10-20,2024-10-20 11:21:07
-Texans,2024-10-20,Tonight,Day,62,F,5 to 10 mph,E,"Clear, with a low around 62. East wind 5 to 10 mph.",2024-10-20 10:00,2024-10-20,2024-10-20 11:21:07
-Texans,2024-10-20,Monday,Day,85,F,5 to 10 mph,E,"Sunny, with a high near 85. East wind 5 to 10 mph.",2024-10-22 10:00,2024-10-20,2024-10-20 11:21:07
-Texans,2024-10-20,Monday Night,Night,63,F,0 to 10 mph,SE,"Mostly clear, with a low around 63. Southeast wind 0 to 10 mph.",2024-10-22 20:00,2024-10-20,2024-10-20 11:21:07
-Texans,2024-10-20,Tuesday,Day,88,F,5 mph,E,"Mostly sunny, with a high near 88. East wind around 5 mph.",2024-10-23 10:00,2024-10-20,2024-10-20 11:21:07
-Texans,2024-10-20,Tuesday Night,Night,65,F,0 to 10 mph,SE,"Partly cloudy, with a low around 65.",2024-10-23 20:00,2024-10-20,2024-10-20 11:21:07
-Texans,2024-10-20,Wednesday,Day,89,F,0 to 5 mph,SE,"Sunny, with a high near 89.",2024-10-24 10:00,2024-10-20,2024-10-20 11:21:07
-Texans,2024-10-20,Wednesday Night,Night,64,F,0 to 10 mph,S,"Mostly clear, with a low around 64.",2024-10-24 20:00,2024-10-20,2024-10-20 11:21:07
-Texans,2024-10-20,Thursday,Day,90,F,0 to 10 mph,E,"Mostly sunny, with a high near 90.",2024-10-25 10:00,2024-10-20,2024-10-20 11:21:07
-Texans,2024-10-20,Thursday Night,Night,66,F,5 to 10 mph,SE,"Mostly clear, with a low around 66.",2024-10-25 20:00,2024-10-20,2024-10-20 11:21:07
-Texans,2024-10-20,Friday,Day,89,F,5 to 10 mph,SE,"Sunny, with a high near 89.",2024-10-26 10:00,2024-10-20,2024-10-20 11:21:07
-Texans,2024-10-20,Friday Night,Night,67,F,5 to 10 mph,SE,"Mostly clear, with a low around 67.",2024-10-26 20:00,2024-10-20,2024-10-20 11:21:07
-Texans,2024-10-20,Saturday,Day,88,F,5 to 10 mph,SE,"Sunny, with a high near 88.",2024-10-27 10:00,2024-10-20,2024-10-20 11:21:07
-Texans,2024-10-20,Saturday Night,Night,67,F,5 to 10 mph,SE,"Mostly clear, with a low around 67.",2024-10-27 20:00,2024-10-20,2024-10-20 11:21:07
-Bengals,2024-10-20,Today,Day,73,F,2 to 6 mph,SW,"Patchy fog before noon. Sunny, with a high near 73. Southwest wind 2 to 6 mph.",2024-10-20 10:00,2024-10-20,2024-10-20 11:21:07
-Bengals,2024-10-20,Tonight,Day,44,F,0 to 5 mph,SW,"Areas of fog after 2am. Clear, with a low around 44. Southwest wind 0 to 5 mph.",2024-10-20 10:00,2024-10-20,2024-10-20 11:21:07
-Bengals,2024-10-20,Monday,Day,76,F,0 to 3 mph,SW,"Areas of fog before 8am. Sunny, with a high near 76. Southwest wind 0 to 3 mph.",2024-10-22 10:00,2024-10-20,2024-10-20 11:21:07
-Bengals,2024-10-20,Monday Night,Night,47,F,3 mph,S,"Clear, with a low around 47. South wind around 3 mph.",2024-10-22 20:00,2024-10-20,2024-10-20 11:21:07
-Bengals,2024-10-20,Tuesday,Day,78,F,1 to 6 mph,S,"Sunny, with a high near 78. South wind 1 to 6 mph.",2024-10-23 10:00,2024-10-20,2024-10-20 11:21:07
-Bengals,2024-10-20,Tuesday Night,Night,54,F,2 to 6 mph,S,"Mostly clear, with a low around 54.",2024-10-23 20:00,2024-10-20,2024-10-20 11:21:07
-Bengals,2024-10-20,Wednesday,Day,78,F,5 to 10 mph,SW,"Sunny, with a high near 78.",2024-10-24 10:00,2024-10-20,2024-10-20 11:21:07
-Bengals,2024-10-20,Wednesday Night,Night,44,F,5 to 9 mph,NW,"Mostly clear, with a low around 44.",2024-10-24 20:00,2024-10-20,2024-10-20 11:21:07
-Bengals,2024-10-20,Thursday,Day,63,F,5 mph,N,"Sunny, with a high near 63.",2024-10-25 10:00,2024-10-20,2024-10-20 11:21:07
-Bengals,2024-10-20,Thursday Night,Night,41,F,5 mph,NE,"Mostly clear, with a low around 41.",2024-10-25 20:00,2024-10-20,2024-10-20 11:21:07
-Bengals,2024-10-20,Friday,Day,67,F,5 mph,SE,"Sunny, with a high near 67.",2024-10-26 10:00,2024-10-20,2024-10-20 11:21:07
-Bengals,2024-10-20,Friday Night,Night,46,F,5 mph,SE,"Mostly clear, with a low around 46.",2024-10-26 20:00,2024-10-20,2024-10-20 11:21:07
-Bengals,2024-10-20,Saturday,Day,71,F,2 to 7 mph,SE,"Sunny, with a high near 71.",2024-10-27 10:00,2024-10-20,2024-10-20 11:21:07
-Bengals,2024-10-20,Saturday Night,Night,50,F,7 mph,S,"A slight chance of rain showers after 2am. Partly cloudy, with a low around 50.",2024-10-27 20:00,2024-10-20,2024-10-20 11:21:07
-Buccaneers,2024-10-20,Today,Day,83,F,13 mph,NNE,"Mostly sunny, with a high near 83. North northeast wind around 13 mph, with gusts as high as 23 mph.",2024-10-20 10:00,2024-10-20,2024-10-20 11:21:07
-Buccaneers,2024-10-20,Tonight,Day,67,F,8 to 12 mph,NNE,"Partly cloudy, with a low around 67. North northeast wind 8 to 12 mph, with gusts as high as 22 mph.",2024-10-20 10:00,2024-10-20,2024-10-20 11:21:07
-Buccaneers,2024-10-20,Monday,Day,86,F,7 to 12 mph,NNE,"Sunny, with a high near 86. North northeast wind 7 to 12 mph, with gusts as high as 21 mph.",2024-10-22 10:00,2024-10-20,2024-10-20 11:21:07
-Buccaneers,2024-10-20,Monday Night,Night,69,F,6 to 12 mph,NE,"Mostly clear, with a low around 69. Northeast wind 6 to 12 mph, with gusts as high as 20 mph.",2024-10-22 20:00,2024-10-20,2024-10-20 11:21:07
-Buccaneers,2024-10-20,Tuesday,Day,87,F,6 to 12 mph,NE,"Sunny, with a high near 87. Northeast wind 6 to 12 mph, with gusts as high as 21 mph.",2024-10-23 10:00,2024-10-20,2024-10-20 11:21:07
-Buccaneers,2024-10-20,Tuesday Night,Night,67,F,6 to 10 mph,NE,"Mostly clear, with a low around 67. Northeast wind 6 to 10 mph, with gusts as high as 20 mph.",2024-10-23 20:00,2024-10-20,2024-10-20 11:21:07
-Buccaneers,2024-10-20,Wednesday,Day,86,F,6 to 9 mph,NNE,"Sunny, with a high near 86. North northeast wind 6 to 9 mph.",2024-10-24 10:00,2024-10-20,2024-10-20 11:21:07
-Buccaneers,2024-10-20,Wednesday Night,Night,66,F,3 to 9 mph,NNE,"Mostly clear, with a low around 66. North northeast wind 3 to 9 mph.",2024-10-24 20:00,2024-10-20,2024-10-20 11:21:07
-Buccaneers,2024-10-20,Thursday,Day,85,F,3 to 8 mph,NNE,"Sunny, with a high near 85. North northeast wind 3 to 8 mph.",2024-10-25 10:00,2024-10-20,2024-10-20 11:21:07
-Buccaneers,2024-10-20,Thursday Night,Night,65,F,3 to 8 mph,NE,"Mostly clear, with a low around 65.",2024-10-25 20:00,2024-10-20,2024-10-20 11:21:07
-Buccaneers,2024-10-20,Friday,Day,86,F,3 to 8 mph,NE,"Mostly sunny, with a high near 86.",2024-10-26 10:00,2024-10-20,2024-10-20 11:21:07
-Buccaneers,2024-10-20,Friday Night,Night,68,F,5 to 8 mph,NE,"Partly cloudy, with a low around 68.",2024-10-26 20:00,2024-10-20,2024-10-20 11:21:07
-Buccaneers,2024-10-20,Saturday,Day,85,F,5 to 10 mph,ENE,"Mostly sunny, with a high near 85.",2024-10-27 10:00,2024-10-20,2024-10-20 11:21:07
-Buccaneers,2024-10-20,Saturday Night,Night,68,F,5 to 9 mph,NE,"Partly cloudy, with a low around 68.",2024-10-27 20:00,2024-10-20,2024-10-20 11:21:07
-Chargers,2024-10-20,Today,Day,79,F,5 to 10 mph,W,"Sunny, with a high near 79. West wind 5 to 10 mph.",2024-10-20 10:00,2024-10-20,2024-10-20 11:21:07
-Chargers,2024-10-20,Tonight,Day,58,F,5 to 10 mph,NW,"Mostly clear, with a low around 58. Northwest wind 5 to 10 mph.",2024-10-20 10:00,2024-10-20,2024-10-20 11:21:07
-Chargers,2024-10-20,Monday,Day,76,F,5 to 10 mph,W,"Sunny, with a high near 76. West wind 5 to 10 mph.",2024-10-22 10:00,2024-10-20,2024-10-20 11:21:07
-Chargers,2024-10-20,Monday Night,Night,58,F,0 to 10 mph,N,"Patchy fog after 11pm. Partly cloudy, with a low around 58. North wind 0 to 10 mph.",2024-10-22 20:00,2024-10-20,2024-10-20 11:21:07
-Chargers,2024-10-20,Tuesday,Day,76,F,0 to 15 mph,NW,"Patchy fog before 11am. Mostly sunny, with a high near 76. Northwest wind 0 to 15 mph.",2024-10-23 10:00,2024-10-20,2024-10-20 11:21:07
-Chargers,2024-10-20,Tuesday Night,Night,59,F,0 to 15 mph,NNE,"Mostly clear, with a low around 59.",2024-10-23 20:00,2024-10-20,2024-10-20 11:21:07
-Chargers,2024-10-20,Wednesday,Day,77,F,0 to 10 mph,W,"Sunny, with a high near 77.",2024-10-24 10:00,2024-10-20,2024-10-20 11:21:07
-Chargers,2024-10-20,Wednesday Night,Night,59,F,0 to 10 mph,ENE,"Patchy fog after 11pm. Mostly cloudy, with a low around 59.",2024-10-24 20:00,2024-10-20,2024-10-20 11:21:07
-Chargers,2024-10-20,Thursday,Day,73,F,0 to 10 mph,W,"Patchy fog before 11am. Mostly sunny, with a high near 73.",2024-10-25 10:00,2024-10-20,2024-10-20 11:21:07
-Chargers,2024-10-20,Thursday Night,Night,57,F,0 to 10 mph,SW,"Patchy fog after 11pm. Mostly cloudy, with a low around 57.",2024-10-25 20:00,2024-10-20,2024-10-20 11:21:07
-Chargers,2024-10-20,Friday,Day,71,F,0 to 10 mph,S,"Patchy fog before 11am. Partly sunny, with a high near 71.",2024-10-26 10:00,2024-10-20,2024-10-20 11:21:07
-Chargers,2024-10-20,Friday Night,Night,57,F,0 to 10 mph,ENE,"Patchy fog after 11pm. Mostly cloudy, with a low around 57.",2024-10-26 20:00,2024-10-20,2024-10-20 11:21:07
-Chargers,2024-10-20,Saturday,Day,73,F,0 to 10 mph,SW,"Patchy fog before 11am. Mostly sunny, with a high near 73.",2024-10-27 10:00,2024-10-20,2024-10-20 11:21:07
-Chargers,2024-10-20,Saturday Night,Night,58,F,0 to 10 mph,NNE,"Patchy fog after 11pm. Mostly cloudy, with a low around 58.",2024-10-27 20:00,2024-10-20,2024-10-20 11:21:07
-Rams,2024-10-20,Today,Day,79,F,5 to 10 mph,W,"Sunny, with a high near 79. West wind 5 to 10 mph.",2024-10-20 10:00,2024-10-20,2024-10-20 11:21:07
-Rams,2024-10-20,Tonight,Day,58,F,5 to 10 mph,NW,"Mostly clear, with a low around 58. Northwest wind 5 to 10 mph.",2024-10-20 10:00,2024-10-20,2024-10-20 11:21:07
-Rams,2024-10-20,Monday,Day,76,F,5 to 10 mph,W,"Sunny, with a high near 76. West wind 5 to 10 mph.",2024-10-22 10:00,2024-10-20,2024-10-20 11:21:07
-Rams,2024-10-20,Monday Night,Night,58,F,0 to 10 mph,N,"Patchy fog after 11pm. Partly cloudy, with a low around 58. North wind 0 to 10 mph.",2024-10-22 20:00,2024-10-20,2024-10-20 11:21:07
-Rams,2024-10-20,Tuesday,Day,76,F,0 to 15 mph,NW,"Patchy fog before 11am. Mostly sunny, with a high near 76. Northwest wind 0 to 15 mph.",2024-10-23 10:00,2024-10-20,2024-10-20 11:21:07
-Rams,2024-10-20,Tuesday Night,Night,59,F,0 to 15 mph,NNE,"Mostly clear, with a low around 59.",2024-10-23 20:00,2024-10-20,2024-10-20 11:21:07
-Rams,2024-10-20,Wednesday,Day,77,F,0 to 10 mph,W,"Sunny, with a high near 77.",2024-10-24 10:00,2024-10-20,2024-10-20 11:21:07
-Rams,2024-10-20,Wednesday Night,Night,59,F,0 to 10 mph,ENE,"Patchy fog after 11pm. Mostly cloudy, with a low around 59.",2024-10-24 20:00,2024-10-20,2024-10-20 11:21:07
-Rams,2024-10-20,Thursday,Day,73,F,0 to 10 mph,W,"Patchy fog before 11am. Mostly sunny, with a high near 73.",2024-10-25 10:00,2024-10-20,2024-10-20 11:21:07
-Rams,2024-10-20,Thursday Night,Night,57,F,0 to 10 mph,SW,"Patchy fog after 11pm. Mostly cloudy, with a low around 57.",2024-10-25 20:00,2024-10-20,2024-10-20 11:21:07
-Rams,2024-10-20,Friday,Day,71,F,0 to 10 mph,S,"Patchy fog before 11am. Partly sunny, with a high near 71.",2024-10-26 10:00,2024-10-20,2024-10-20 11:21:07
-Rams,2024-10-20,Friday Night,Night,57,F,0 to 10 mph,ENE,"Patchy fog after 11pm. Mostly cloudy, with a low around 57.",2024-10-26 20:00,2024-10-20,2024-10-20 11:21:07
-Rams,2024-10-20,Saturday,Day,73,F,0 to 10 mph,SW,"Patchy fog before 11am. Mostly sunny, with a high near 73.",2024-10-27 10:00,2024-10-20,2024-10-20 11:21:07
-Rams,2024-10-20,Saturday Night,Night,58,F,0 to 10 mph,NNE,"Patchy fog after 11pm. Mostly cloudy, with a low around 58.",2024-10-27 20:00,2024-10-20,2024-10-20 11:21:07
-Bears,2024-10-20,Today,Day,78,F,10 mph,SW,"Sunny. High near 78, with temperatures falling to around 76 in the afternoon. Southwest wind around 10 mph, with gusts as high as 25 mph.",2024-10-20 10:00,2024-10-20,2024-10-20 11:21:07
-Bears,2024-10-20,Tonight,Day,55,F,10 mph,SW,"Clear. Low around 55, with temperatures rising to around 58 overnight. Southwest wind around 10 mph.",2024-10-20 10:00,2024-10-20,2024-10-20 11:21:07
-Bears,2024-10-20,Monday,Day,80,F,10 mph,SW,"Sunny. High near 80, with temperatures falling to around 78 in the afternoon. Southwest wind around 10 mph.",2024-10-22 10:00,2024-10-20,2024-10-20 11:21:07
-Bears,2024-10-20,Monday Night,Night,57,F,5 to 10 mph,SSW,"Partly cloudy, with a low around 57. South southwest wind 5 to 10 mph.",2024-10-22 20:00,2024-10-20,2024-10-20 11:21:07
-Bears,2024-10-20,Tuesday,Day,73,F,5 to 10 mph,S,"Partly sunny, with a high near 73. South wind 5 to 10 mph, with gusts as high as 20 mph.",2024-10-23 10:00,2024-10-20,2024-10-20 11:21:07
-Bears,2024-10-20,Tuesday Night,Night,58,F,5 to 10 mph,SW,"Mostly clear, with a low around 58.",2024-10-23 20:00,2024-10-20,2024-10-20 11:21:07
-Bears,2024-10-20,Wednesday,Day,65,F,5 to 15 mph,WNW,"A slight chance of rain showers after 7am. Mostly sunny, with a high near 65. Chance of precipitation is 20%.",2024-10-24 10:00,2024-10-20,2024-10-20 11:21:07
-Bears,2024-10-20,Wednesday Night,Night,45,F,5 to 15 mph,NW,"A slight chance of rain showers before 7pm. Mostly clear, with a low around 45.",2024-10-24 20:00,2024-10-20,2024-10-20 11:21:07
-Bears,2024-10-20,Thursday,Day,59,F,5 to 10 mph,WNW,"Sunny, with a high near 59.",2024-10-25 10:00,2024-10-20,2024-10-20 11:21:07
-Bears,2024-10-20,Thursday Night,Night,47,F,5 mph,S,"A slight chance of rain showers after 7pm. Partly cloudy, with a low around 47.",2024-10-25 20:00,2024-10-20,2024-10-20 11:21:07
-Bears,2024-10-20,Friday,Day,64,F,5 to 10 mph,S,"A slight chance of rain showers. Sunny, with a high near 64.",2024-10-26 10:00,2024-10-20,2024-10-20 11:21:07
-Bears,2024-10-20,Friday Night,Night,50,F,5 to 10 mph,S,"A slight chance of rain showers. Partly cloudy, with a low around 50.",2024-10-26 20:00,2024-10-20,2024-10-20 11:21:07
-Bears,2024-10-20,Saturday,Day,66,F,10 to 15 mph,SSW,"A slight chance of rain showers. Mostly sunny, with a high near 66.",2024-10-27 10:00,2024-10-20,2024-10-20 11:21:07
-Bears,2024-10-20,Saturday Night,Night,51,F,10 mph,S,"A chance of rain showers. Mostly cloudy, with a low around 51.",2024-10-27 20:00,2024-10-20,2024-10-20 11:21:07
-Cardinals,2024-10-20,Today,Day,81,F,0 to 5 mph,NE,"Sunny. High near 81, with temperatures falling to around 79 in the afternoon. Northeast wind 0 to 5 mph.",2024-10-20 10:00,2024-10-20,2024-10-20 11:21:07
-Cardinals,2024-10-20,Tonight,Day,56,F,0 to 5 mph,N,"Mostly clear, with a low around 56. North wind 0 to 5 mph.",2024-10-20 10:00,2024-10-20,2024-10-20 11:21:07
-Cardinals,2024-10-20,Monday,Day,88,F,0 to 5 mph,NNE,"Sunny. High near 88, with temperatures falling to around 86 in the afternoon. North northeast wind 0 to 5 mph.",2024-10-22 10:00,2024-10-20,2024-10-20 11:21:07
-Cardinals,2024-10-20,Monday Night,Night,58,F,0 to 5 mph,N,"Mostly clear, with a low around 58. North wind 0 to 5 mph.",2024-10-22 20:00,2024-10-20,2024-10-20 11:21:07
-Cardinals,2024-10-20,Tuesday,Day,94,F,0 to 5 mph,NE,"Sunny, with a high near 94. Northeast wind 0 to 5 mph.",2024-10-23 10:00,2024-10-20,2024-10-20 11:21:07
-Cardinals,2024-10-20,Tuesday Night,Night,62,F,0 to 5 mph,N,"Mostly clear, with a low around 62. North wind 0 to 5 mph.",2024-10-23 20:00,2024-10-20,2024-10-20 11:21:07
-Cardinals,2024-10-20,Wednesday,Day,96,F,0 to 5 mph,E,"Sunny, with a high near 96. East wind 0 to 5 mph.",2024-10-24 10:00,2024-10-20,2024-10-20 11:21:07
-Cardinals,2024-10-20,Wednesday Night,Night,63,F,0 to 5 mph,N,"Mostly clear, with a low around 63. North wind 0 to 5 mph.",2024-10-24 20:00,2024-10-20,2024-10-20 11:21:07
-Cardinals,2024-10-20,Thursday,Day,97,F,5 mph,SE,"Sunny, with a high near 97. Southeast wind around 5 mph.",2024-10-25 10:00,2024-10-20,2024-10-20 11:21:07
-Cardinals,2024-10-20,Thursday Night,Night,64,F,0 to 5 mph,NNW,"Mostly clear, with a low around 64. North northwest wind 0 to 5 mph.",2024-10-25 20:00,2024-10-20,2024-10-20 11:21:07
-Cardinals,2024-10-20,Friday,Day,96,F,5 mph,SSE,"Sunny, with a high near 96. South southeast wind around 5 mph.",2024-10-26 10:00,2024-10-20,2024-10-20 11:21:07
-Cardinals,2024-10-20,Friday Night,Night,62,F,0 to 5 mph,NNW,"Mostly clear, with a low around 62. North northwest wind 0 to 5 mph.",2024-10-26 20:00,2024-10-20,2024-10-20 11:21:07
-Cardinals,2024-10-20,Saturday,Day,95,F,5 mph,ESE,"Sunny, with a high near 95. East southeast wind around 5 mph.",2024-10-27 10:00,2024-10-20,2024-10-20 11:21:07
-Cardinals,2024-10-20,Saturday Night,Night,63,F,5 mph,N,"Partly cloudy, with a low around 63. North wind around 5 mph.",2024-10-27 20:00,2024-10-20,2024-10-20 11:21:07
-Jaguars,2024-10-20,Today,Day,76,F,20 mph,NE,"Mostly sunny, with a high near 76. Northeast wind around 20 mph, with gusts as high as 30 mph.",2024-10-20 10:00,2024-10-20,2024-10-20 11:21:07
-Jaguars,2024-10-20,Tonight,Day,64,F,9 to 16 mph,N,"Mostly clear, with a low around 64. North wind 9 to 16 mph, with gusts as high as 24 mph.",2024-10-20 10:00,2024-10-20,2024-10-20 11:21:07
-Jaguars,2024-10-20,Monday,Day,77,F,9 to 16 mph,N,"Mostly sunny, with a high near 77. North wind 9 to 16 mph, with gusts as high as 24 mph.",2024-10-22 10:00,2024-10-20,2024-10-20 11:21:07
-Jaguars,2024-10-20,Monday Night,Night,69,F,9 to 15 mph,NE,"Partly cloudy, with a low around 69. Northeast wind 9 to 15 mph, with gusts as high as 23 mph.",2024-10-22 20:00,2024-10-20,2024-10-20 11:21:07
-Jaguars,2024-10-20,Tuesday,Day,80,F,12 to 15 mph,NE,"A slight chance of rain showers after 2pm. Mostly sunny, with a high near 80. Northeast wind 12 to 15 mph, with gusts as high as 23 mph. Chance of precipitation is 20%.",2024-10-23 10:00,2024-10-20,2024-10-20 11:21:07
-Jaguars,2024-10-20,Tuesday Night,Night,67,F,9 to 14 mph,NE,"A slight chance of rain showers before 8pm. Mostly clear, with a low around 67. Chance of precipitation is 20%.",2024-10-23 20:00,2024-10-20,2024-10-20 11:21:07
-Jaguars,2024-10-20,Wednesday,Day,80,F,10 to 14 mph,NE,"Sunny, with a high near 80.",2024-10-24 10:00,2024-10-20,2024-10-20 11:21:07
-Jaguars,2024-10-20,Wednesday Night,Night,63,F,6 to 12 mph,N,"Mostly clear, with a low around 63.",2024-10-24 20:00,2024-10-20,2024-10-20 11:21:07
-Jaguars,2024-10-20,Thursday,Day,82,F,9 mph,N,"Sunny, with a high near 82.",2024-10-25 10:00,2024-10-20,2024-10-20 11:21:07
-Jaguars,2024-10-20,Thursday Night,Night,63,F,7 mph,E,"Partly cloudy, with a low around 63.",2024-10-25 20:00,2024-10-20,2024-10-20 11:21:07
-Jaguars,2024-10-20,Friday,Day,81,F,5 to 12 mph,NE,"Mostly sunny, with a high near 81.",2024-10-26 10:00,2024-10-20,2024-10-20 11:21:07
-Jaguars,2024-10-20,Friday Night,Night,65,F,8 to 12 mph,NE,"Partly cloudy, with a low around 65.",2024-10-26 20:00,2024-10-20,2024-10-20 11:21:07
-Jaguars,2024-10-20,Saturday,Day,79,F,8 to 13 mph,NE,"Mostly sunny, with a high near 79.",2024-10-27 10:00,2024-10-20,2024-10-20 11:21:07
-Jaguars,2024-10-20,Saturday Night,Night,65,F,7 to 12 mph,NE,"Partly cloudy, with a low around 65.",2024-10-27 20:00,2024-10-20,2024-10-20 11:21:07
-Vikings,2024-10-20,Today,Day,81,F,10 to 15 mph,SW,"Sunny, with a high near 81. Southwest wind 10 to 15 mph.",2024-10-20 10:00,2024-10-20,2024-10-20 11:21:07
-Vikings,2024-10-20,Tonight,Day,61,F,5 to 10 mph,SSW,"Mostly clear, with a low around 61. South southwest wind 5 to 10 mph.",2024-10-20 10:00,2024-10-20,2024-10-20 11:21:07
-Vikings,2024-10-20,Monday,Day,82,F,5 to 10 mph,S,"Mostly sunny, with a high near 82. South wind 5 to 10 mph.",2024-10-22 10:00,2024-10-20,2024-10-20 11:21:07
-Vikings,2024-10-20,Monday Night,Night,60,F,5 to 10 mph,S,"Partly cloudy, with a low around 60. South wind 5 to 10 mph.",2024-10-22 20:00,2024-10-20,2024-10-20 11:21:07
-Vikings,2024-10-20,Tuesday,Day,76,F,5 to 10 mph,SW,"Mostly sunny, with a high near 76. Southwest wind 5 to 10 mph.",2024-10-23 10:00,2024-10-20,2024-10-20 11:21:07
-Vikings,2024-10-20,Tuesday Night,Night,45,F,10 mph,WNW,"A slight chance of rain showers after 7pm. Partly cloudy. Low around 45, with temperatures rising to around 48 overnight. West northwest wind around 10 mph. Chance of precipitation is 20%.",2024-10-23 20:00,2024-10-20,2024-10-20 11:21:07
-Vikings,2024-10-20,Wednesday,Day,54,F,10 to 15 mph,NW,"A slight chance of rain showers before 1pm. Sunny. High near 54, with temperatures falling to around 51 in the afternoon. Northwest wind 10 to 15 mph. Chance of precipitation is 20%.",2024-10-24 10:00,2024-10-20,2024-10-20 11:21:07
-Vikings,2024-10-20,Wednesday Night,Night,37,F,5 to 10 mph,WSW,"Mostly clear, with a low around 37. West southwest wind 5 to 10 mph.",2024-10-24 20:00,2024-10-20,2024-10-20 11:21:07
-Vikings,2024-10-20,Thursday,Day,59,F,5 to 10 mph,SSW,"Mostly sunny, with a high near 59. South southwest wind 5 to 10 mph.",2024-10-25 10:00,2024-10-20,2024-10-20 11:21:07
-Vikings,2024-10-20,Thursday Night,Night,41,F,5 mph,S,"Mostly clear, with a low around 41. South wind around 5 mph.",2024-10-25 20:00,2024-10-20,2024-10-20 11:21:07
-Vikings,2024-10-20,Friday,Day,65,F,5 to 10 mph,S,"Sunny, with a high near 65. South wind 5 to 10 mph.",2024-10-26 10:00,2024-10-20,2024-10-20 11:21:07
-Vikings,2024-10-20,Friday Night,Night,47,F,10 mph,S,"Partly cloudy, with a low around 47. South wind around 10 mph.",2024-10-26 20:00,2024-10-20,2024-10-20 11:21:07
-Vikings,2024-10-20,Saturday,Day,63,F,10 mph,SW,"Mostly sunny, with a high near 63. Southwest wind around 10 mph.",2024-10-27 10:00,2024-10-20,2024-10-20 11:21:07
-Vikings,2024-10-20,Saturday Night,Night,42,F,5 to 10 mph,NNW,"Partly cloudy, with a low around 42. North northwest wind 5 to 10 mph.",2024-10-27 20:00,2024-10-20,2024-10-20 11:21:07
+Steelers,2024-10-20,This Afternoon,Day,76,F,6 mph,W,"Sunny, with a high near 76. West wind around 6 mph.",2024-10-20 10:00,2024-10-20,2024-10-20 16:37:10
+Steelers,2024-10-20,Tonight,Day,44,F,2 to 6 mph,SW,"Clear, with a low around 44. Southwest wind 2 to 6 mph.",2024-10-20 10:00,2024-10-20,2024-10-20 16:37:10
+Steelers,2024-10-20,Monday,Day,78,F,2 to 6 mph,SW,"Sunny, with a high near 78. Southwest wind 2 to 6 mph.",2024-10-22 10:00,2024-10-20,2024-10-20 16:37:10
+Steelers,2024-10-20,Monday Night,Night,46,F,1 to 5 mph,S,"Clear, with a low around 46. South wind 1 to 5 mph.",2024-10-22 20:00,2024-10-20,2024-10-20 16:37:10
+Steelers,2024-10-20,Tuesday,Day,81,F,1 to 5 mph,SE,"Sunny, with a high near 81. Southeast wind 1 to 5 mph.",2024-10-23 10:00,2024-10-20,2024-10-20 16:37:10
+Steelers,2024-10-20,Tuesday Night,Night,52,F,6 mph,S,"Mostly clear, with a low around 52.",2024-10-23 20:00,2024-10-20,2024-10-20 16:37:10
+Steelers,2024-10-20,Wednesday,Day,76,F,7 to 16 mph,SW,"Sunny, with a high near 76.",2024-10-24 10:00,2024-10-20,2024-10-20 16:37:10
+Steelers,2024-10-20,Wednesday Night,Night,44,F,8 to 14 mph,W,"A chance of rain showers between 8pm and 2am. Partly cloudy, with a low around 44. Chance of precipitation is 30%.",2024-10-24 20:00,2024-10-20,2024-10-20 16:37:10
+Steelers,2024-10-20,Thursday,Day,58,F,6 to 9 mph,NW,"Sunny, with a high near 58.",2024-10-25 10:00,2024-10-20,2024-10-20 16:37:10
+Steelers,2024-10-20,Thursday Night,Night,38,F,1 to 7 mph,NE,"Mostly clear, with a low around 38.",2024-10-25 20:00,2024-10-20,2024-10-20 16:37:10
+Steelers,2024-10-20,Friday,Day,61,F,1 to 6 mph,SW,"Sunny, with a high near 61.",2024-10-26 10:00,2024-10-20,2024-10-20 16:37:10
+Steelers,2024-10-20,Friday Night,Night,40,F,2 to 6 mph,SW,"Mostly clear, with a low around 40.",2024-10-26 20:00,2024-10-20,2024-10-20 16:37:10
+Steelers,2024-10-20,Saturday,Day,68,F,3 to 9 mph,SW,"A slight chance of rain showers after 8am. Sunny, with a high near 68.",2024-10-27 10:00,2024-10-20,2024-10-20 16:37:10
+Steelers,2024-10-20,Saturday Night,Night,47,F,8 mph,SW,"A slight chance of rain showers. Partly cloudy, with a low around 47.",2024-10-27 20:00,2024-10-20,2024-10-20 16:37:10
+Raiders,2024-10-20,This Afternoon,Day,78,F,5 mph,ESE,"Sunny, with a high near 78. East southeast wind around 5 mph.",2024-10-20 10:00,2024-10-20,2024-10-20 16:37:10
+Raiders,2024-10-20,Tonight,Day,57,F,5 mph,NW,"Mostly clear. Low around 57, with temperatures rising to around 59 overnight. Northwest wind around 5 mph.",2024-10-20 10:00,2024-10-20,2024-10-20 16:37:10
+Raiders,2024-10-20,Monday,Day,80,F,3 mph,NNE,"Sunny, with a high near 80. North northeast wind around 3 mph.",2024-10-22 10:00,2024-10-20,2024-10-20 16:37:10
+Raiders,2024-10-20,Monday Night,Night,59,F,5 mph,NNW,"Mostly clear, with a low around 59. North northwest wind around 5 mph.",2024-10-22 20:00,2024-10-20,2024-10-20 16:37:10
+Raiders,2024-10-20,Tuesday,Day,84,F,5 mph,NNE,"Sunny, with a high near 84. North northeast wind around 5 mph.",2024-10-23 10:00,2024-10-20,2024-10-20 16:37:10
+Raiders,2024-10-20,Tuesday Night,Night,61,F,5 mph,NW,"Clear, with a low around 61.",2024-10-23 20:00,2024-10-20,2024-10-20 16:37:10
+Raiders,2024-10-20,Wednesday,Day,87,F,5 mph,NNE,"Sunny, with a high near 87.",2024-10-24 10:00,2024-10-20,2024-10-20 16:37:10
+Raiders,2024-10-20,Wednesday Night,Night,63,F,5 mph,WNW,"Mostly clear, with a low around 63.",2024-10-24 20:00,2024-10-20,2024-10-20 16:37:10
+Raiders,2024-10-20,Thursday,Day,88,F,6 mph,E,"Sunny, with a high near 88.",2024-10-25 10:00,2024-10-20,2024-10-20 16:37:10
+Raiders,2024-10-20,Thursday Night,Night,62,F,6 mph,SW,"Mostly clear, with a low around 62.",2024-10-25 20:00,2024-10-20,2024-10-20 16:37:10
+Raiders,2024-10-20,Friday,Day,86,F,7 mph,SSW,"Sunny, with a high near 86.",2024-10-26 10:00,2024-10-20,2024-10-20 16:37:10
+Raiders,2024-10-20,Friday Night,Night,60,F,6 mph,WSW,"Mostly clear, with a low around 60.",2024-10-26 20:00,2024-10-20,2024-10-20 16:37:10
+Raiders,2024-10-20,Saturday,Day,85,F,6 mph,NNE,"Sunny, with a high near 85.",2024-10-27 10:00,2024-10-20,2024-10-20 16:37:10
+Raiders,2024-10-20,Saturday Night,Night,60,F,5 mph,NW,"Mostly clear, with a low around 60.",2024-10-27 20:00,2024-10-20,2024-10-20 16:37:10
+Cowboys,2024-10-20,This Afternoon,Day,81,F,5 mph,ESE,"Sunny, with a high near 81. East southeast wind around 5 mph.",2024-10-20 10:00,2024-10-20,2024-10-20 16:37:10
+Cowboys,2024-10-20,Tonight,Day,56,F,5 mph,SE,"Clear. Low around 56, with temperatures rising to around 58 overnight. Southeast wind around 5 mph.",2024-10-20 10:00,2024-10-20,2024-10-20 16:37:10
+Cowboys,2024-10-20,Monday,Day,84,F,5 to 10 mph,SSE,"Sunny. High near 84, with temperatures falling to around 82 in the afternoon. South southeast wind 5 to 10 mph, with gusts as high as 20 mph.",2024-10-22 10:00,2024-10-20,2024-10-20 16:37:10
+Cowboys,2024-10-20,Monday Night,Night,63,F,5 to 10 mph,S,"Clear, with a low around 63. South wind 5 to 10 mph.",2024-10-22 20:00,2024-10-20,2024-10-20 16:37:10
+Cowboys,2024-10-20,Tuesday,Day,89,F,5 to 10 mph,SSW,"Sunny. High near 89, with temperatures falling to around 87 in the afternoon. South southwest wind 5 to 10 mph.",2024-10-23 10:00,2024-10-20,2024-10-20 16:37:10
+Cowboys,2024-10-20,Tuesday Night,Night,66,F,5 mph,S,"Clear, with a low around 66. South wind around 5 mph.",2024-10-23 20:00,2024-10-20,2024-10-20 16:37:10
+Cowboys,2024-10-20,Wednesday,Day,91,F,5 mph,SSW,"Sunny, with a high near 91. South southwest wind around 5 mph.",2024-10-24 10:00,2024-10-20,2024-10-20 16:37:10
+Cowboys,2024-10-20,Wednesday Night,Night,66,F,5 mph,SSE,"Mostly clear, with a low around 66. South southeast wind around 5 mph.",2024-10-24 20:00,2024-10-20,2024-10-20 16:37:10
+Cowboys,2024-10-20,Thursday,Day,89,F,5 mph,S,"Sunny, with a high near 89. South wind around 5 mph.",2024-10-25 10:00,2024-10-20,2024-10-20 16:37:10
+Cowboys,2024-10-20,Thursday Night,Night,65,F,5 to 10 mph,SSE,"Clear, with a low around 65.",2024-10-25 20:00,2024-10-20,2024-10-20 16:37:10
+Cowboys,2024-10-20,Friday,Day,89,F,5 to 10 mph,S,"Sunny, with a high near 89.",2024-10-26 10:00,2024-10-20,2024-10-20 16:37:10
+Cowboys,2024-10-20,Friday Night,Night,64,F,5 to 10 mph,S,"Clear, with a low around 64.",2024-10-26 20:00,2024-10-20,2024-10-20 16:37:10
+Cowboys,2024-10-20,Saturday,Day,87,F,10 mph,S,"Sunny, with a high near 87.",2024-10-27 10:00,2024-10-20,2024-10-20 16:37:10
+Cowboys,2024-10-20,Saturday Night,Night,63,F,10 mph,S,"Mostly clear, with a low around 63.",2024-10-27 20:00,2024-10-20,2024-10-20 16:37:10
+Panthers,2024-10-20,This Afternoon,Day,76,F,5 mph,NNE,"Sunny, with a high near 76. North northeast wind around 5 mph.",2024-10-20 10:00,2024-10-20,2024-10-20 16:37:10
+Panthers,2024-10-20,Tonight,Day,47,F,3 mph,NNE,"Clear, with a low around 47. North northeast wind around 3 mph.",2024-10-20 10:00,2024-10-20,2024-10-20 16:37:10
+Panthers,2024-10-20,Monday,Day,77,F,6 mph,NNE,"Sunny, with a high near 77. North northeast wind around 6 mph.",2024-10-22 10:00,2024-10-20,2024-10-20 16:37:10
+Panthers,2024-10-20,Monday Night,Night,48,F,5 mph,NE,"Clear, with a low around 48. Northeast wind around 5 mph.",2024-10-22 20:00,2024-10-20,2024-10-20 16:37:10
+Panthers,2024-10-20,Tuesday,Day,77,F,3 mph,NE,"Sunny, with a high near 77. Northeast wind around 3 mph.",2024-10-23 10:00,2024-10-20,2024-10-20 16:37:10
+Panthers,2024-10-20,Tuesday Night,Night,50,F,2 mph,NE,"Mostly clear, with a low around 50.",2024-10-23 20:00,2024-10-20,2024-10-20 16:37:10
+Panthers,2024-10-20,Wednesday,Day,79,F,3 mph,NW,"Sunny, with a high near 79.",2024-10-24 10:00,2024-10-20,2024-10-20 16:37:10
+Panthers,2024-10-20,Wednesday Night,Night,55,F,3 mph,W,"Clear, with a low around 55.",2024-10-24 20:00,2024-10-20,2024-10-20 16:37:10
+Panthers,2024-10-20,Thursday,Day,77,F,6 mph,NNW,"Sunny, with a high near 77.",2024-10-25 10:00,2024-10-20,2024-10-20 16:37:10
+Panthers,2024-10-20,Thursday Night,Night,49,F,5 mph,NE,"Mostly clear, with a low around 49.",2024-10-25 20:00,2024-10-20,2024-10-20 16:37:10
+Panthers,2024-10-20,Friday,Day,72,F,5 mph,E,"Sunny, with a high near 72.",2024-10-26 10:00,2024-10-20,2024-10-20 16:37:10
+Panthers,2024-10-20,Friday Night,Night,50,F,5 mph,E,"Mostly clear, with a low around 50.",2024-10-26 20:00,2024-10-20,2024-10-20 16:37:10
+Panthers,2024-10-20,Saturday,Day,74,F,2 to 6 mph,ESE,"Sunny, with a high near 74.",2024-10-27 10:00,2024-10-20,2024-10-20 16:37:10
+Panthers,2024-10-20,Saturday Night,Night,52,F,5 mph,E,"Mostly clear, with a low around 52.",2024-10-27 20:00,2024-10-20,2024-10-20 16:37:10
+Saints,2024-10-20,This Afternoon,Day,78,F,5 mph,NE,"Sunny. High near 78, with temperatures falling to around 76 in the afternoon. Northeast wind around 5 mph.",2024-10-20 10:00,2024-10-20,2024-10-20 16:37:10
+Saints,2024-10-20,Tonight,Day,60,F,0 to 5 mph,NE,"Clear, with a low around 60. Northeast wind 0 to 5 mph.",2024-10-20 10:00,2024-10-20,2024-10-20 16:37:10
+Saints,2024-10-20,Monday,Day,78,F,5 to 10 mph,NE,"Sunny. High near 78, with temperatures falling to around 76 in the afternoon. Northeast wind 5 to 10 mph.",2024-10-22 10:00,2024-10-20,2024-10-20 16:37:10
+Saints,2024-10-20,Monday Night,Night,61,F,0 to 5 mph,E,"Mostly clear, with a low around 61. East wind 0 to 5 mph.",2024-10-22 20:00,2024-10-20,2024-10-20 16:37:10
+Saints,2024-10-20,Tuesday,Day,79,F,5 mph,NE,"Mostly sunny, with a high near 79. Northeast wind around 5 mph.",2024-10-23 10:00,2024-10-20,2024-10-20 16:37:10
+Saints,2024-10-20,Tuesday Night,Night,63,F,0 to 5 mph,E,"Mostly clear, with a low around 63. East wind 0 to 5 mph.",2024-10-23 20:00,2024-10-20,2024-10-20 16:37:10
+Saints,2024-10-20,Wednesday,Day,81,F,0 to 5 mph,NE,"Sunny, with a high near 81. Northeast wind 0 to 5 mph.",2024-10-24 10:00,2024-10-20,2024-10-20 16:37:10
+Saints,2024-10-20,Wednesday Night,Night,64,F,0 mph,,"Mostly clear, with a low around 64. Southwest wind around 0 mph.",2024-10-24 20:00,2024-10-20,2024-10-20 16:37:10
+Saints,2024-10-20,Thursday,Day,83,F,0 to 5 mph,N,"Sunny, with a high near 83. North wind 0 to 5 mph.",2024-10-25 10:00,2024-10-20,2024-10-20 16:37:10
+Saints,2024-10-20,Thursday Night,Night,65,F,0 mph,,"Mostly clear, with a low around 65. Southwest wind around 0 mph.",2024-10-25 20:00,2024-10-20,2024-10-20 16:37:10
+Saints,2024-10-20,Friday,Day,82,F,5 mph,NE,"Sunny, with a high near 82. Northeast wind around 5 mph.",2024-10-26 10:00,2024-10-20,2024-10-20 16:37:10
+Saints,2024-10-20,Friday Night,Night,63,F,0 to 5 mph,SE,"Mostly clear, with a low around 63. Southeast wind 0 to 5 mph.",2024-10-26 20:00,2024-10-20,2024-10-20 16:37:10
+Saints,2024-10-20,Saturday,Day,81,F,5 to 10 mph,E,"Sunny, with a high near 81. East wind 5 to 10 mph.",2024-10-27 10:00,2024-10-20,2024-10-20 16:37:10
+Saints,2024-10-20,Saturday Night,Night,66,F,5 mph,E,"Mostly clear, with a low around 66. East wind around 5 mph.",2024-10-27 20:00,2024-10-20,2024-10-20 16:37:10
+Broncos,2024-10-20,This Afternoon,Day,73,F,8 mph,SSE,"Mostly sunny. High near 73, with temperatures falling to around 69 in the afternoon. South southeast wind around 8 mph.",2024-10-20 10:00,2024-10-20,2024-10-20 16:37:10
+Broncos,2024-10-20,Tonight,Day,45,F,6 to 9 mph,SW,"A chance of rain after midnight. Partly cloudy, with a low around 45. Southwest wind 6 to 9 mph. Chance of precipitation is 30%.",2024-10-20 10:00,2024-10-20,2024-10-20 16:37:10
+Broncos,2024-10-20,Monday,Day,67,F,7 to 15 mph,WNW,"A chance of rain before noon. Mostly sunny. High near 67, with temperatures falling to around 64 in the afternoon. West northwest wind 7 to 15 mph, with gusts as high as 24 mph. Chance of precipitation is 50%.",2024-10-22 10:00,2024-10-20,2024-10-20 16:37:10
+Broncos,2024-10-20,Monday Night,Night,43,F,7 to 10 mph,WSW,"Mostly clear, with a low around 43. West southwest wind 7 to 10 mph, with gusts as high as 16 mph.",2024-10-22 20:00,2024-10-20,2024-10-20 16:37:10
+Broncos,2024-10-20,Tuesday,Day,74,F,6 mph,SSE,"Sunny, with a high near 74. South southeast wind around 6 mph.",2024-10-23 10:00,2024-10-20,2024-10-20 16:37:10
+Broncos,2024-10-20,Tuesday Night,Night,43,F,2 to 6 mph,SSW,"Clear, with a low around 43.",2024-10-23 20:00,2024-10-20,2024-10-20 16:37:10
+Broncos,2024-10-20,Wednesday,Day,72,F,6 mph,S,"Sunny, with a high near 72.",2024-10-24 10:00,2024-10-20,2024-10-20 16:37:10
+Broncos,2024-10-20,Wednesday Night,Night,43,F,6 mph,S,"Clear, with a low around 43.",2024-10-24 20:00,2024-10-20,2024-10-20 16:37:10
+Broncos,2024-10-20,Thursday,Day,78,F,6 mph,SSW,"Sunny, with a high near 78.",2024-10-25 10:00,2024-10-20,2024-10-20 16:37:10
+Broncos,2024-10-20,Thursday Night,Night,44,F,7 mph,S,"Mostly clear, with a low around 44.",2024-10-25 20:00,2024-10-20,2024-10-20 16:37:10
+Broncos,2024-10-20,Friday,Day,78,F,6 mph,SSW,"Mostly sunny, with a high near 78.",2024-10-26 10:00,2024-10-20,2024-10-20 16:37:10
+Broncos,2024-10-20,Friday Night,Night,44,F,7 mph,SSE,"Partly cloudy, with a low around 44.",2024-10-26 20:00,2024-10-20,2024-10-20 16:37:10
+Broncos,2024-10-20,Saturday,Day,72,F,6 to 9 mph,WNW,"Sunny, with a high near 72.",2024-10-27 10:00,2024-10-20,2024-10-20 16:37:10
+Broncos,2024-10-20,Saturday Night,Night,40,F,3 mph,S,"Mostly clear, with a low around 40.",2024-10-27 20:00,2024-10-20,2024-10-20 16:37:10
+Commanders,2024-10-20,This Afternoon,Day,75,F,3 mph,W,"Sunny, with a high near 75. West wind around 3 mph.",2024-10-20 10:00,2024-10-20,2024-10-20 16:37:10
+Commanders,2024-10-20,Tonight,Day,46,F,3 mph,W,"Clear, with a low around 46. West wind around 3 mph.",2024-10-20 10:00,2024-10-20,2024-10-20 16:37:10
+Commanders,2024-10-20,Monday,Day,79,F,2 to 6 mph,W,"Sunny, with a high near 79. West wind 2 to 6 mph.",2024-10-22 10:00,2024-10-20,2024-10-20 16:37:10
+Commanders,2024-10-20,Monday Night,Night,49,F,1 to 5 mph,W,"Clear, with a low around 49. West wind 1 to 5 mph.",2024-10-22 20:00,2024-10-20,2024-10-20 16:37:10
+Commanders,2024-10-20,Tuesday,Day,80,F,5 mph,W,"Sunny, with a high near 80. West wind around 5 mph.",2024-10-23 10:00,2024-10-20,2024-10-20 16:37:10
+Commanders,2024-10-20,Tuesday Night,Night,48,F,5 mph,S,"Mostly clear, with a low around 48.",2024-10-23 20:00,2024-10-20,2024-10-20 16:37:10
+Commanders,2024-10-20,Wednesday,Day,78,F,2 to 7 mph,S,"Sunny, with a high near 78.",2024-10-24 10:00,2024-10-20,2024-10-20 16:37:10
+Commanders,2024-10-20,Wednesday Night,Night,54,F,8 mph,SW,"Mostly clear, with a low around 54.",2024-10-24 20:00,2024-10-20,2024-10-20 16:37:10
+Commanders,2024-10-20,Thursday,Day,65,F,10 mph,NW,"Sunny, with a high near 65.",2024-10-25 10:00,2024-10-20,2024-10-20 16:37:10
+Commanders,2024-10-20,Thursday Night,Night,42,F,3 to 8 mph,N,"Mostly clear, with a low around 42.",2024-10-25 20:00,2024-10-20,2024-10-20 16:37:10
+Commanders,2024-10-20,Friday,Day,63,F,5 mph,NW,"Sunny, with a high near 63.",2024-10-26 10:00,2024-10-20,2024-10-20 16:37:10
+Commanders,2024-10-20,Friday Night,Night,44,F,3 mph,E,"Mostly clear, with a low around 44.",2024-10-26 20:00,2024-10-20,2024-10-20 16:37:10
+Commanders,2024-10-20,Saturday,Day,67,F,2 to 7 mph,SE,"Sunny, with a high near 67.",2024-10-27 10:00,2024-10-20,2024-10-20 16:37:10
+Commanders,2024-10-20,Saturday Night,Night,45,F,7 mph,S,"Mostly clear, with a low around 45.",2024-10-27 20:00,2024-10-20,2024-10-20 16:37:10
+Browns,2024-10-20,This Afternoon,Day,71,F,9 mph,W,"Sunny, with a high near 71. West wind around 9 mph.",2024-10-20 10:00,2024-10-20,2024-10-20 16:37:10
+Browns,2024-10-20,Tonight,Day,53,F,8 mph,SW,"Clear, with a low around 53. Southwest wind around 8 mph.",2024-10-20 10:00,2024-10-20,2024-10-20 16:37:10
+Browns,2024-10-20,Monday,Day,75,F,9 mph,SW,"Sunny, with a high near 75. Southwest wind around 9 mph.",2024-10-22 10:00,2024-10-20,2024-10-20 16:37:10
+Browns,2024-10-20,Monday Night,Night,52,F,7 mph,SW,"Clear, with a low around 52. Southwest wind around 7 mph.",2024-10-22 20:00,2024-10-20,2024-10-20 16:37:10
+Browns,2024-10-20,Tuesday,Day,77,F,8 mph,S,"Sunny, with a high near 77. South wind around 8 mph.",2024-10-23 10:00,2024-10-20,2024-10-20 16:37:10
+Browns,2024-10-20,Tuesday Night,Night,59,F,8 to 13 mph,S,"Partly cloudy, with a low around 59.",2024-10-23 20:00,2024-10-20,2024-10-20 16:37:10
+Browns,2024-10-20,Wednesday,Day,72,F,15 mph,SW,"A chance of rain showers after 2pm. Mostly sunny, with a high near 72. Chance of precipitation is 30%.",2024-10-24 10:00,2024-10-20,2024-10-20 16:37:10
+Browns,2024-10-20,Wednesday Night,Night,45,F,12 to 17 mph,NW,"A chance of rain showers. Partly cloudy, with a low around 45. Chance of precipitation is 30%.",2024-10-24 20:00,2024-10-20,2024-10-20 16:37:10
+Browns,2024-10-20,Thursday,Day,54,F,7 to 10 mph,NW,"A slight chance of rain showers before 8am. Mostly sunny, with a high near 54.",2024-10-25 10:00,2024-10-20,2024-10-20 16:37:10
+Browns,2024-10-20,Thursday Night,Night,42,F,6 mph,SW,"Partly cloudy, with a low around 42.",2024-10-25 20:00,2024-10-20,2024-10-20 16:37:10
+Browns,2024-10-20,Friday,Day,60,F,7 mph,SW,"Sunny, with a high near 60.",2024-10-26 10:00,2024-10-20,2024-10-20 16:37:10
+Browns,2024-10-20,Friday Night,Night,46,F,8 mph,S,"A slight chance of rain showers after 8pm. Partly cloudy, with a low around 46.",2024-10-26 20:00,2024-10-20,2024-10-20 16:37:10
+Browns,2024-10-20,Saturday,Day,65,F,8 to 13 mph,SW,"A slight chance of rain showers. Mostly sunny, with a high near 65.",2024-10-27 10:00,2024-10-20,2024-10-20 16:37:10
+Browns,2024-10-20,Saturday Night,Night,52,F,9 to 13 mph,S,"A chance of rain showers. Mostly cloudy, with a low around 52. Chance of precipitation is 30%.",2024-10-27 20:00,2024-10-20,2024-10-20 16:37:10
+Lions,2024-10-20,This Afternoon,Day,76,F,8 mph,SW,"Sunny. High near 76, with temperatures falling to around 73 in the afternoon. Southwest wind around 8 mph.",2024-10-20 10:00,2024-10-20,2024-10-20 16:37:10
+Lions,2024-10-20,Tonight,Day,50,F,8 mph,SW,"Mostly clear, with a low around 50. Southwest wind around 8 mph.",2024-10-20 10:00,2024-10-20,2024-10-20 16:37:10
+Lions,2024-10-20,Monday,Day,77,F,7 to 10 mph,SW,"Sunny, with a high near 77. Southwest wind 7 to 10 mph.",2024-10-22 10:00,2024-10-20,2024-10-20 16:37:10
+Lions,2024-10-20,Monday Night,Night,50,F,3 to 7 mph,SW,"Mostly clear, with a low around 50. Southwest wind 3 to 7 mph.",2024-10-22 20:00,2024-10-20,2024-10-20 16:37:10
+Lions,2024-10-20,Tuesday,Day,74,F,3 to 10 mph,SSW,"Mostly sunny, with a high near 74. South southwest wind 3 to 10 mph.",2024-10-23 10:00,2024-10-20,2024-10-20 16:37:10
+Lions,2024-10-20,Tuesday Night,Night,57,F,7 to 10 mph,SSW,"Partly cloudy, with a low around 57.",2024-10-23 20:00,2024-10-20,2024-10-20 16:37:10
+Lions,2024-10-20,Wednesday,Day,70,F,10 to 14 mph,WSW,"A slight chance of rain showers after 2pm. Mostly sunny, with a high near 70.",2024-10-24 10:00,2024-10-20,2024-10-20 16:37:10
+Lions,2024-10-20,Wednesday Night,Night,39,F,6 to 14 mph,NW,"A slight chance of rain showers before 8pm. Mostly clear, with a low around 39.",2024-10-24 20:00,2024-10-20,2024-10-20 16:37:10
+Lions,2024-10-20,Thursday,Day,56,F,7 mph,NW,"Sunny, with a high near 56.",2024-10-25 10:00,2024-10-20,2024-10-20 16:37:10
+Lions,2024-10-20,Thursday Night,Night,39,F,5 mph,WSW,"Partly cloudy, with a low around 39.",2024-10-25 20:00,2024-10-20,2024-10-20 16:37:10
+Lions,2024-10-20,Friday,Day,60,F,2 to 7 mph,SW,"Mostly sunny, with a high near 60.",2024-10-26 10:00,2024-10-20,2024-10-20 16:37:10
+Lions,2024-10-20,Friday Night,Night,44,F,7 mph,S,"A slight chance of rain showers after 8pm. Partly cloudy, with a low around 44.",2024-10-26 20:00,2024-10-20,2024-10-20 16:37:10
+Lions,2024-10-20,Saturday,Day,64,F,6 to 10 mph,SSW,"A slight chance of rain showers. Mostly sunny, with a high near 64.",2024-10-27 10:00,2024-10-20,2024-10-20 16:37:10
+Lions,2024-10-20,Saturday Night,Night,50,F,9 mph,SSW,"A chance of rain showers. Mostly cloudy, with a low around 50.",2024-10-27 20:00,2024-10-20,2024-10-20 16:37:10
+Chiefs,2024-10-20,This Afternoon,Day,79,F,8 mph,SSW,"Sunny, with a high near 79. South southwest wind around 8 mph.",2024-10-20 10:00,2024-10-20,2024-10-20 16:37:10
+Chiefs,2024-10-20,Tonight,Day,53,F,7 mph,S,"Mostly clear, with a low around 53. South wind around 7 mph.",2024-10-20 10:00,2024-10-20,2024-10-20 16:37:10
+Chiefs,2024-10-20,Monday,Day,79,F,6 to 13 mph,S,"Sunny, with a high near 79. South wind 6 to 13 mph, with gusts as high as 22 mph.",2024-10-22 10:00,2024-10-20,2024-10-20 16:37:10
+Chiefs,2024-10-20,Monday Night,Night,60,F,8 to 14 mph,S,"A chance of rain showers between 7pm and 10pm, then a chance of showers and thunderstorms. Partly cloudy, with a low around 60. South wind 8 to 14 mph, with gusts as high as 24 mph. Chance of precipitation is 40%.",2024-10-22 20:00,2024-10-20,2024-10-20 16:37:10
+Chiefs,2024-10-20,Tuesday,Day,84,F,8 to 14 mph,SW,"A chance of showers and thunderstorms before 7am. Sunny, with a high near 84. Southwest wind 8 to 14 mph, with gusts as high as 24 mph. Chance of precipitation is 40%.",2024-10-23 10:00,2024-10-20,2024-10-20 16:37:10
+Chiefs,2024-10-20,Tuesday Night,Night,56,F,3 to 7 mph,WNW,"Clear, with a low around 56.",2024-10-23 20:00,2024-10-20,2024-10-20 16:37:10
+Chiefs,2024-10-20,Wednesday,Day,73,F,6 to 10 mph,N,"Sunny, with a high near 73.",2024-10-24 10:00,2024-10-20,2024-10-20 16:37:10
+Chiefs,2024-10-20,Wednesday Night,Night,44,F,5 to 8 mph,NE,"Clear, with a low around 44.",2024-10-24 20:00,2024-10-20,2024-10-20 16:37:10
+Chiefs,2024-10-20,Thursday,Day,71,F,6 to 9 mph,SE,"Sunny, with a high near 71.",2024-10-25 10:00,2024-10-20,2024-10-20 16:37:10
+Chiefs,2024-10-20,Thursday Night,Night,50,F,8 mph,S,"A slight chance of rain showers after 7pm. Mostly clear, with a low around 50.",2024-10-25 20:00,2024-10-20,2024-10-20 16:37:10
+Chiefs,2024-10-20,Friday,Day,78,F,6 to 10 mph,SSW,"A slight chance of rain showers before 7am. Sunny, with a high near 78.",2024-10-26 10:00,2024-10-20,2024-10-20 16:37:10
+Chiefs,2024-10-20,Friday Night,Night,59,F,9 mph,SSE,"Mostly clear, with a low around 59.",2024-10-26 20:00,2024-10-20,2024-10-20 16:37:10
+Chiefs,2024-10-20,Saturday,Day,81,F,10 to 14 mph,SSW,"Mostly sunny, with a high near 81.",2024-10-27 10:00,2024-10-20,2024-10-20 16:37:10
+Chiefs,2024-10-20,Saturday Night,Night,54,F,7 to 12 mph,SW,"A slight chance of rain showers between 7pm and 1am, then a slight chance of showers and thunderstorms. Partly cloudy, with a low around 54.",2024-10-27 20:00,2024-10-20,2024-10-20 16:37:10
+Patriots,2024-10-20,This Afternoon,Day,72,F,6 mph,W,"Mostly sunny, with a high near 72. West wind around 6 mph.",2024-10-20 10:00,2024-10-20,2024-10-20 16:37:10
+Patriots,2024-10-20,Tonight,Day,45,F,6 mph,SW,"Clear, with a low around 45. Southwest wind around 6 mph.",2024-10-20 10:00,2024-10-20,2024-10-20 16:37:10
+Patriots,2024-10-20,Monday,Day,77,F,5 to 8 mph,W,"Sunny, with a high near 77. West wind 5 to 8 mph.",2024-10-22 10:00,2024-10-20,2024-10-20 16:37:10
+Patriots,2024-10-20,Monday Night,Night,51,F,2 to 6 mph,NW,"Clear, with a low around 51. Northwest wind 2 to 6 mph.",2024-10-22 20:00,2024-10-20,2024-10-20 16:37:10
+Patriots,2024-10-20,Tuesday,Day,73,F,5 mph,NE,"Sunny, with a high near 73. Northeast wind around 5 mph.",2024-10-23 10:00,2024-10-20,2024-10-20 16:37:10
+Patriots,2024-10-20,Tuesday Night,Night,50,F,5 mph,SE,"Mostly clear, with a low around 50. Southeast wind around 5 mph.",2024-10-23 20:00,2024-10-20,2024-10-20 16:37:10
+Patriots,2024-10-20,Wednesday,Day,73,F,2 to 10 mph,S,"Sunny, with a high near 73. South wind 2 to 10 mph, with gusts as high as 21 mph.",2024-10-24 10:00,2024-10-20,2024-10-20 16:37:10
+Patriots,2024-10-20,Wednesday Night,Night,52,F,7 to 10 mph,SW,"Partly cloudy, with a low around 52. Southwest wind 7 to 10 mph, with gusts as high as 21 mph.",2024-10-24 20:00,2024-10-20,2024-10-20 16:37:10
+Patriots,2024-10-20,Thursday,Day,60,F,8 to 12 mph,W,"Mostly sunny, with a high near 60. West wind 8 to 12 mph, with gusts as high as 23 mph.",2024-10-25 10:00,2024-10-20,2024-10-20 16:37:10
+Patriots,2024-10-20,Thursday Night,Night,36,F,7 to 10 mph,NW,"Mostly clear, with a low around 36. Northwest wind 7 to 10 mph, with gusts as high as 21 mph.",2024-10-25 20:00,2024-10-20,2024-10-20 16:37:10
+Patriots,2024-10-20,Friday,Day,55,F,7 mph,NW,"Sunny, with a high near 55. Northwest wind around 7 mph.",2024-10-26 10:00,2024-10-20,2024-10-20 16:37:10
+Patriots,2024-10-20,Friday Night,Night,35,F,5 mph,NW,"Mostly clear, with a low around 35. Northwest wind around 5 mph.",2024-10-26 20:00,2024-10-20,2024-10-20 16:37:10
+Patriots,2024-10-20,Saturday,Day,58,F,3 to 7 mph,W,"Sunny, with a high near 58. West wind 3 to 7 mph.",2024-10-27 10:00,2024-10-20,2024-10-20 16:37:10
+Patriots,2024-10-20,Saturday Night,Night,40,F,7 mph,SW,"Partly cloudy, with a low around 40. Southwest wind around 7 mph.",2024-10-27 20:00,2024-10-20,2024-10-20 16:37:10
+Dolphins,2024-10-20,This Afternoon,Day,85,F,16 mph,NE,"A slight chance of rain showers. Mostly sunny, with a high near 85. Northeast wind around 16 mph, with gusts as high as 26 mph. Chance of precipitation is 20%. New rainfall amounts less than a tenth of an inch possible.",2024-10-20 10:00,2024-10-20,2024-10-20 16:37:10
+Dolphins,2024-10-20,Tonight,Day,75,F,10 to 16 mph,NE,"A slight chance of rain showers. Partly cloudy, with a low around 75. Northeast wind 10 to 16 mph, with gusts as high as 25 mph. Chance of precipitation is 20%. New rainfall amounts between a tenth and quarter of an inch possible.",2024-10-20 10:00,2024-10-20,2024-10-20 16:37:10
+Dolphins,2024-10-20,Monday,Day,85,F,12 to 16 mph,NE,"A slight chance of rain showers before 8am. Mostly sunny, with a high near 85. Northeast wind 12 to 16 mph, with gusts as high as 28 mph. Chance of precipitation is 20%. New rainfall amounts between a tenth and quarter of an inch possible.",2024-10-22 10:00,2024-10-20,2024-10-20 16:37:10
+Dolphins,2024-10-20,Monday Night,Night,75,F,10 to 15 mph,NE,"A slight chance of rain showers after 8pm. Partly cloudy, with a low around 75. Northeast wind 10 to 15 mph, with gusts as high as 25 mph. Chance of precipitation is 20%.",2024-10-22 20:00,2024-10-20,2024-10-20 16:37:10
+Dolphins,2024-10-20,Tuesday,Day,85,F,12 to 17 mph,NE,"A slight chance of rain showers. Mostly sunny, with a high near 85. Northeast wind 12 to 17 mph, with gusts as high as 28 mph. Chance of precipitation is 20%.",2024-10-23 10:00,2024-10-20,2024-10-20 16:37:10
+Dolphins,2024-10-20,Tuesday Night,Night,75,F,9 to 15 mph,NE,"A slight chance of rain showers. Partly cloudy, with a low around 75. Northeast wind 9 to 15 mph, with gusts as high as 25 mph. Chance of precipitation is 20%.",2024-10-23 20:00,2024-10-20,2024-10-20 16:37:10
+Dolphins,2024-10-20,Wednesday,Day,86,F,9 to 14 mph,NE,"A slight chance of rain showers. Mostly sunny, with a high near 86. Northeast wind 9 to 14 mph, with gusts as high as 25 mph. Chance of precipitation is 20%.",2024-10-24 10:00,2024-10-20,2024-10-20 16:37:10
+Dolphins,2024-10-20,Wednesday Night,Night,74,F,7 to 13 mph,NE,"A slight chance of rain showers before 8pm. Mostly clear, with a low around 74. Northeast wind 7 to 13 mph, with gusts as high as 23 mph. Chance of precipitation is 20%.",2024-10-24 20:00,2024-10-20,2024-10-20 16:37:10
+Dolphins,2024-10-20,Thursday,Day,85,F,8 to 13 mph,NE,"Sunny, with a high near 85. Northeast wind 8 to 13 mph, with gusts as high as 22 mph.",2024-10-25 10:00,2024-10-20,2024-10-20 16:37:10
+Dolphins,2024-10-20,Thursday Night,Night,74,F,6 to 12 mph,NE,"Partly cloudy, with a low around 74.",2024-10-25 20:00,2024-10-20,2024-10-20 16:37:10
+Dolphins,2024-10-20,Friday,Day,85,F,8 to 14 mph,NE,"Mostly sunny, with a high near 85.",2024-10-26 10:00,2024-10-20,2024-10-20 16:37:10
+Dolphins,2024-10-20,Friday Night,Night,75,F,9 to 13 mph,NE,"A slight chance of rain showers after 2am. Partly cloudy, with a low around 75. Chance of precipitation is 20%.",2024-10-26 20:00,2024-10-20,2024-10-20 16:37:10
+Dolphins,2024-10-20,Saturday,Day,84,F,10 to 15 mph,NE,"A slight chance of rain showers. Mostly sunny, with a high near 84. Chance of precipitation is 20%.",2024-10-27 10:00,2024-10-20,2024-10-20 16:37:10
+Dolphins,2024-10-20,Saturday Night,Night,75,F,9 to 14 mph,NE,"A slight chance of rain showers. Mostly cloudy, with a low around 75. Chance of precipitation is 20%.",2024-10-27 20:00,2024-10-20,2024-10-20 16:37:10
+Bills,2024-10-20,This Afternoon,Day,69,F,15 mph,SW,"Sunny, with a high near 69. Southwest wind around 15 mph, with gusts as high as 26 mph.",2024-10-20 10:00,2024-10-20,2024-10-20 16:37:10
+Bills,2024-10-20,Tonight,Day,53,F,8 to 15 mph,SW,"Mostly clear, with a low around 53. Southwest wind 8 to 15 mph.",2024-10-20 10:00,2024-10-20,2024-10-20 16:37:10
+Bills,2024-10-20,Monday,Day,71,F,8 to 17 mph,SW,"Sunny, with a high near 71. Southwest wind 8 to 17 mph, with gusts as high as 29 mph.",2024-10-22 10:00,2024-10-20,2024-10-20 16:37:10
+Bills,2024-10-20,Monday Night,Night,54,F,6 to 15 mph,SW,"Mostly clear, with a low around 54. Southwest wind 6 to 15 mph.",2024-10-22 20:00,2024-10-20,2024-10-20 16:37:10
+Bills,2024-10-20,Tuesday,Day,76,F,7 mph,SW,"Sunny, with a high near 76. Southwest wind around 7 mph.",2024-10-23 10:00,2024-10-20,2024-10-20 16:37:10
+Bills,2024-10-20,Tuesday Night,Night,58,F,5 to 10 mph,S,"Partly cloudy, with a low around 58. South wind 5 to 10 mph.",2024-10-23 20:00,2024-10-20,2024-10-20 16:37:10
+Bills,2024-10-20,Wednesday,Day,71,F,10 to 21 mph,SW,"A chance of rain showers after 2pm. Mostly sunny, with a high near 71. Southwest wind 10 to 21 mph, with gusts as high as 35 mph. Chance of precipitation is 40%.",2024-10-24 10:00,2024-10-20,2024-10-20 16:37:10
+Bills,2024-10-20,Wednesday Night,Night,42,F,8 to 16 mph,W,"A chance of rain showers. Mostly cloudy, with a low around 42. West wind 8 to 16 mph. Chance of precipitation is 50%.",2024-10-24 20:00,2024-10-20,2024-10-20 16:37:10
+Bills,2024-10-20,Thursday,Day,51,F,10 mph,NW,"A chance of rain showers. Partly sunny, with a high near 51. Chance of precipitation is 30%.",2024-10-25 10:00,2024-10-20,2024-10-20 16:37:10
+Bills,2024-10-20,Thursday Night,Night,38,F,3 to 7 mph,W,"A slight chance of rain showers before 8pm. Partly cloudy, with a low around 38.",2024-10-25 20:00,2024-10-20,2024-10-20 16:37:10
+Bills,2024-10-20,Friday,Day,56,F,3 to 8 mph,SW,"Mostly sunny, with a high near 56.",2024-10-26 10:00,2024-10-20,2024-10-20 16:37:10
+Bills,2024-10-20,Friday Night,Night,42,F,7 mph,S,"A slight chance of rain showers after 8pm. Partly cloudy, with a low around 42.",2024-10-26 20:00,2024-10-20,2024-10-20 16:37:10
+Bills,2024-10-20,Saturday,Day,62,F,9 mph,S,"A slight chance of rain showers. Mostly sunny, with a high near 62.",2024-10-27 10:00,2024-10-20,2024-10-20 16:37:10
+Bills,2024-10-20,Saturday Night,Night,47,F,10 mph,S,"A chance of rain showers. Mostly cloudy, with a low around 47. Chance of precipitation is 30%.",2024-10-27 20:00,2024-10-20,2024-10-20 16:37:10
+Packers,2024-10-20,This Afternoon,Day,79,F,12 mph,SW,"Sunny. High near 79, with temperatures falling to around 76 in the afternoon. Southwest wind around 12 mph, with gusts as high as 23 mph.",2024-10-20 10:00,2024-10-20,2024-10-20 16:37:10
+Packers,2024-10-20,Tonight,Day,55,F,7 to 10 mph,SW,"Mostly clear. Low around 55, with temperatures rising to around 58 overnight. Southwest wind 7 to 10 mph, with gusts as high as 20 mph.",2024-10-20 10:00,2024-10-20,2024-10-20 16:37:10
+Packers,2024-10-20,Monday,Day,78,F,6 to 10 mph,SW,"Sunny. High near 78, with temperatures falling to around 76 in the afternoon. Southwest wind 6 to 10 mph.",2024-10-22 10:00,2024-10-20,2024-10-20 16:37:10
+Packers,2024-10-20,Monday Night,Night,55,F,8 mph,SSW,"Partly cloudy, with a low around 55. South southwest wind around 8 mph.",2024-10-22 20:00,2024-10-20,2024-10-20 16:37:10
+Packers,2024-10-20,Tuesday,Day,73,F,6 to 13 mph,SSW,"Mostly sunny, with a high near 73. South southwest wind 6 to 13 mph, with gusts as high as 22 mph.",2024-10-23 10:00,2024-10-20,2024-10-20 16:37:10
+Packers,2024-10-20,Tuesday Night,Night,49,F,12 mph,WSW,"A chance of rain showers after 7pm. Partly cloudy, with a low around 49. Chance of precipitation is 30%.",2024-10-23 20:00,2024-10-20,2024-10-20 16:37:10
+Packers,2024-10-20,Wednesday,Day,57,F,10 to 14 mph,NW,"A chance of rain showers before 1pm. Mostly sunny, with a high near 57. Chance of precipitation is 30%.",2024-10-24 10:00,2024-10-20,2024-10-20 16:37:10
+Packers,2024-10-20,Wednesday Night,Night,31,F,2 to 10 mph,WNW,"Mostly clear, with a low around 31.",2024-10-24 20:00,2024-10-20,2024-10-20 16:37:10
+Packers,2024-10-20,Thursday,Day,56,F,2 to 7 mph,WSW,"Mostly sunny, with a high near 56.",2024-10-25 10:00,2024-10-20,2024-10-20 16:37:10
+Packers,2024-10-20,Thursday Night,Night,38,F,6 mph,SSW,"A slight chance of rain showers after 7pm. Partly cloudy, with a low around 38.",2024-10-25 20:00,2024-10-20,2024-10-20 16:37:10
+Packers,2024-10-20,Friday,Day,63,F,3 to 8 mph,SSW,"A slight chance of rain showers before 7am. Sunny, with a high near 63.",2024-10-26 10:00,2024-10-20,2024-10-20 16:37:10
+Packers,2024-10-20,Friday Night,Night,43,F,7 mph,S,"Partly cloudy, with a low around 43.",2024-10-26 20:00,2024-10-20,2024-10-20 16:37:10
+Packers,2024-10-20,Saturday,Day,65,F,6 to 12 mph,SSW,"A slight chance of rain showers after 1pm. Partly sunny, with a high near 65.",2024-10-27 10:00,2024-10-20,2024-10-20 16:37:10
+Packers,2024-10-20,Saturday Night,Night,43,F,6 to 9 mph,E,"A chance of rain showers. Mostly cloudy, with a low around 43.",2024-10-27 20:00,2024-10-20,2024-10-20 16:37:10
+49ers,2024-10-20,This Afternoon,Day,78,F,8 mph,NW,"Sunny. High near 78, with temperatures falling to around 74 in the afternoon. Northwest wind around 8 mph.",2024-10-20 10:00,2024-10-20,2024-10-20 16:37:10
+49ers,2024-10-20,Tonight,Day,50,F,2 to 6 mph,WNW,"Partly cloudy. Low around 50, with temperatures rising to around 52 overnight. West northwest wind 2 to 6 mph.",2024-10-20 10:00,2024-10-20,2024-10-20 16:37:10
+49ers,2024-10-20,Monday,Day,71,F,2 to 10 mph,NW,"Sunny. High near 71, with temperatures falling to around 68 in the afternoon. Northwest wind 2 to 10 mph.",2024-10-22 10:00,2024-10-20,2024-10-20 16:37:10
+49ers,2024-10-20,Monday Night,Night,50,F,2 to 9 mph,WNW,"Mostly clear, with a low around 50. West northwest wind 2 to 9 mph.",2024-10-22 20:00,2024-10-20,2024-10-20 16:37:10
+49ers,2024-10-20,Tuesday,Day,72,F,2 to 10 mph,W,"Patchy fog between 7am and 8am. Sunny, with a high near 72. West wind 2 to 10 mph.",2024-10-23 10:00,2024-10-20,2024-10-20 16:37:10
+49ers,2024-10-20,Tuesday Night,Night,51,F,2 to 8 mph,N,"Clear, with a low around 51.",2024-10-23 20:00,2024-10-20,2024-10-20 16:37:10
+49ers,2024-10-20,Wednesday,Day,80,F,2 to 6 mph,N,"Sunny, with a high near 80.",2024-10-24 10:00,2024-10-20,2024-10-20 16:37:10
+49ers,2024-10-20,Wednesday Night,Night,53,F,2 to 6 mph,SW,"Mostly clear, with a low around 53.",2024-10-24 20:00,2024-10-20,2024-10-20 16:37:10
+49ers,2024-10-20,Thursday,Day,73,F,2 to 7 mph,W,"Mostly sunny, with a high near 73.",2024-10-25 10:00,2024-10-20,2024-10-20 16:37:10
+49ers,2024-10-20,Thursday Night,Night,54,F,3 to 7 mph,SSW,"A slight chance of drizzle after 11pm. Partly cloudy, with a low around 54.",2024-10-25 20:00,2024-10-20,2024-10-20 16:37:10
+49ers,2024-10-20,Friday,Day,72,F,3 to 7 mph,WSW,"A slight chance of drizzle before 11am. Mostly sunny, with a high near 72.",2024-10-26 10:00,2024-10-20,2024-10-20 16:37:10
+49ers,2024-10-20,Friday Night,Night,53,F,2 to 7 mph,NW,"Patchy fog after 5am. Partly cloudy, with a low around 53.",2024-10-26 20:00,2024-10-20,2024-10-20 16:37:10
+49ers,2024-10-20,Saturday,Day,73,F,2 to 8 mph,NW,"Patchy fog before 9am. Mostly sunny, with a high near 73.",2024-10-27 10:00,2024-10-20,2024-10-20 16:37:10
+49ers,2024-10-20,Saturday Night,Night,52,F,2 to 8 mph,W,"Partly cloudy, with a low around 52.",2024-10-27 20:00,2024-10-20,2024-10-20 16:37:10
+Eagles,2024-10-20,This Afternoon,Day,76,F,5 mph,W,"Sunny, with a high near 76. West wind around 5 mph.",2024-10-20 10:00,2024-10-20,2024-10-20 16:37:10
+Eagles,2024-10-20,Tonight,Day,45,F,5 mph,SW,"Clear, with a low around 45. Southwest wind around 5 mph.",2024-10-20 10:00,2024-10-20,2024-10-20 16:37:10
+Eagles,2024-10-20,Monday,Day,80,F,0 to 5 mph,W,"Sunny, with a high near 80. West wind 0 to 5 mph.",2024-10-22 10:00,2024-10-20,2024-10-20 16:37:10
+Eagles,2024-10-20,Monday Night,Night,53,F,0 to 5 mph,W,"Clear, with a low around 53. West wind 0 to 5 mph.",2024-10-22 20:00,2024-10-20,2024-10-20 16:37:10
+Eagles,2024-10-20,Tuesday,Day,82,F,0 to 5 mph,E,"Sunny, with a high near 82. East wind 0 to 5 mph.",2024-10-23 10:00,2024-10-20,2024-10-20 16:37:10
+Eagles,2024-10-20,Tuesday Night,Night,51,F,0 to 5 mph,S,"Mostly clear, with a low around 51.",2024-10-23 20:00,2024-10-20,2024-10-20 16:37:10
+Eagles,2024-10-20,Wednesday,Day,78,F,0 to 10 mph,S,"Sunny, with a high near 78.",2024-10-24 10:00,2024-10-20,2024-10-20 16:37:10
+Eagles,2024-10-20,Wednesday Night,Night,55,F,5 to 10 mph,SW,"Mostly clear, with a low around 55.",2024-10-24 20:00,2024-10-20,2024-10-20 16:37:10
+Eagles,2024-10-20,Thursday,Day,65,F,10 to 15 mph,NW,"Sunny, with a high near 65.",2024-10-25 10:00,2024-10-20,2024-10-20 16:37:10
+Eagles,2024-10-20,Thursday Night,Night,43,F,5 to 10 mph,NW,"Mostly clear, with a low around 43.",2024-10-25 20:00,2024-10-20,2024-10-20 16:37:10
+Eagles,2024-10-20,Friday,Day,62,F,5 mph,NW,"Sunny, with a high near 62.",2024-10-26 10:00,2024-10-20,2024-10-20 16:37:10
+Eagles,2024-10-20,Friday Night,Night,43,F,0 to 5 mph,NW,"Mostly clear, with a low around 43.",2024-10-26 20:00,2024-10-20,2024-10-20 16:37:10
+Eagles,2024-10-20,Saturday,Day,66,F,0 to 5 mph,NW,"Sunny, with a high near 66.",2024-10-27 10:00,2024-10-20,2024-10-20 16:37:10
+Eagles,2024-10-20,Saturday Night,Night,45,F,5 mph,SW,"Mostly clear, with a low around 45.",2024-10-27 20:00,2024-10-20,2024-10-20 16:37:10
+Colts,2024-10-20,This Afternoon,Day,74,F,6 mph,SW,"Sunny, with a high near 74. Southwest wind around 6 mph.",2024-10-20 10:00,2024-10-20,2024-10-20 16:37:10
+Colts,2024-10-20,Tonight,Day,45,F,2 to 6 mph,SSW,"Clear. Low around 45, with temperatures rising to around 47 overnight. South southwest wind 2 to 6 mph.",2024-10-20 10:00,2024-10-20,2024-10-20 16:37:10
+Colts,2024-10-20,Monday,Day,78,F,2 to 6 mph,SSW,"Sunny, with a high near 78. South southwest wind 2 to 6 mph.",2024-10-22 10:00,2024-10-20,2024-10-20 16:37:10
+Colts,2024-10-20,Monday Night,Night,50,F,2 to 6 mph,S,"Mostly clear, with a low around 50. South wind 2 to 6 mph.",2024-10-22 20:00,2024-10-20,2024-10-20 16:37:10
+Colts,2024-10-20,Tuesday,Day,77,F,2 to 10 mph,S,"Mostly sunny, with a high near 77. South wind 2 to 10 mph, with gusts as high as 20 mph.",2024-10-23 10:00,2024-10-20,2024-10-20 16:37:10
+Colts,2024-10-20,Tuesday Night,Night,57,F,9 mph,SSW,"Mostly clear, with a low around 57. South southwest wind around 9 mph, with gusts as high as 18 mph.",2024-10-23 20:00,2024-10-20,2024-10-20 16:37:10
+Colts,2024-10-20,Wednesday,Day,76,F,6 to 10 mph,WSW,"Sunny, with a high near 76. West southwest wind 6 to 10 mph, with gusts as high as 20 mph.",2024-10-24 10:00,2024-10-20,2024-10-20 16:37:10
+Colts,2024-10-20,Wednesday Night,Night,44,F,3 to 10 mph,NNW,"Mostly clear, with a low around 44. North northwest wind 3 to 10 mph, with gusts as high as 18 mph.",2024-10-24 20:00,2024-10-20,2024-10-20 16:37:10
+Colts,2024-10-20,Thursday,Day,62,F,5 mph,NNE,"Sunny, with a high near 62. North northeast wind around 5 mph.",2024-10-25 10:00,2024-10-20,2024-10-20 16:37:10
+Colts,2024-10-20,Thursday Night,Night,42,F,5 mph,ENE,"Mostly clear, with a low around 42. East northeast wind around 5 mph.",2024-10-25 20:00,2024-10-20,2024-10-20 16:37:10
+Colts,2024-10-20,Friday,Day,68,F,2 to 7 mph,SSE,"Sunny, with a high near 68.",2024-10-26 10:00,2024-10-20,2024-10-20 16:37:10
+Colts,2024-10-20,Friday Night,Night,47,F,7 mph,SSE,"A slight chance of rain showers after 2am. Mostly clear, with a low around 47. Chance of precipitation is 20%.",2024-10-26 20:00,2024-10-20,2024-10-20 16:37:10
+Colts,2024-10-20,Saturday,Day,72,F,6 to 10 mph,SSE,"A slight chance of rain showers before 8am. Mostly sunny, with a high near 72. Chance of precipitation is 20%.",2024-10-27 10:00,2024-10-20,2024-10-20 16:37:10
+Colts,2024-10-20,Saturday Night,Night,54,F,9 mph,S,"A slight chance of rain showers after 2am. Partly cloudy, with a low around 54. Chance of precipitation is 20%.",2024-10-27 20:00,2024-10-20,2024-10-20 16:37:10
+Seahawks,2024-10-20,This Afternoon,Day,68,F,18 mph,SSW,"Rain. Mostly cloudy. High near 68, with temperatures falling to around 62 in the afternoon. South southwest wind around 18 mph, with gusts as high as 26 mph. Chance of precipitation is 90%. New rainfall amounts less than a tenth of an inch possible.",2024-10-20 10:00,2024-10-20,2024-10-20 16:37:10
+Seahawks,2024-10-20,Tonight,Day,50,F,5 to 17 mph,S,"A chance of rain before 8pm, then a chance of rain showers. Mostly cloudy, with a low around 50. South wind 5 to 17 mph, with gusts as high as 24 mph. Chance of precipitation is 40%. New rainfall amounts less than a tenth of an inch possible.",2024-10-20 10:00,2024-10-20,2024-10-20 16:37:10
+Seahawks,2024-10-20,Monday,Day,57,F,7 mph,S,"Rain showers. Mostly cloudy. High near 57, with temperatures falling to around 55 in the afternoon. South wind around 7 mph. Chance of precipitation is 90%. New rainfall amounts between a tenth and quarter of an inch possible.",2024-10-22 10:00,2024-10-20,2024-10-20 16:37:10
+Seahawks,2024-10-20,Monday Night,Night,47,F,5 to 9 mph,S,"Rain showers before 5am, then a slight chance of rain. Mostly cloudy, with a low around 47. South wind 5 to 9 mph. Chance of precipitation is 80%. New rainfall amounts between a tenth and quarter of an inch possible.",2024-10-22 20:00,2024-10-20,2024-10-20 16:37:10
+Seahawks,2024-10-20,Tuesday,Day,56,F,6 mph,W,"A slight chance of rain before 11am. Mostly sunny, with a high near 56. West wind around 6 mph. Chance of precipitation is 20%. New rainfall amounts less than a tenth of an inch possible.",2024-10-23 10:00,2024-10-20,2024-10-20 16:37:10
+Seahawks,2024-10-20,Tuesday Night,Night,43,F,6 mph,N,"Mostly clear, with a low around 43.",2024-10-23 20:00,2024-10-20,2024-10-20 16:37:10
+Seahawks,2024-10-20,Wednesday,Day,56,F,6 mph,N,"Partly sunny, with a high near 56.",2024-10-24 10:00,2024-10-20,2024-10-20 16:37:10
+Seahawks,2024-10-20,Wednesday Night,Night,44,F,6 mph,N,"Mostly cloudy, with a low around 44.",2024-10-24 20:00,2024-10-20,2024-10-20 16:37:10
+Seahawks,2024-10-20,Thursday,Day,58,F,7 mph,NNE,"A chance of rain after 11am. Partly sunny, with a high near 58.",2024-10-25 10:00,2024-10-20,2024-10-20 16:37:10
+Seahawks,2024-10-20,Thursday Night,Night,48,F,6 mph,SSE,"A chance of rain. Mostly cloudy, with a low around 48.",2024-10-25 20:00,2024-10-20,2024-10-20 16:37:10
+Seahawks,2024-10-20,Friday,Day,57,F,7 mph,SSE,"Rain likely. Mostly cloudy, with a high near 57.",2024-10-26 10:00,2024-10-20,2024-10-20 16:37:10
+Seahawks,2024-10-20,Friday Night,Night,50,F,8 mph,S,"Rain likely. Mostly cloudy, with a low around 50.",2024-10-26 20:00,2024-10-20,2024-10-20 16:37:10
+Seahawks,2024-10-20,Saturday,Day,57,F,10 mph,S,"Rain. Mostly cloudy, with a high near 57.",2024-10-27 10:00,2024-10-20,2024-10-20 16:37:10
+Seahawks,2024-10-20,Saturday Night,Night,51,F,9 mph,S,"Rain. Mostly cloudy, with a low around 51.",2024-10-27 20:00,2024-10-20,2024-10-20 16:37:10
+Ravens,2024-10-20,This Afternoon,Day,76,F,3 mph,W,"Sunny, with a high near 76. West wind around 3 mph.",2024-10-20 10:00,2024-10-20,2024-10-20 16:37:10
+Ravens,2024-10-20,Tonight,Day,50,F,3 mph,W,"Clear, with a low around 50. West wind around 3 mph.",2024-10-20 10:00,2024-10-20,2024-10-20 16:37:10
+Ravens,2024-10-20,Monday,Day,79,F,6 mph,W,"Sunny, with a high near 79. West wind around 6 mph.",2024-10-22 10:00,2024-10-20,2024-10-20 16:37:10
+Ravens,2024-10-20,Monday Night,Night,53,F,1 to 5 mph,W,"Clear, with a low around 53. West wind 1 to 5 mph.",2024-10-22 20:00,2024-10-20,2024-10-20 16:37:10
+Ravens,2024-10-20,Tuesday,Day,80,F,1 to 5 mph,NE,"Sunny, with a high near 80. Northeast wind 1 to 5 mph.",2024-10-23 10:00,2024-10-20,2024-10-20 16:37:10
+Ravens,2024-10-20,Tuesday Night,Night,52,F,3 mph,S,"Mostly clear, with a low around 52.",2024-10-23 20:00,2024-10-20,2024-10-20 16:37:10
+Ravens,2024-10-20,Wednesday,Day,77,F,2 to 8 mph,S,"Sunny, with a high near 77.",2024-10-24 10:00,2024-10-20,2024-10-20 16:37:10
+Ravens,2024-10-20,Wednesday Night,Night,54,F,8 mph,W,"Mostly clear, with a low around 54.",2024-10-24 20:00,2024-10-20,2024-10-20 16:37:10
+Ravens,2024-10-20,Thursday,Day,65,F,12 mph,NW,"Sunny, with a high near 65.",2024-10-25 10:00,2024-10-20,2024-10-20 16:37:10
+Ravens,2024-10-20,Thursday Night,Night,44,F,3 to 10 mph,N,"Mostly clear, with a low around 44.",2024-10-25 20:00,2024-10-20,2024-10-20 16:37:10
+Ravens,2024-10-20,Friday,Day,63,F,6 mph,N,"Sunny, with a high near 63.",2024-10-26 10:00,2024-10-20,2024-10-20 16:37:10
+Ravens,2024-10-20,Friday Night,Night,45,F,5 mph,N,"Mostly clear, with a low around 45.",2024-10-26 20:00,2024-10-20,2024-10-20 16:37:10
+Ravens,2024-10-20,Saturday,Day,67,F,2 to 7 mph,E,"Sunny, with a high near 67.",2024-10-27 10:00,2024-10-20,2024-10-20 16:37:10
+Ravens,2024-10-20,Saturday Night,Night,47,F,7 mph,S,"Mostly clear, with a low around 47.",2024-10-27 20:00,2024-10-20,2024-10-20 16:37:10
+Falcons,2024-10-20,This Afternoon,Day,76,F,5 mph,N,"Sunny, with a high near 76. North wind around 5 mph.",2024-10-20 10:00,2024-10-20,2024-10-20 16:37:10
+Falcons,2024-10-20,Tonight,Day,50,F,0 to 5 mph,N,"Clear, with a low around 50. North wind 0 to 5 mph.",2024-10-20 10:00,2024-10-20,2024-10-20 16:37:10
+Falcons,2024-10-20,Monday,Day,79,F,0 to 5 mph,NE,"Sunny, with a high near 79. Northeast wind 0 to 5 mph.",2024-10-22 10:00,2024-10-20,2024-10-20 16:37:10
+Falcons,2024-10-20,Monday Night,Night,50,F,0 to 5 mph,E,"Clear, with a low around 50. East wind 0 to 5 mph.",2024-10-22 20:00,2024-10-20,2024-10-20 16:37:10
+Falcons,2024-10-20,Tuesday,Day,77,F,5 mph,E,"Sunny, with a high near 77. East wind around 5 mph.",2024-10-23 10:00,2024-10-20,2024-10-20 16:37:10
+Falcons,2024-10-20,Tuesday Night,Night,52,F,0 to 5 mph,E,"Clear, with a low around 52.",2024-10-23 20:00,2024-10-20,2024-10-20 16:37:10
+Falcons,2024-10-20,Wednesday,Day,80,F,0 to 5 mph,N,"Sunny, with a high near 80.",2024-10-24 10:00,2024-10-20,2024-10-20 16:37:10
+Falcons,2024-10-20,Wednesday Night,Night,56,F,0 to 5 mph,NW,"Clear, with a low around 56.",2024-10-24 20:00,2024-10-20,2024-10-20 16:37:10
+Falcons,2024-10-20,Thursday,Day,79,F,5 mph,NW,"Sunny, with a high near 79.",2024-10-25 10:00,2024-10-20,2024-10-20 16:37:10
+Falcons,2024-10-20,Thursday Night,Night,51,F,0 to 5 mph,N,"Clear, with a low around 51.",2024-10-25 20:00,2024-10-20,2024-10-20 16:37:10
+Falcons,2024-10-20,Friday,Day,76,F,5 mph,NE,"Sunny, with a high near 76.",2024-10-26 10:00,2024-10-20,2024-10-20 16:37:10
+Falcons,2024-10-20,Friday Night,Night,53,F,5 mph,E,"Clear, with a low around 53.",2024-10-26 20:00,2024-10-20,2024-10-20 16:37:10
+Falcons,2024-10-20,Saturday,Day,76,F,5 to 10 mph,E,"Sunny, with a high near 76.",2024-10-27 10:00,2024-10-20,2024-10-20 16:37:10
+Falcons,2024-10-20,Saturday Night,Night,54,F,5 mph,E,"Mostly clear, with a low around 54.",2024-10-27 20:00,2024-10-20,2024-10-20 16:37:10
+Jets,2024-10-20,This Afternoon,Day,77,F,8 mph,SW,"Sunny. High near 77, with temperatures falling to around 73 in the afternoon. Southwest wind around 8 mph.",2024-10-20 10:00,2024-10-20,2024-10-20 16:37:10
+Jets,2024-10-20,Tonight,Day,50,F,2 to 7 mph,SW,"Clear, with a low around 50. Southwest wind 2 to 7 mph.",2024-10-20 10:00,2024-10-20,2024-10-20 16:37:10
+Jets,2024-10-20,Monday,Day,82,F,2 to 8 mph,W,"Sunny, with a high near 82. West wind 2 to 8 mph.",2024-10-22 10:00,2024-10-20,2024-10-20 16:37:10
+Jets,2024-10-20,Monday Night,Night,58,F,1 to 8 mph,W,"Partly cloudy, with a low around 58. West wind 1 to 8 mph.",2024-10-22 20:00,2024-10-20,2024-10-20 16:37:10
+Jets,2024-10-20,Tuesday,Day,79,F,1 to 7 mph,NE,"Sunny. High near 79, with temperatures falling to around 75 in the afternoon. Northeast wind 1 to 7 mph.",2024-10-23 10:00,2024-10-20,2024-10-20 16:37:10
+Jets,2024-10-20,Tuesday Night,Night,54,F,2 to 7 mph,SE,"Mostly clear. Low around 54, with temperatures rising to around 57 overnight.",2024-10-23 20:00,2024-10-20,2024-10-20 16:37:10
+Jets,2024-10-20,Wednesday,Day,76,F,2 to 10 mph,S,"Sunny, with a high near 76.",2024-10-24 10:00,2024-10-20,2024-10-20 16:37:10
+Jets,2024-10-20,Wednesday Night,Night,54,F,6 to 9 mph,SW,"Partly cloudy, with a low around 54.",2024-10-24 20:00,2024-10-20,2024-10-20 16:37:10
+Jets,2024-10-20,Thursday,Day,63,F,9 to 13 mph,NW,"Sunny, with a high near 63.",2024-10-25 10:00,2024-10-20,2024-10-20 16:37:10
+Jets,2024-10-20,Thursday Night,Night,43,F,6 to 10 mph,NW,"Mostly clear, with a low around 43.",2024-10-25 20:00,2024-10-20,2024-10-20 16:37:10
+Jets,2024-10-20,Friday,Day,61,F,7 mph,NW,"Sunny, with a high near 61.",2024-10-26 10:00,2024-10-20,2024-10-20 16:37:10
+Jets,2024-10-20,Friday Night,Night,43,F,3 to 7 mph,NW,"Mostly clear, with a low around 43.",2024-10-26 20:00,2024-10-20,2024-10-20 16:37:10
+Jets,2024-10-20,Saturday,Day,64,F,3 to 8 mph,W,"Sunny, with a high near 64.",2024-10-27 10:00,2024-10-20,2024-10-20 16:37:10
+Jets,2024-10-20,Saturday Night,Night,45,F,8 mph,SW,"Mostly clear, with a low around 45.",2024-10-27 20:00,2024-10-20,2024-10-20 16:37:10
+Giants,2024-10-20,This Afternoon,Day,77,F,8 mph,SW,"Sunny. High near 77, with temperatures falling to around 73 in the afternoon. Southwest wind around 8 mph.",2024-10-20 10:00,2024-10-20,2024-10-20 16:37:10
+Giants,2024-10-20,Tonight,Day,50,F,2 to 7 mph,SW,"Clear, with a low around 50. Southwest wind 2 to 7 mph.",2024-10-20 10:00,2024-10-20,2024-10-20 16:37:10
+Giants,2024-10-20,Monday,Day,82,F,2 to 8 mph,W,"Sunny, with a high near 82. West wind 2 to 8 mph.",2024-10-22 10:00,2024-10-20,2024-10-20 16:37:10
+Giants,2024-10-20,Monday Night,Night,58,F,1 to 8 mph,W,"Partly cloudy, with a low around 58. West wind 1 to 8 mph.",2024-10-22 20:00,2024-10-20,2024-10-20 16:37:10
+Giants,2024-10-20,Tuesday,Day,79,F,1 to 7 mph,NE,"Sunny. High near 79, with temperatures falling to around 75 in the afternoon. Northeast wind 1 to 7 mph.",2024-10-23 10:00,2024-10-20,2024-10-20 16:37:10
+Giants,2024-10-20,Tuesday Night,Night,54,F,2 to 7 mph,SE,"Mostly clear. Low around 54, with temperatures rising to around 57 overnight.",2024-10-23 20:00,2024-10-20,2024-10-20 16:37:10
+Giants,2024-10-20,Wednesday,Day,76,F,2 to 10 mph,S,"Sunny, with a high near 76.",2024-10-24 10:00,2024-10-20,2024-10-20 16:37:10
+Giants,2024-10-20,Wednesday Night,Night,54,F,6 to 9 mph,SW,"Partly cloudy, with a low around 54.",2024-10-24 20:00,2024-10-20,2024-10-20 16:37:10
+Giants,2024-10-20,Thursday,Day,63,F,9 to 13 mph,NW,"Sunny, with a high near 63.",2024-10-25 10:00,2024-10-20,2024-10-20 16:37:10
+Giants,2024-10-20,Thursday Night,Night,43,F,6 to 10 mph,NW,"Mostly clear, with a low around 43.",2024-10-25 20:00,2024-10-20,2024-10-20 16:37:10
+Giants,2024-10-20,Friday,Day,61,F,7 mph,NW,"Sunny, with a high near 61.",2024-10-26 10:00,2024-10-20,2024-10-20 16:37:10
+Giants,2024-10-20,Friday Night,Night,43,F,3 to 7 mph,NW,"Mostly clear, with a low around 43.",2024-10-26 20:00,2024-10-20,2024-10-20 16:37:10
+Giants,2024-10-20,Saturday,Day,64,F,3 to 8 mph,W,"Sunny, with a high near 64.",2024-10-27 10:00,2024-10-20,2024-10-20 16:37:10
+Giants,2024-10-20,Saturday Night,Night,45,F,8 mph,SW,"Mostly clear, with a low around 45.",2024-10-27 20:00,2024-10-20,2024-10-20 16:37:10
+Titans,2024-10-20,This Afternoon,Day,77,F,5 mph,N,"Sunny, with a high near 77. North wind around 5 mph.",2024-10-20 10:00,2024-10-20,2024-10-20 16:37:10
+Titans,2024-10-20,Tonight,Day,44,F,0 mph,,"Patchy fog after 4am. Mostly clear, with a low around 44. Northeast wind around 0 mph.",2024-10-20 10:00,2024-10-20,2024-10-20 16:37:10
+Titans,2024-10-20,Monday,Day,79,F,0 to 5 mph,ENE,"Areas of fog before 9am. Sunny, with a high near 79. East northeast wind 0 to 5 mph.",2024-10-22 10:00,2024-10-20,2024-10-20 16:37:10
+Titans,2024-10-20,Monday Night,Night,48,F,0 mph,,"Mostly clear, with a low around 48. East southeast wind around 0 mph.",2024-10-22 20:00,2024-10-20,2024-10-20 16:37:10
+Titans,2024-10-20,Tuesday,Day,82,F,0 to 10 mph,S,"Sunny, with a high near 82. South wind 0 to 10 mph.",2024-10-23 10:00,2024-10-20,2024-10-20 16:37:10
+Titans,2024-10-20,Tuesday Night,Night,54,F,5 mph,S,"Mostly clear, with a low around 54. South wind around 5 mph.",2024-10-23 20:00,2024-10-20,2024-10-20 16:37:10
+Titans,2024-10-20,Wednesday,Day,83,F,5 to 10 mph,SW,"Sunny, with a high near 83. Southwest wind 5 to 10 mph.",2024-10-24 10:00,2024-10-20,2024-10-20 16:37:10
+Titans,2024-10-20,Wednesday Night,Night,52,F,5 mph,NNW,"Mostly clear, with a low around 52. North northwest wind around 5 mph.",2024-10-24 20:00,2024-10-20,2024-10-20 16:37:10
+Titans,2024-10-20,Thursday,Day,73,F,5 mph,NNE,"Sunny, with a high near 73. North northeast wind around 5 mph.",2024-10-25 10:00,2024-10-20,2024-10-20 16:37:10
+Titans,2024-10-20,Thursday Night,Night,46,F,0 to 5 mph,NE,"Mostly clear, with a low around 46.",2024-10-25 20:00,2024-10-20,2024-10-20 16:37:10
+Titans,2024-10-20,Friday,Day,75,F,0 to 5 mph,E,"Sunny, with a high near 75.",2024-10-26 10:00,2024-10-20,2024-10-20 16:37:10
+Titans,2024-10-20,Friday Night,Night,50,F,5 mph,SE,"Mostly clear, with a low around 50.",2024-10-26 20:00,2024-10-20,2024-10-20 16:37:10
+Titans,2024-10-20,Saturday,Day,80,F,5 to 10 mph,S,"Sunny, with a high near 80.",2024-10-27 10:00,2024-10-20,2024-10-20 16:37:10
+Titans,2024-10-20,Saturday Night,Night,56,F,5 to 10 mph,S,"Mostly clear, with a low around 56.",2024-10-27 20:00,2024-10-20,2024-10-20 16:37:10
+Texans,2024-10-20,This Afternoon,Day,85,F,10 mph,E,"Sunny, with a high near 85. East wind around 10 mph.",2024-10-20 10:00,2024-10-20,2024-10-20 16:37:10
+Texans,2024-10-20,Tonight,Day,61,F,5 to 10 mph,E,"Clear, with a low around 61. East wind 5 to 10 mph.",2024-10-20 10:00,2024-10-20,2024-10-20 16:37:10
+Texans,2024-10-20,Monday,Day,85,F,5 to 10 mph,E,"Sunny, with a high near 85. East wind 5 to 10 mph.",2024-10-22 10:00,2024-10-20,2024-10-20 16:37:10
+Texans,2024-10-20,Monday Night,Night,63,F,0 to 10 mph,SE,"Mostly clear, with a low around 63. Southeast wind 0 to 10 mph.",2024-10-22 20:00,2024-10-20,2024-10-20 16:37:10
+Texans,2024-10-20,Tuesday,Day,88,F,5 mph,E,"Mostly sunny, with a high near 88. East wind around 5 mph.",2024-10-23 10:00,2024-10-20,2024-10-20 16:37:10
+Texans,2024-10-20,Tuesday Night,Night,65,F,0 to 10 mph,SE,"Mostly clear, with a low around 65.",2024-10-23 20:00,2024-10-20,2024-10-20 16:37:10
+Texans,2024-10-20,Wednesday,Day,89,F,0 to 5 mph,E,"Sunny, with a high near 89.",2024-10-24 10:00,2024-10-20,2024-10-20 16:37:10
+Texans,2024-10-20,Wednesday Night,Night,64,F,0 to 10 mph,S,"Mostly clear, with a low around 64.",2024-10-24 20:00,2024-10-20,2024-10-20 16:37:10
+Texans,2024-10-20,Thursday,Day,90,F,0 to 10 mph,NE,"Sunny, with a high near 90.",2024-10-25 10:00,2024-10-20,2024-10-20 16:37:10
+Texans,2024-10-20,Thursday Night,Night,65,F,0 to 10 mph,S,"Mostly clear, with a low around 65.",2024-10-25 20:00,2024-10-20,2024-10-20 16:37:10
+Texans,2024-10-20,Friday,Day,89,F,0 to 10 mph,E,"Sunny, with a high near 89.",2024-10-26 10:00,2024-10-20,2024-10-20 16:37:10
+Texans,2024-10-20,Friday Night,Night,66,F,0 to 10 mph,SE,"Mostly clear, with a low around 66.",2024-10-26 20:00,2024-10-20,2024-10-20 16:37:10
+Texans,2024-10-20,Saturday,Day,88,F,0 to 10 mph,E,"Sunny, with a high near 88.",2024-10-27 10:00,2024-10-20,2024-10-20 16:37:10
+Texans,2024-10-20,Saturday Night,Night,67,F,5 to 10 mph,SE,"Mostly clear, with a low around 67.",2024-10-27 20:00,2024-10-20,2024-10-20 16:37:10
+Bengals,2024-10-20,This Afternoon,Day,73,F,5 mph,SW,"Sunny, with a high near 73. Southwest wind around 5 mph.",2024-10-20 10:00,2024-10-20,2024-10-20 16:37:10
+Bengals,2024-10-20,Tonight,Day,42,F,0 to 3 mph,W,"Areas of fog after 2am. Clear, with a low around 42. West wind 0 to 3 mph.",2024-10-20 10:00,2024-10-20,2024-10-20 16:37:10
+Bengals,2024-10-20,Monday,Day,77,F,0 to 3 mph,SW,"Areas of fog before 11am. Sunny, with a high near 77. Southwest wind 0 to 3 mph.",2024-10-22 10:00,2024-10-20,2024-10-20 16:37:10
+Bengals,2024-10-20,Monday Night,Night,45,F,3 mph,S,"Patchy fog after 4am. Clear, with a low around 45. South wind around 3 mph.",2024-10-22 20:00,2024-10-20,2024-10-20 16:37:10
+Bengals,2024-10-20,Tuesday,Day,79,F,1 to 7 mph,S,"Areas of fog before 2pm. Sunny, with a high near 79. South wind 1 to 7 mph.",2024-10-23 10:00,2024-10-20,2024-10-20 16:37:10
+Bengals,2024-10-20,Tuesday Night,Night,55,F,6 mph,S,"Mostly clear, with a low around 55.",2024-10-23 20:00,2024-10-20,2024-10-20 16:37:10
+Bengals,2024-10-20,Wednesday,Day,79,F,6 to 10 mph,SW,"Sunny, with a high near 79.",2024-10-24 10:00,2024-10-20,2024-10-20 16:37:10
+Bengals,2024-10-20,Wednesday Night,Night,43,F,3 to 9 mph,NW,"Mostly clear, with a low around 43.",2024-10-24 20:00,2024-10-20,2024-10-20 16:37:10
+Bengals,2024-10-20,Thursday,Day,62,F,3 mph,N,"Sunny, with a high near 62.",2024-10-25 10:00,2024-10-20,2024-10-20 16:37:10
+Bengals,2024-10-20,Thursday Night,Night,39,F,3 mph,NE,"Mostly clear, with a low around 39.",2024-10-25 20:00,2024-10-20,2024-10-20 16:37:10
+Bengals,2024-10-20,Friday,Day,68,F,1 to 5 mph,SE,"Sunny, with a high near 68.",2024-10-26 10:00,2024-10-20,2024-10-20 16:37:10
+Bengals,2024-10-20,Friday Night,Night,45,F,5 mph,SE,"A slight chance of rain showers after 2am. Mostly clear, with a low around 45.",2024-10-26 20:00,2024-10-20,2024-10-20 16:37:10
+Bengals,2024-10-20,Saturday,Day,73,F,2 to 7 mph,S,"A slight chance of rain showers before 8am. Sunny, with a high near 73.",2024-10-27 10:00,2024-10-20,2024-10-20 16:37:10
+Bengals,2024-10-20,Saturday Night,Night,53,F,3 to 7 mph,S,"Partly cloudy, with a low around 53.",2024-10-27 20:00,2024-10-20,2024-10-20 16:37:10
+Buccaneers,2024-10-20,This Afternoon,Day,83,F,12 mph,NNE,"Mostly sunny, with a high near 83. North northeast wind around 12 mph, with gusts as high as 21 mph.",2024-10-20 10:00,2024-10-20,2024-10-20 16:37:10
+Buccaneers,2024-10-20,Tonight,Day,67,F,10 mph,NNE,"Mostly clear, with a low around 67. North northeast wind around 10 mph, with gusts as high as 22 mph.",2024-10-20 10:00,2024-10-20,2024-10-20 16:37:10
+Buccaneers,2024-10-20,Monday,Day,84,F,7 to 12 mph,NNE,"Sunny, with a high near 84. North northeast wind 7 to 12 mph, with gusts as high as 21 mph.",2024-10-22 10:00,2024-10-20,2024-10-20 16:37:10
+Buccaneers,2024-10-20,Monday Night,Night,69,F,6 to 12 mph,NE,"Mostly clear, with a low around 69. Northeast wind 6 to 12 mph, with gusts as high as 21 mph.",2024-10-22 20:00,2024-10-20,2024-10-20 16:37:10
+Buccaneers,2024-10-20,Tuesday,Day,87,F,6 to 12 mph,NE,"Sunny, with a high near 87. Northeast wind 6 to 12 mph, with gusts as high as 21 mph.",2024-10-23 10:00,2024-10-20,2024-10-20 16:37:10
+Buccaneers,2024-10-20,Tuesday Night,Night,68,F,6 to 12 mph,NE,"Mostly clear, with a low around 68. Northeast wind 6 to 12 mph, with gusts as high as 20 mph.",2024-10-23 20:00,2024-10-20,2024-10-20 16:37:10
+Buccaneers,2024-10-20,Wednesday,Day,86,F,5 to 10 mph,NNE,"Sunny, with a high near 86. North northeast wind 5 to 10 mph.",2024-10-24 10:00,2024-10-20,2024-10-20 16:37:10
+Buccaneers,2024-10-20,Wednesday Night,Night,66,F,5 to 9 mph,NNE,"Mostly clear, with a low around 66. North northeast wind 5 to 9 mph.",2024-10-24 20:00,2024-10-20,2024-10-20 16:37:10
+Buccaneers,2024-10-20,Thursday,Day,84,F,5 to 8 mph,NNE,"Sunny, with a high near 84. North northeast wind 5 to 8 mph.",2024-10-25 10:00,2024-10-20,2024-10-20 16:37:10
+Buccaneers,2024-10-20,Thursday Night,Night,64,F,3 to 8 mph,NE,"Partly cloudy, with a low around 64.",2024-10-25 20:00,2024-10-20,2024-10-20 16:37:10
+Buccaneers,2024-10-20,Friday,Day,85,F,3 to 9 mph,NE,"Sunny, with a high near 85.",2024-10-26 10:00,2024-10-20,2024-10-20 16:37:10
+Buccaneers,2024-10-20,Friday Night,Night,67,F,5 to 9 mph,ENE,"Partly cloudy, with a low around 67.",2024-10-26 20:00,2024-10-20,2024-10-20 16:37:10
+Buccaneers,2024-10-20,Saturday,Day,85,F,6 to 12 mph,ENE,"Mostly sunny, with a high near 85.",2024-10-27 10:00,2024-10-20,2024-10-20 16:37:10
+Buccaneers,2024-10-20,Saturday Night,Night,67,F,5 to 10 mph,ENE,"Partly cloudy, with a low around 67.",2024-10-27 20:00,2024-10-20,2024-10-20 16:37:10
+Chargers,2024-10-20,This Afternoon,Day,80,F,10 mph,WSW,"Sunny, with a high near 80. West southwest wind around 10 mph.",2024-10-20 10:00,2024-10-20,2024-10-20 16:37:10
+Chargers,2024-10-20,Tonight,Day,59,F,5 to 10 mph,NW,"Mostly clear, with a low around 59. Northwest wind 5 to 10 mph.",2024-10-20 10:00,2024-10-20,2024-10-20 16:37:10
+Chargers,2024-10-20,Monday,Day,79,F,5 to 10 mph,W,"Sunny, with a high near 79. West wind 5 to 10 mph.",2024-10-22 10:00,2024-10-20,2024-10-20 16:37:10
+Chargers,2024-10-20,Monday Night,Night,59,F,0 to 10 mph,N,"Mostly clear, with a low around 59. North wind 0 to 10 mph.",2024-10-22 20:00,2024-10-20,2024-10-20 16:37:10
+Chargers,2024-10-20,Tuesday,Day,77,F,0 to 15 mph,NW,"Sunny, with a high near 77. Northwest wind 0 to 15 mph.",2024-10-23 10:00,2024-10-20,2024-10-20 16:37:10
+Chargers,2024-10-20,Tuesday Night,Night,59,F,0 to 15 mph,NNE,"Patchy fog after 11pm. Partly cloudy, with a low around 59.",2024-10-23 20:00,2024-10-20,2024-10-20 16:37:10
+Chargers,2024-10-20,Wednesday,Day,78,F,0 to 10 mph,W,"Patchy fog before 11am. Mostly sunny, with a high near 78.",2024-10-24 10:00,2024-10-20,2024-10-20 16:37:10
+Chargers,2024-10-20,Wednesday Night,Night,59,F,0 to 10 mph,ENE,"Patchy fog after 11pm. Mostly cloudy, with a low around 59.",2024-10-24 20:00,2024-10-20,2024-10-20 16:37:10
+Chargers,2024-10-20,Thursday,Day,74,F,0 to 10 mph,W,"Patchy fog before 11am. Mostly sunny, with a high near 74.",2024-10-25 10:00,2024-10-20,2024-10-20 16:37:10
+Chargers,2024-10-20,Thursday Night,Night,57,F,0 to 10 mph,SW,"Patchy fog after 11pm. Mostly cloudy, with a low around 57.",2024-10-25 20:00,2024-10-20,2024-10-20 16:37:10
+Chargers,2024-10-20,Friday,Day,71,F,0 to 10 mph,S,"Patchy fog before 11am. Partly sunny, with a high near 71.",2024-10-26 10:00,2024-10-20,2024-10-20 16:37:10
+Chargers,2024-10-20,Friday Night,Night,56,F,0 to 10 mph,ENE,"Patchy fog after 11pm. Mostly cloudy, with a low around 56.",2024-10-26 20:00,2024-10-20,2024-10-20 16:37:10
+Chargers,2024-10-20,Saturday,Day,73,F,0 to 10 mph,SW,"Patchy fog before 11am. Mostly sunny, with a high near 73.",2024-10-27 10:00,2024-10-20,2024-10-20 16:37:10
+Chargers,2024-10-20,Saturday Night,Night,58,F,0 to 10 mph,NNE,"Patchy fog after 11pm. Mostly cloudy, with a low around 58.",2024-10-27 20:00,2024-10-20,2024-10-20 16:37:10
+Rams,2024-10-20,This Afternoon,Day,80,F,10 mph,WSW,"Sunny, with a high near 80. West southwest wind around 10 mph.",2024-10-20 10:00,2024-10-20,2024-10-20 16:37:10
+Rams,2024-10-20,Tonight,Day,59,F,5 to 10 mph,NW,"Mostly clear, with a low around 59. Northwest wind 5 to 10 mph.",2024-10-20 10:00,2024-10-20,2024-10-20 16:37:10
+Rams,2024-10-20,Monday,Day,79,F,5 to 10 mph,W,"Sunny, with a high near 79. West wind 5 to 10 mph.",2024-10-22 10:00,2024-10-20,2024-10-20 16:37:10
+Rams,2024-10-20,Monday Night,Night,59,F,0 to 10 mph,N,"Mostly clear, with a low around 59. North wind 0 to 10 mph.",2024-10-22 20:00,2024-10-20,2024-10-20 16:37:10
+Rams,2024-10-20,Tuesday,Day,77,F,0 to 15 mph,NW,"Sunny, with a high near 77. Northwest wind 0 to 15 mph.",2024-10-23 10:00,2024-10-20,2024-10-20 16:37:10
+Rams,2024-10-20,Tuesday Night,Night,59,F,0 to 15 mph,NNE,"Patchy fog after 11pm. Partly cloudy, with a low around 59.",2024-10-23 20:00,2024-10-20,2024-10-20 16:37:10
+Rams,2024-10-20,Wednesday,Day,78,F,0 to 10 mph,W,"Patchy fog before 11am. Mostly sunny, with a high near 78.",2024-10-24 10:00,2024-10-20,2024-10-20 16:37:10
+Rams,2024-10-20,Wednesday Night,Night,59,F,0 to 10 mph,ENE,"Patchy fog after 11pm. Mostly cloudy, with a low around 59.",2024-10-24 20:00,2024-10-20,2024-10-20 16:37:10
+Rams,2024-10-20,Thursday,Day,74,F,0 to 10 mph,W,"Patchy fog before 11am. Mostly sunny, with a high near 74.",2024-10-25 10:00,2024-10-20,2024-10-20 16:37:10
+Rams,2024-10-20,Thursday Night,Night,57,F,0 to 10 mph,SW,"Patchy fog after 11pm. Mostly cloudy, with a low around 57.",2024-10-25 20:00,2024-10-20,2024-10-20 16:37:10
+Rams,2024-10-20,Friday,Day,71,F,0 to 10 mph,S,"Patchy fog before 11am. Partly sunny, with a high near 71.",2024-10-26 10:00,2024-10-20,2024-10-20 16:37:10
+Rams,2024-10-20,Friday Night,Night,56,F,0 to 10 mph,ENE,"Patchy fog after 11pm. Mostly cloudy, with a low around 56.",2024-10-26 20:00,2024-10-20,2024-10-20 16:37:10
+Rams,2024-10-20,Saturday,Day,73,F,0 to 10 mph,SW,"Patchy fog before 11am. Mostly sunny, with a high near 73.",2024-10-27 10:00,2024-10-20,2024-10-20 16:37:10
+Rams,2024-10-20,Saturday Night,Night,58,F,0 to 10 mph,NNE,"Patchy fog after 11pm. Mostly cloudy, with a low around 58.",2024-10-27 20:00,2024-10-20,2024-10-20 16:37:10
+Bears,2024-10-20,This Afternoon,Day,76,F,10 to 15 mph,SW,"Sunny, with a high near 76. Southwest wind 10 to 15 mph, with gusts as high as 25 mph.",2024-10-20 10:00,2024-10-20,2024-10-20 16:37:10
+Bears,2024-10-20,Tonight,Day,55,F,10 to 15 mph,SW,"Clear, with a low around 55. Southwest wind 10 to 15 mph, with gusts as high as 25 mph.",2024-10-20 10:00,2024-10-20,2024-10-20 16:37:10
+Bears,2024-10-20,Monday,Day,81,F,10 mph,SW,"Sunny. High near 81, with temperatures falling to around 79 in the afternoon. Southwest wind around 10 mph, with gusts as high as 20 mph.",2024-10-22 10:00,2024-10-20,2024-10-20 16:37:10
+Bears,2024-10-20,Monday Night,Night,56,F,10 mph,SSW,"Partly cloudy, with a low around 56. South southwest wind around 10 mph.",2024-10-22 20:00,2024-10-20,2024-10-20 16:37:10
+Bears,2024-10-20,Tuesday,Day,72,F,10 to 15 mph,S,"A chance of rain showers after 1pm. Partly sunny, with a high near 72. South wind 10 to 15 mph, with gusts as high as 25 mph.",2024-10-23 10:00,2024-10-20,2024-10-20 16:37:10
+Bears,2024-10-20,Tuesday Night,Night,58,F,10 to 15 mph,SW,"A chance of rain showers before 7pm. Mostly clear, with a low around 58.",2024-10-23 20:00,2024-10-20,2024-10-20 16:37:10
+Bears,2024-10-20,Wednesday,Day,64,F,10 to 15 mph,WNW,"Mostly sunny, with a high near 64.",2024-10-24 10:00,2024-10-20,2024-10-20 16:37:10
+Bears,2024-10-20,Wednesday Night,Night,44,F,5 to 15 mph,NNW,"Mostly clear, with a low around 44.",2024-10-24 20:00,2024-10-20,2024-10-20 16:37:10
+Bears,2024-10-20,Thursday,Day,59,F,5 mph,W,"Sunny, with a high near 59.",2024-10-25 10:00,2024-10-20,2024-10-20 16:37:10
+Bears,2024-10-20,Thursday Night,Night,48,F,5 mph,S,"A slight chance of rain showers after 1am. Partly cloudy, with a low around 48.",2024-10-25 20:00,2024-10-20,2024-10-20 16:37:10
+Bears,2024-10-20,Friday,Day,67,F,5 to 10 mph,S,"A slight chance of rain showers before 7am. Sunny, with a high near 67.",2024-10-26 10:00,2024-10-20,2024-10-20 16:37:10
+Bears,2024-10-20,Friday Night,Night,52,F,10 mph,S,"A slight chance of rain showers after 7pm. Partly cloudy, with a low around 52.",2024-10-26 20:00,2024-10-20,2024-10-20 16:37:10
+Bears,2024-10-20,Saturday,Day,69,F,10 to 15 mph,S,"A slight chance of rain showers before 7am. Partly sunny, with a high near 69.",2024-10-27 10:00,2024-10-20,2024-10-20 16:37:10
+Bears,2024-10-20,Saturday Night,Night,55,F,10 to 15 mph,SSW,"A chance of rain showers after 7pm. Mostly cloudy, with a low around 55.",2024-10-27 20:00,2024-10-20,2024-10-20 16:37:10
+Cardinals,2024-10-20,This Afternoon,Day,81,F,0 to 5 mph,NW,"Sunny. High near 81, with temperatures falling to around 79 in the afternoon. Northwest wind 0 to 5 mph.",2024-10-20 10:00,2024-10-20,2024-10-20 16:37:10
+Cardinals,2024-10-20,Tonight,Day,56,F,0 to 5 mph,N,"Mostly clear, with a low around 56. North wind 0 to 5 mph.",2024-10-20 10:00,2024-10-20,2024-10-20 16:37:10
+Cardinals,2024-10-20,Monday,Day,87,F,0 to 5 mph,NE,"Sunny, with a high near 87. Northeast wind 0 to 5 mph.",2024-10-22 10:00,2024-10-20,2024-10-20 16:37:10
+Cardinals,2024-10-20,Monday Night,Night,59,F,0 to 5 mph,NNW,"Mostly clear, with a low around 59. North northwest wind 0 to 5 mph.",2024-10-22 20:00,2024-10-20,2024-10-20 16:37:10
+Cardinals,2024-10-20,Tuesday,Day,93,F,0 to 5 mph,NE,"Sunny, with a high near 93. Northeast wind 0 to 5 mph.",2024-10-23 10:00,2024-10-20,2024-10-20 16:37:10
+Cardinals,2024-10-20,Tuesday Night,Night,61,F,0 to 5 mph,N,"Mostly clear, with a low around 61. North wind 0 to 5 mph.",2024-10-23 20:00,2024-10-20,2024-10-20 16:37:10
+Cardinals,2024-10-20,Wednesday,Day,97,F,0 to 5 mph,ESE,"Sunny, with a high near 97. East southeast wind 0 to 5 mph.",2024-10-24 10:00,2024-10-20,2024-10-20 16:37:10
+Cardinals,2024-10-20,Wednesday Night,Night,64,F,0 to 5 mph,N,"Mostly clear, with a low around 64. North wind 0 to 5 mph.",2024-10-24 20:00,2024-10-20,2024-10-20 16:37:10
+Cardinals,2024-10-20,Thursday,Day,97,F,0 to 5 mph,ESE,"Sunny, with a high near 97. East southeast wind 0 to 5 mph.",2024-10-25 10:00,2024-10-20,2024-10-20 16:37:10
+Cardinals,2024-10-20,Thursday Night,Night,65,F,0 to 5 mph,NNW,"Mostly clear, with a low around 65. North northwest wind 0 to 5 mph.",2024-10-25 20:00,2024-10-20,2024-10-20 16:37:10
+Cardinals,2024-10-20,Friday,Day,97,F,5 mph,SSE,"Sunny, with a high near 97. South southeast wind around 5 mph.",2024-10-26 10:00,2024-10-20,2024-10-20 16:37:10
+Cardinals,2024-10-20,Friday Night,Night,63,F,0 to 5 mph,NW,"Mostly clear, with a low around 63. Northwest wind 0 to 5 mph.",2024-10-26 20:00,2024-10-20,2024-10-20 16:37:10
+Cardinals,2024-10-20,Saturday,Day,95,F,5 mph,SE,"Sunny, with a high near 95. Southeast wind around 5 mph.",2024-10-27 10:00,2024-10-20,2024-10-20 16:37:10
+Cardinals,2024-10-20,Saturday Night,Night,63,F,5 mph,NNW,"Mostly clear, with a low around 63. North northwest wind around 5 mph.",2024-10-27 20:00,2024-10-20,2024-10-20 16:37:10
+Jaguars,2024-10-20,This Afternoon,Day,76,F,16 mph,NE,"Mostly sunny, with a high near 76. Northeast wind around 16 mph, with gusts as high as 24 mph.",2024-10-20 10:00,2024-10-20,2024-10-20 16:37:10
+Jaguars,2024-10-20,Tonight,Day,63,F,12 to 15 mph,N,"Mostly clear, with a low around 63. North wind 12 to 15 mph, with gusts as high as 23 mph.",2024-10-20 10:00,2024-10-20,2024-10-20 16:37:10
+Jaguars,2024-10-20,Monday,Day,77,F,10 to 16 mph,N,"Mostly sunny, with a high near 77. North wind 10 to 16 mph, with gusts as high as 24 mph.",2024-10-22 10:00,2024-10-20,2024-10-20 16:37:10
+Jaguars,2024-10-20,Monday Night,Night,69,F,10 to 15 mph,NE,"Partly cloudy, with a low around 69. Northeast wind 10 to 15 mph, with gusts as high as 23 mph.",2024-10-22 20:00,2024-10-20,2024-10-20 16:37:10
+Jaguars,2024-10-20,Tuesday,Day,81,F,10 to 14 mph,NE,"Sunny, with a high near 81. Northeast wind 10 to 14 mph, with gusts as high as 21 mph.",2024-10-23 10:00,2024-10-20,2024-10-20 16:37:10
+Jaguars,2024-10-20,Tuesday Night,Night,67,F,7 to 13 mph,NE,"Mostly clear, with a low around 67.",2024-10-23 20:00,2024-10-20,2024-10-20 16:37:10
+Jaguars,2024-10-20,Wednesday,Day,80,F,8 to 14 mph,NE,"Sunny, with a high near 80.",2024-10-24 10:00,2024-10-20,2024-10-20 16:37:10
+Jaguars,2024-10-20,Wednesday Night,Night,62,F,5 to 10 mph,N,"Mostly clear, with a low around 62.",2024-10-24 20:00,2024-10-20,2024-10-20 16:37:10
+Jaguars,2024-10-20,Thursday,Day,82,F,8 mph,N,"Sunny, with a high near 82.",2024-10-25 10:00,2024-10-20,2024-10-20 16:37:10
+Jaguars,2024-10-20,Thursday Night,Night,62,F,3 to 7 mph,SE,"Mostly clear, with a low around 62.",2024-10-25 20:00,2024-10-20,2024-10-20 16:37:10
+Jaguars,2024-10-20,Friday,Day,81,F,5 to 10 mph,NE,"Sunny, with a high near 81.",2024-10-26 10:00,2024-10-20,2024-10-20 16:37:10
+Jaguars,2024-10-20,Friday Night,Night,66,F,6 to 9 mph,NE,"Mostly clear, with a low around 66.",2024-10-26 20:00,2024-10-20,2024-10-20 16:37:10
+Jaguars,2024-10-20,Saturday,Day,79,F,6 to 12 mph,NE,"Sunny, with a high near 79.",2024-10-27 10:00,2024-10-20,2024-10-20 16:37:10
+Jaguars,2024-10-20,Saturday Night,Night,66,F,6 to 10 mph,NE,"Partly cloudy, with a low around 66.",2024-10-27 20:00,2024-10-20,2024-10-20 16:37:10
+Vikings,2024-10-20,This Afternoon,Day,81,F,10 mph,WSW,"Sunny, with a high near 81. West southwest wind around 10 mph.",2024-10-20 10:00,2024-10-20,2024-10-20 16:37:10
+Vikings,2024-10-20,Tonight,Day,61,F,5 to 10 mph,SSW,"Mostly clear, with a low around 61. South southwest wind 5 to 10 mph.",2024-10-20 10:00,2024-10-20,2024-10-20 16:37:10
+Vikings,2024-10-20,Monday,Day,82,F,5 to 10 mph,S,"Mostly sunny, with a high near 82. South wind 5 to 10 mph.",2024-10-22 10:00,2024-10-20,2024-10-20 16:37:10
+Vikings,2024-10-20,Monday Night,Night,60,F,5 to 10 mph,S,"Partly cloudy, with a low around 60. South wind 5 to 10 mph.",2024-10-22 20:00,2024-10-20,2024-10-20 16:37:10
+Vikings,2024-10-20,Tuesday,Day,76,F,5 to 15 mph,SSW,"A slight chance of rain showers after 1pm. Mostly sunny. High near 76, with temperatures falling to around 72 in the afternoon. South southwest wind 5 to 15 mph. Chance of precipitation is 20%.",2024-10-23 10:00,2024-10-20,2024-10-20 16:37:10
+Vikings,2024-10-20,Tuesday Night,Night,45,F,10 to 15 mph,WNW,"A slight chance of rain showers before 1am. Partly cloudy. Low around 45, with temperatures rising to around 48 overnight. West northwest wind 10 to 15 mph. Chance of precipitation is 20%.",2024-10-23 20:00,2024-10-20,2024-10-20 16:37:10
+Vikings,2024-10-20,Wednesday,Day,53,F,10 to 15 mph,NW,"Sunny, with a high near 53. Northwest wind 10 to 15 mph.",2024-10-24 10:00,2024-10-20,2024-10-20 16:37:10
+Vikings,2024-10-20,Wednesday Night,Night,38,F,5 mph,WSW,"Clear, with a low around 38. West southwest wind around 5 mph.",2024-10-24 20:00,2024-10-20,2024-10-20 16:37:10
+Vikings,2024-10-20,Thursday,Day,61,F,5 to 10 mph,SSW,"A slight chance of rain showers after 1pm. Mostly sunny, with a high near 61. South southwest wind 5 to 10 mph. Chance of precipitation is 20%.",2024-10-25 10:00,2024-10-20,2024-10-20 16:37:10
+Vikings,2024-10-20,Thursday Night,Night,42,F,5 mph,SSW,"A slight chance of rain showers before 7pm. Mostly clear, with a low around 42. South southwest wind around 5 mph. Chance of precipitation is 20%.",2024-10-25 20:00,2024-10-20,2024-10-20 16:37:10
+Vikings,2024-10-20,Friday,Day,66,F,5 to 10 mph,SW,"Sunny, with a high near 66. Southwest wind 5 to 10 mph.",2024-10-26 10:00,2024-10-20,2024-10-20 16:37:10
+Vikings,2024-10-20,Friday Night,Night,49,F,5 to 10 mph,SSE,"Partly cloudy, with a low around 49. South southeast wind 5 to 10 mph.",2024-10-26 20:00,2024-10-20,2024-10-20 16:37:10
+Vikings,2024-10-20,Saturday,Day,65,F,10 mph,W,"Mostly sunny, with a high near 65. West wind around 10 mph.",2024-10-27 10:00,2024-10-20,2024-10-20 16:37:10
+Vikings,2024-10-20,Saturday Night,Night,40,F,5 to 10 mph,NNE,"Partly cloudy, with a low around 40. North northeast wind 5 to 10 mph.",2024-10-27 20:00,2024-10-20,2024-10-20 16:37:10

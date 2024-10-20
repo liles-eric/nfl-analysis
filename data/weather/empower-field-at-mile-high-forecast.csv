@@ -1,15 +1,15 @@
 Team,Actual Date,Period,Time (Day/Night),Temperature,Temperature Unit,Wind Speed,Wind Direction,Detailed Forecast,Combined Date Time,Date Ran,DateTime Ran
-Broncos,2024-10-20,Today,Day,74,F,3 to 9 mph,SSW,"Mostly sunny. High near 74, with temperatures falling to around 70 in the afternoon. South southwest wind 3 to 9 mph, with gusts as high as 18 mph.",2024-10-20 10:00,2024-10-20,2024-10-20 11:21:07
-Broncos,2024-10-20,Tonight,Day,45,F,5 to 8 mph,SW,"A chance of rain after midnight. Partly cloudy. Low around 45, with temperatures rising to around 47 overnight. Southwest wind 5 to 8 mph. Chance of precipitation is 30%. New rainfall amounts less than a tenth of an inch possible.",2024-10-20 10:00,2024-10-20,2024-10-20 11:21:07
-Broncos,2024-10-20,Monday,Day,70,F,7 to 15 mph,W,"A chance of rain showers before noon. Mostly sunny. High near 70, with temperatures falling to around 67 in the afternoon. West wind 7 to 15 mph. Chance of precipitation is 40%.",2024-10-22 10:00,2024-10-20,2024-10-20 11:21:07
-Broncos,2024-10-20,Monday Night,Night,44,F,6 to 12 mph,WSW,"Clear, with a low around 44. West southwest wind 6 to 12 mph, with gusts as high as 20 mph.",2024-10-22 20:00,2024-10-20,2024-10-20 11:21:07
-Broncos,2024-10-20,Tuesday,Day,75,F,6 mph,SE,"Sunny, with a high near 75. Southeast wind around 6 mph.",2024-10-23 10:00,2024-10-20,2024-10-20 11:21:07
-Broncos,2024-10-20,Tuesday Night,Night,43,F,5 mph,SSW,"Mostly clear, with a low around 43.",2024-10-23 20:00,2024-10-20,2024-10-20 11:21:07
-Broncos,2024-10-20,Wednesday,Day,70,F,6 mph,SE,"Sunny, with a high near 70.",2024-10-24 10:00,2024-10-20,2024-10-20 11:21:07
-Broncos,2024-10-20,Wednesday Night,Night,42,F,5 mph,NW,"Clear, with a low around 42.",2024-10-24 20:00,2024-10-20,2024-10-20 11:21:07
-Broncos,2024-10-20,Thursday,Day,77,F,6 mph,SSE,"Sunny, with a high near 77.",2024-10-25 10:00,2024-10-20,2024-10-20 11:21:07
-Broncos,2024-10-20,Thursday Night,Night,44,F,6 mph,SW,"Mostly clear, with a low around 44.",2024-10-25 20:00,2024-10-20,2024-10-20 11:21:07
-Broncos,2024-10-20,Friday,Day,76,F,6 mph,S,"Mostly sunny, with a high near 76.",2024-10-26 10:00,2024-10-20,2024-10-20 11:21:07
-Broncos,2024-10-20,Friday Night,Night,42,F,6 mph,W,"Partly cloudy, with a low around 42.",2024-10-26 20:00,2024-10-20,2024-10-20 11:21:07
-Broncos,2024-10-20,Saturday,Day,71,F,6 mph,NW,"Sunny, with a high near 71.",2024-10-27 10:00,2024-10-20,2024-10-20 11:21:07
-Broncos,2024-10-20,Saturday Night,Night,40,F,5 mph,WNW,"Mostly clear, with a low around 40.",2024-10-27 20:00,2024-10-20,2024-10-20 11:21:07
+Broncos,2024-10-20,This Afternoon,Day,73,F,8 mph,SSE,"Mostly sunny. High near 73, with temperatures falling to around 69 in the afternoon. South southeast wind around 8 mph.",2024-10-20 10:00,2024-10-20,2024-10-20 16:37:10
+Broncos,2024-10-20,Tonight,Day,45,F,6 to 9 mph,SW,"A chance of rain after midnight. Partly cloudy, with a low around 45. Southwest wind 6 to 9 mph. Chance of precipitation is 30%.",2024-10-20 10:00,2024-10-20,2024-10-20 16:37:10
+Broncos,2024-10-20,Monday,Day,67,F,7 to 15 mph,WNW,"A chance of rain before noon. Mostly sunny. High near 67, with temperatures falling to around 64 in the afternoon. West northwest wind 7 to 15 mph, with gusts as high as 24 mph. Chance of precipitation is 50%.",2024-10-22 10:00,2024-10-20,2024-10-20 16:37:10
+Broncos,2024-10-20,Monday Night,Night,43,F,7 to 10 mph,WSW,"Mostly clear, with a low around 43. West southwest wind 7 to 10 mph, with gusts as high as 16 mph.",2024-10-22 20:00,2024-10-20,2024-10-20 16:37:10
+Broncos,2024-10-20,Tuesday,Day,74,F,6 mph,SSE,"Sunny, with a high near 74. South southeast wind around 6 mph.",2024-10-23 10:00,2024-10-20,2024-10-20 16:37:10
+Broncos,2024-10-20,Tuesday Night,Night,43,F,2 to 6 mph,SSW,"Clear, with a low around 43.",2024-10-23 20:00,2024-10-20,2024-10-20 16:37:10
+Broncos,2024-10-20,Wednesday,Day,72,F,6 mph,S,"Sunny, with a high near 72.",2024-10-24 10:00,2024-10-20,2024-10-20 16:37:10
+Broncos,2024-10-20,Wednesday Night,Night,43,F,6 mph,S,"Clear, with a low around 43.",2024-10-24 20:00,2024-10-20,2024-10-20 16:37:10
+Broncos,2024-10-20,Thursday,Day,78,F,6 mph,SSW,"Sunny, with a high near 78.",2024-10-25 10:00,2024-10-20,2024-10-20 16:37:10
+Broncos,2024-10-20,Thursday Night,Night,44,F,7 mph,S,"Mostly clear, with a low around 44.",2024-10-25 20:00,2024-10-20,2024-10-20 16:37:10
+Broncos,2024-10-20,Friday,Day,78,F,6 mph,SSW,"Mostly sunny, with a high near 78.",2024-10-26 10:00,2024-10-20,2024-10-20 16:37:10
+Broncos,2024-10-20,Friday Night,Night,44,F,7 mph,SSE,"Partly cloudy, with a low around 44.",2024-10-26 20:00,2024-10-20,2024-10-20 16:37:10
+Broncos,2024-10-20,Saturday,Day,72,F,6 to 9 mph,WNW,"Sunny, with a high near 72.",2024-10-27 10:00,2024-10-20,2024-10-20 16:37:10
+Broncos,2024-10-20,Saturday Night,Night,40,F,3 mph,S,"Mostly clear, with a low around 40.",2024-10-27 20:00,2024-10-20,2024-10-20 16:37:10

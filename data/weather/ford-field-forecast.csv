@@ -1,15 +1,15 @@
 Team,Actual Date,Period,Time (Day/Night),Temperature,Temperature Unit,Wind Speed,Wind Direction,Detailed Forecast,Combined Date Time,Date Ran,DateTime Ran
-Lions,2024-10-20,Today,Day,73,F,7 to 12 mph,SW,"Sunny, with a high near 73. Southwest wind 7 to 12 mph.",2024-10-20 10:00,2024-10-20,2024-10-20 11:21:07
-Lions,2024-10-20,Tonight,Day,50,F,8 mph,SW,"Mostly clear, with a low around 50. Southwest wind around 8 mph.",2024-10-20 10:00,2024-10-20,2024-10-20 11:21:07
-Lions,2024-10-20,Monday,Day,76,F,7 to 10 mph,SW,"Sunny, with a high near 76. Southwest wind 7 to 10 mph.",2024-10-22 10:00,2024-10-20,2024-10-20 11:21:07
-Lions,2024-10-20,Monday Night,Night,50,F,3 to 7 mph,SW,"Mostly clear, with a low around 50. Southwest wind 3 to 7 mph.",2024-10-22 20:00,2024-10-20,2024-10-20 11:21:07
-Lions,2024-10-20,Tuesday,Day,73,F,3 to 8 mph,SSW,"Mostly sunny, with a high near 73. South southwest wind 3 to 8 mph.",2024-10-23 10:00,2024-10-20,2024-10-20 11:21:07
-Lions,2024-10-20,Tuesday Night,Night,56,F,6 to 9 mph,S,"Partly cloudy, with a low around 56.",2024-10-23 20:00,2024-10-20,2024-10-20 11:21:07
-Lions,2024-10-20,Wednesday,Day,71,F,9 to 13 mph,WSW,"A chance of rain showers after 2pm. Mostly sunny, with a high near 71. Chance of precipitation is 30%.",2024-10-24 10:00,2024-10-20,2024-10-20 11:21:07
-Lions,2024-10-20,Wednesday Night,Night,41,F,7 to 12 mph,NW,"A chance of rain showers before 2am. Partly cloudy, with a low around 41.",2024-10-24 20:00,2024-10-20,2024-10-20 11:21:07
-Lions,2024-10-20,Thursday,Day,56,F,7 mph,WNW,"Sunny, with a high near 56.",2024-10-25 10:00,2024-10-20,2024-10-20 11:21:07
-Lions,2024-10-20,Thursday Night,Night,41,F,6 mph,WSW,"Partly cloudy, with a low around 41.",2024-10-25 20:00,2024-10-20,2024-10-20 11:21:07
-Lions,2024-10-20,Friday,Day,59,F,3 to 8 mph,SW,"Mostly sunny, with a high near 59.",2024-10-26 10:00,2024-10-20,2024-10-20 11:21:07
-Lions,2024-10-20,Friday Night,Night,44,F,7 mph,SSW,"A slight chance of rain showers after 8pm. Partly cloudy, with a low around 44.",2024-10-26 20:00,2024-10-20,2024-10-20 11:21:07
-Lions,2024-10-20,Saturday,Day,62,F,6 to 10 mph,SSW,"A slight chance of rain showers. Mostly sunny, with a high near 62.",2024-10-27 10:00,2024-10-20,2024-10-20 11:21:07
-Lions,2024-10-20,Saturday Night,Night,45,F,9 mph,SW,"A chance of rain showers. Mostly cloudy, with a low around 45.",2024-10-27 20:00,2024-10-20,2024-10-20 11:21:07
+Lions,2024-10-20,This Afternoon,Day,76,F,8 mph,SW,"Sunny. High near 76, with temperatures falling to around 73 in the afternoon. Southwest wind around 8 mph.",2024-10-20 10:00,2024-10-20,2024-10-20 16:37:10
+Lions,2024-10-20,Tonight,Day,50,F,8 mph,SW,"Mostly clear, with a low around 50. Southwest wind around 8 mph.",2024-10-20 10:00,2024-10-20,2024-10-20 16:37:10
+Lions,2024-10-20,Monday,Day,77,F,7 to 10 mph,SW,"Sunny, with a high near 77. Southwest wind 7 to 10 mph.",2024-10-22 10:00,2024-10-20,2024-10-20 16:37:10
+Lions,2024-10-20,Monday Night,Night,50,F,3 to 7 mph,SW,"Mostly clear, with a low around 50. Southwest wind 3 to 7 mph.",2024-10-22 20:00,2024-10-20,2024-10-20 16:37:10
+Lions,2024-10-20,Tuesday,Day,74,F,3 to 10 mph,SSW,"Mostly sunny, with a high near 74. South southwest wind 3 to 10 mph.",2024-10-23 10:00,2024-10-20,2024-10-20 16:37:10
+Lions,2024-10-20,Tuesday Night,Night,57,F,7 to 10 mph,SSW,"Partly cloudy, with a low around 57.",2024-10-23 20:00,2024-10-20,2024-10-20 16:37:10
+Lions,2024-10-20,Wednesday,Day,70,F,10 to 14 mph,WSW,"A slight chance of rain showers after 2pm. Mostly sunny, with a high near 70.",2024-10-24 10:00,2024-10-20,2024-10-20 16:37:10
+Lions,2024-10-20,Wednesday Night,Night,39,F,6 to 14 mph,NW,"A slight chance of rain showers before 8pm. Mostly clear, with a low around 39.",2024-10-24 20:00,2024-10-20,2024-10-20 16:37:10
+Lions,2024-10-20,Thursday,Day,56,F,7 mph,NW,"Sunny, with a high near 56.",2024-10-25 10:00,2024-10-20,2024-10-20 16:37:10
+Lions,2024-10-20,Thursday Night,Night,39,F,5 mph,WSW,"Partly cloudy, with a low around 39.",2024-10-25 20:00,2024-10-20,2024-10-20 16:37:10
+Lions,2024-10-20,Friday,Day,60,F,2 to 7 mph,SW,"Mostly sunny, with a high near 60.",2024-10-26 10:00,2024-10-20,2024-10-20 16:37:10
+Lions,2024-10-20,Friday Night,Night,44,F,7 mph,S,"A slight chance of rain showers after 8pm. Partly cloudy, with a low around 44.",2024-10-26 20:00,2024-10-20,2024-10-20 16:37:10
+Lions,2024-10-20,Saturday,Day,64,F,6 to 10 mph,SSW,"A slight chance of rain showers. Mostly sunny, with a high near 64.",2024-10-27 10:00,2024-10-20,2024-10-20 16:37:10
+Lions,2024-10-20,Saturday Night,Night,50,F,9 mph,SSW,"A chance of rain showers. Mostly cloudy, with a low around 50.",2024-10-27 20:00,2024-10-20,2024-10-20 16:37:10
