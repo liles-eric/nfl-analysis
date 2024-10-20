@@ -1,0 +1,72 @@
+{
+	"name": "NFL_stadiums_weather",
+	"properties": {
+		"linkedServiceName": {
+			"referenceName": "nlf_misc_blob_linked",
+			"type": "LinkedServiceReference"
+		},
+		"annotations": [],
+		"type": "DelimitedText",
+		"typeProperties": {
+			"location": {
+				"type": "AzureBlobStorageLocation",
+				"fileName": "all-nfl-stadiums-weather-forecasts.csv",
+				"container": "nlf-misc-blob-container"
+			},
+			"columnDelimiter": ",",
+			"escapeChar": "\\",
+			"firstRowAsHeader": true,
+			"quoteChar": "\""
+		},
+		"schema": [
+			{
+				"name": "Team",
+				"type": "String"
+			},
+			{
+				"name": "Actual Date",
+				"type": "String"
+			},
+			{
+				"name": "Period",
+				"type": "String"
+			},
+			{
+				"name": "Time (Day/Night)",
+				"type": "String"
+			},
+			{
+				"name": "Temperature",
+				"type": "String"
+			},
+			{
+				"name": "Temperature Unit",
+				"type": "String"
+			},
+			{
+				"name": "Wind Speed",
+				"type": "String"
+			},
+			{
+				"name": "Wind Direction",
+				"type": "String"
+			},
+			{
+				"name": "Detailed Forecast",
+				"type": "String"
+			},
+			{
+				"name": "Combined Date Time",
+				"type": "String"
+			},
+			{
+				"name": "Date Ran",
+				"type": "String"
+			},
+			{
+				"name": "DateTime Ran",
+				"type": "String"
+			}
+		]
+	}
+}

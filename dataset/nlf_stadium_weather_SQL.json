@@ -1,0 +1,68 @@
+{
+	"name": "nlf_stadium_weather_SQL",
+	"properties": {
+		"linkedServiceName": {
+			"referenceName": "SportStatsSQLServerLinkv3",
+			"type": "LinkedServiceReference"
+		},
+		"annotations": [],
+		"type": "AzureSqlTable",
+		"schema": [
+			{
+				"name": "Team",
+				"type": "nvarchar"
+			},
+			{
+				"name": "Actual_Date",
+				"type": "date"
+			},
+			{
+				"name": "Period",
+				"type": "nvarchar"
+			},
+			{
+				"name": "Time_Day_Night",
+				"type": "nvarchar"
+			},
+			{
+				"name": "Temperature",
+				"type": "tinyint",
+				"precision": 3
+			},
+			{
+				"name": "Temperature_Unit",
+				"type": "nvarchar"
+			},
+			{
+				"name": "Wind_Speed",
+				"type": "nvarchar"
+			},
+			{
+				"name": "Wind_Direction",
+				"type": "nvarchar"
+			},
+			{
+				"name": "Detailed_Forecast",
+				"type": "nvarchar"
+			},
+			{
+				"name": "Combined_Date_Time",
+				"type": "datetime2",
+				"scale": 7
+			},
+			{
+				"name": "Date_Ran",
+				"type": "date"
+			},
+			{
+				"name": "DateTime_Ran",
+				"type": "datetime2",
+				"scale": 7
+			}
+		],
+		"typeProperties": {
+			"schema": "dbo",
+			"table": "all-nfl-stadiums-weather-forecasts"
+		}
+	}
+}
