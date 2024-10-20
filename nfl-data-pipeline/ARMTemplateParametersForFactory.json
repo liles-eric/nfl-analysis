@@ -20,6 +20,9 @@
 		"SportsStatsSQLDB_password": {
 			"value": ""
 		},
+		"nlf_misc_blob_linked_connectionString": {
+			"value": ""
+		},
 		"LinkedSQLSportsStatsv2_properties_typeProperties_server": {
 			"value": "sports-stats-db-server.database.windows.net"
 		},

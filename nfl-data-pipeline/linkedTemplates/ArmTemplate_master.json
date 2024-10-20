@@ -27,6 +27,10 @@
 			"type": "secureString",
 			"metadata": "Secure string for 'password' of 'SportsStatsSQLDB'"
 		},
+		"nlf_misc_blob_linked_connectionString": {
+			"type": "secureString",
+			"metadata": "Secure string for 'connectionString' of 'nlf_misc_blob_linked'"
+		},
 		"LinkedSQLSportsStatsv2_properties_typeProperties_server": {
 			"type": "string",
 			"defaultValue": "sports-stats-db-server.database.windows.net"
@@ -104,6 +108,9 @@
 					},
 					"SportsStatsSQLDB_password": {
 						"value": "[parameters('SportsStatsSQLDB_password')]"
+					},
+					"nlf_misc_blob_linked_connectionString": {
+						"value": "[parameters('nlf_misc_blob_linked_connectionString')]"
 					},
 					"LinkedSQLSportsStatsv2_properties_typeProperties_server": {
 						"value": "[parameters('LinkedSQLSportsStatsv2_properties_typeProperties_server')]"

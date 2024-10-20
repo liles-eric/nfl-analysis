@@ -27,6 +27,10 @@
 			"type": "secureString",
 			"metadata": "Secure string for 'password' of 'SportsStatsSQLDB'"
 		},
+		"nlf_misc_blob_linked_connectionString": {
+			"type": "secureString",
+			"metadata": "Secure string for 'connectionString' of 'nlf_misc_blob_linked'"
+		},
 		"LinkedSQLSportsStatsv2_properties_typeProperties_server": {
 			"type": "string",
 			"defaultValue": "sports-stats-db-server.database.windows.net"
@@ -887,6 +891,224 @@
 			]
 		},
 		{
+			"name": "[concat(parameters('factoryName'), '/NLF-Misc-Pipeline')]",
+			"type": "Microsoft.DataFactory/factories/pipelines",
+			"apiVersion": "2018-06-01",
+			"properties": {
+				"activities": [
+					{
+						"name": "copy-weather-data",
+						"description": "copy weather data for all nfl stadiums",
+						"type": "Copy",
+						"dependsOn": [],
+						"policy": {
+							"timeout": "0.12:00:00",
+							"retry": 0,
+							"retryIntervalInSeconds": 30,
+							"secureOutput": false,
+							"secureInput": false
+						},
+						"userProperties": [],
+						"typeProperties": {
+							"source": {
+								"type": "DelimitedTextSource",
+								"storeSettings": {
+									"type": "AzureBlobStorageReadSettings",
+									"recursive": true,
+									"enablePartitionDiscovery": false
+								},
+								"formatSettings": {
+									"type": "DelimitedTextReadSettings"
+								}
+							},
+							"sink": {
+								"type": "AzureSqlSink",
+								"writeBehavior": "insert",
+								"sqlWriterUseTableLock": false
+							},
+							"enableStaging": false,
+							"translator": {
+								"type": "TabularTranslator",
+								"mappings": [
+									{
+										"source": {
+											"name": "Team",
+											"type": "String",
+											"physicalType": "String"
+										},
+										"sink": {
+											"name": "Team",
+											"type": "String",
+											"physicalType": "nvarchar"
+										}
+									},
+									{
+										"source": {
+											"name": "Actual Date",
+											"type": "String",
+											"physicalType": "String"
+										},
+										"sink": {
+											"name": "Actual_Date",
+											"type": "DateTime",
+											"physicalType": "date"
+										}
+									},
+									{
+										"source": {
+											"name": "Period",
+											"type": "String",
+											"physicalType": "String"
+										},
+										"sink": {
+											"name": "Period",
+											"type": "String",
+											"physicalType": "nvarchar"
+										}
+									},
+									{
+										"source": {
+											"name": "Time (Day/Night)",
+											"type": "String",
+											"physicalType": "String"
+										},
+										"sink": {
+											"name": "Time_Day_Night",
+											"type": "String",
+											"physicalType": "nvarchar"
+										}
+									},
+									{
+										"source": {
+											"name": "Temperature",
+											"type": "String",
+											"physicalType": "String"
+										},
+										"sink": {
+											"name": "Temperature",
+											"type": "Byte",
+											"physicalType": "tinyint"
+										}
+									},
+									{
+										"source": {
+											"name": "Temperature Unit",
+											"type": "String",
+											"physicalType": "String"
+										},
+										"sink": {
+											"name": "Temperature_Unit",
+											"type": "String",
+											"physicalType": "nvarchar"
+										}
+									},
+									{
+										"source": {
+											"name": "Wind Speed",
+											"type": "String",
+											"physicalType": "String"
+										},
+										"sink": {
+											"name": "Wind_Speed",
+											"type": "String",
+											"physicalType": "nvarchar"
+										}
+									},
+									{
+										"source": {
+											"name": "Wind Direction",
+											"type": "String",
+											"physicalType": "String"
+										},
+										"sink": {
+											"name": "Wind_Direction",
+											"type": "String",
+											"physicalType": "nvarchar"
+										}
+									},
+									{
+										"source": {
+											"name": "Detailed Forecast",
+											"type": "String",
+											"physicalType": "String"
+										},
+										"sink": {
+											"name": "Detailed_Forecast",
+											"type": "String",
+											"physicalType": "nvarchar"
+										}
+									},
+									{
+										"source": {
+											"name": "Combined Date Time",
+											"type": "String",
+											"physicalType": "String"
+										},
+										"sink": {
+											"name": "Combined_Date_Time",
+											"type": "DateTime",
+											"physicalType": "datetime2"
+										}
+									},
+									{
+										"source": {
+											"name": "Date Ran",
+											"type": "String",
+											"physicalType": "String"
+										},
+										"sink": {
+											"name": "Date_Ran",
+											"type": "DateTime",
+											"physicalType": "date"
+										}
+									},
+									{
+										"source": {
+											"name": "DateTime Ran",
+											"type": "String",
+											"physicalType": "String"
+										},
+										"sink": {
+											"name": "DateTime_Ran",
+											"type": "DateTime",
+											"physicalType": "datetime2"
+										}
+									}
+								],
+								"typeConversion": true,
+								"typeConversionSettings": {
+									"allowDataTruncation": true,
+									"treatBooleanAsNumber": false
+								}
+							}
+						},
+						"inputs": [
+							{
+								"referenceName": "NFL_stadiums_weather",
+								"type": "DatasetReference",
+								"parameters": {}
+							}
+						],
+						"outputs": [
+							{
+								"referenceName": "nlf_stadium_weather_SQL",
+								"type": "DatasetReference",
+								"parameters": {}
+							}
+						]
+					}
+				],
+				"policy": {
+					"elapsedTimeMetric": {}
+				},
+				"annotations": []
+			},
+			"dependsOn": [
+				"[concat(variables('factoryId'), '/datasets/NFL_stadiums_weather')]",
+				"[concat(variables('factoryId'), '/datasets/nlf_stadium_weather_SQL')]"
+			]
+		},
+		{
 			"name": "[concat(parameters('factoryName'), '/NFL_stats_team_def_sql')]",
 			"type": "Microsoft.DataFactory/factories/datasets",
 			"apiVersion": "2018-06-01",
@@ -1339,6 +1561,169 @@
 				}
 			},
 			"dependsOn": []
+		},
+		{
+			"name": "[concat(parameters('factoryName'), '/nlf_misc_blob_linked')]",
+			"type": "Microsoft.DataFactory/factories/linkedServices",
+			"apiVersion": "2018-06-01",
+			"properties": {
+				"annotations": [],
+				"type": "AzureBlobStorage",
+				"typeProperties": {
+					"connectionString": "[parameters('nlf_misc_blob_linked_connectionString')]"
+				}
+			},
+			"dependsOn": []
+		},
+		{
+			"name": "[concat(parameters('factoryName'), '/NFL_stadiums_weather')]",
+			"type": "Microsoft.DataFactory/factories/datasets",
+			"apiVersion": "2018-06-01",
+			"properties": {
+				"linkedServiceName": {
+					"referenceName": "nlf_misc_blob_linked",
+					"type": "LinkedServiceReference"
+				},
+				"annotations": [],
+				"type": "DelimitedText",
+				"typeProperties": {
+					"location": {
+						"type": "AzureBlobStorageLocation",
+						"fileName": "all-nfl-stadiums-weather-forecasts.csv",
+						"container": "nlf-misc-blob-container"
+					},
+					"columnDelimiter": ",",
+					"escapeChar": "\\",
+					"firstRowAsHeader": true,
+					"quoteChar": "\""
+				},
+				"schema": [
+					{
+						"name": "Team",
+						"type": "String"
+					},
+					{
+						"name": "Actual Date",
+						"type": "String"
+					},
+					{
+						"name": "Period",
+						"type": "String"
+					},
+					{
+						"name": "Time (Day/Night)",
+						"type": "String"
+					},
+					{
+						"name": "Temperature",
+						"type": "String"
+					},
+					{
+						"name": "Temperature Unit",
+						"type": "String"
+					},
+					{
+						"name": "Wind Speed",
+						"type": "String"
+					},
+					{
+						"name": "Wind Direction",
+						"type": "String"
+					},
+					{
+						"name": "Detailed Forecast",
+						"type": "String"
+					},
+					{
+						"name": "Combined Date Time",
+						"type": "String"
+					},
+					{
+						"name": "Date Ran",
+						"type": "String"
+					},
+					{
+						"name": "DateTime Ran",
+						"type": "String"
+					}
+				]
+			},
+			"dependsOn": [
+				"[concat(variables('factoryId'), '/linkedServices/nlf_misc_blob_linked')]"
+			]
+		},
+		{
+			"name": "[concat(parameters('factoryName'), '/nlf_stadium_weather_SQL')]",
+			"type": "Microsoft.DataFactory/factories/datasets",
+			"apiVersion": "2018-06-01",
+			"properties": {
+				"linkedServiceName": {
+					"referenceName": "SportStatsSQLServerLinkv3",
+					"type": "LinkedServiceReference"
+				},
+				"annotations": [],
+				"type": "AzureSqlTable",
+				"schema": [
+					{
+						"name": "Team",
+						"type": "nvarchar"
+					},
+					{
+						"name": "Actual_Date",
+						"type": "date"
+					},
+					{
+						"name": "Period",
+						"type": "nvarchar"
+					},
+					{
+						"name": "Time_Day_Night",
+						"type": "nvarchar"
+					},
+					{
+						"name": "Temperature",
+						"type": "tinyint",
+						"precision": 3
+					},
+					{
+						"name": "Temperature_Unit",
+						"type": "nvarchar"
+					},
+					{
+						"name": "Wind_Speed",
+						"type": "nvarchar"
+					},
+					{
+						"name": "Wind_Direction",
+						"type": "nvarchar"
+					},
+					{
+						"name": "Detailed_Forecast",
+						"type": "nvarchar"
+					},
+					{
+						"name": "Combined_Date_Time",
+						"type": "datetime2",
+						"scale": 7
+					},
+					{
+						"name": "Date_Ran",
+						"type": "date"
+					},
+					{
+						"name": "DateTime_Ran",
+						"type": "datetime2",
+						"scale": 7
+					}
+				],
+				"typeProperties": {
+					"schema": "dbo",
+					"table": "all-nfl-stadiums-weather-forecasts"
+				}
+			},
+			"dependsOn": [
+				"[concat(variables('factoryId'), '/linkedServices/SportStatsSQLServerLinkv3')]"
+			]
 		}
 	]
 }
