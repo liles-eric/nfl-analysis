@@ -1,15 +1,15 @@
 Team,Actual Date,Period,Time (Day/Night),Temperature,Temperature Unit,Wind Speed,Wind Direction,Detailed Forecast,Combined Date Time,Date Ran,DateTime Ran
-Texans,2024-10-20,This Afternoon,Day,85,F,10 mph,E,"Sunny, with a high near 85. East wind around 10 mph.",2024-10-20 10:00,2024-10-20,2024-10-20 16:37:10
-Texans,2024-10-20,Tonight,Day,61,F,5 to 10 mph,E,"Clear, with a low around 61. East wind 5 to 10 mph.",2024-10-20 10:00,2024-10-20,2024-10-20 16:37:10
-Texans,2024-10-20,Monday,Day,85,F,5 to 10 mph,E,"Sunny, with a high near 85. East wind 5 to 10 mph.",2024-10-22 10:00,2024-10-20,2024-10-20 16:37:10
-Texans,2024-10-20,Monday Night,Night,63,F,0 to 10 mph,SE,"Mostly clear, with a low around 63. Southeast wind 0 to 10 mph.",2024-10-22 20:00,2024-10-20,2024-10-20 16:37:10
-Texans,2024-10-20,Tuesday,Day,88,F,5 mph,E,"Mostly sunny, with a high near 88. East wind around 5 mph.",2024-10-23 10:00,2024-10-20,2024-10-20 16:37:10
-Texans,2024-10-20,Tuesday Night,Night,65,F,0 to 10 mph,SE,"Mostly clear, with a low around 65.",2024-10-23 20:00,2024-10-20,2024-10-20 16:37:10
-Texans,2024-10-20,Wednesday,Day,89,F,0 to 5 mph,E,"Sunny, with a high near 89.",2024-10-24 10:00,2024-10-20,2024-10-20 16:37:10
-Texans,2024-10-20,Wednesday Night,Night,64,F,0 to 10 mph,S,"Mostly clear, with a low around 64.",2024-10-24 20:00,2024-10-20,2024-10-20 16:37:10
-Texans,2024-10-20,Thursday,Day,90,F,0 to 10 mph,NE,"Sunny, with a high near 90.",2024-10-25 10:00,2024-10-20,2024-10-20 16:37:10
-Texans,2024-10-20,Thursday Night,Night,65,F,0 to 10 mph,S,"Mostly clear, with a low around 65.",2024-10-25 20:00,2024-10-20,2024-10-20 16:37:10
-Texans,2024-10-20,Friday,Day,89,F,0 to 10 mph,E,"Sunny, with a high near 89.",2024-10-26 10:00,2024-10-20,2024-10-20 16:37:10
-Texans,2024-10-20,Friday Night,Night,66,F,0 to 10 mph,SE,"Mostly clear, with a low around 66.",2024-10-26 20:00,2024-10-20,2024-10-20 16:37:10
-Texans,2024-10-20,Saturday,Day,88,F,0 to 10 mph,E,"Sunny, with a high near 88.",2024-10-27 10:00,2024-10-20,2024-10-20 16:37:10
-Texans,2024-10-20,Saturday Night,Night,67,F,5 to 10 mph,SE,"Mostly clear, with a low around 67.",2024-10-27 20:00,2024-10-20,2024-10-20 16:37:10
+Texans,2024-10-27,This Afternoon,Day,89,F,5 to 10 mph,SE,"Sunny, with a high near 89. Southeast wind 5 to 10 mph.",2024-10-27 10:00,2024-10-27,2024-10-27 15:45:35
+Texans,2024-10-27,Tonight,Day,67,F,5 to 10 mph,SE,"Mostly clear, with a low around 67. Southeast wind 5 to 10 mph.",2024-10-27 10:00,2024-10-27,2024-10-27 15:45:35
+Texans,2024-10-27,Monday,Day,88,F,5 to 15 mph,SE,"Mostly sunny. High near 88, with temperatures falling to around 85 in the afternoon. Southeast wind 5 to 15 mph, with gusts as high as 20 mph.",2024-10-29 10:00,2024-10-27,2024-10-27 15:45:35
+Texans,2024-10-27,Monday Night,Night,73,F,10 to 15 mph,SE,"Mostly clear, with a low around 73. Southeast wind 10 to 15 mph, with gusts as high as 20 mph.",2024-10-29 20:00,2024-10-27,2024-10-27 15:45:35
+Texans,2024-10-27,Tuesday,Day,86,F,10 to 20 mph,SE,"Mostly sunny. High near 86, with temperatures falling to around 83 in the afternoon. Southeast wind 10 to 20 mph, with gusts as high as 30 mph.",2024-10-30 10:00,2024-10-27,2024-10-27 15:45:35
+Texans,2024-10-27,Tuesday Night,Night,75,F,10 to 15 mph,SE,"Partly cloudy, with a low around 75.",2024-10-30 20:00,2024-10-27,2024-10-27 15:45:35
+Texans,2024-10-27,Wednesday,Day,87,F,10 to 15 mph,SE,"A chance of showers and thunderstorms between 7am and 1pm, then a chance of showers and thunderstorms between 1pm and 4pm, then a chance of showers and thunderstorms. Mostly sunny, with a high near 87. Chance of precipitation is 50%.",2024-10-31 10:00,2024-10-27,2024-10-27 15:45:35
+Texans,2024-10-27,Wednesday Night,Night,73,F,5 to 15 mph,SE,"A chance of showers and thunderstorms. Mostly cloudy, with a low around 73. Chance of precipitation is 50%.",2024-10-31 20:00,2024-10-27,2024-10-27 15:45:35
+Texans,2024-10-27,Thursday,Day,84,F,5 to 10 mph,SE,"Showers and thunderstorms likely. Partly sunny, with a high near 84. Chance of precipitation is 70%.",2024-11-01 10:00,2024-10-27,2024-10-27 15:45:35
+Texans,2024-10-27,Thursday Night,Night,72,F,5 to 10 mph,E,"Showers and thunderstorms likely before 7pm, then a chance of showers and thunderstorms. Mostly cloudy, with a low around 72. Chance of precipitation is 70%.",2024-11-01 20:00,2024-10-27,2024-10-27 15:45:35
+Texans,2024-10-27,Friday,Day,82,F,5 to 10 mph,E,"A slight chance of showers and thunderstorms before 7am, then showers and thunderstorms likely. Partly sunny, with a high near 82. Chance of precipitation is 60%.",2024-11-02 10:00,2024-10-27,2024-10-27 15:45:35
+Texans,2024-10-27,Friday Night,Night,72,F,10 mph,SE,"Showers and thunderstorms likely. Mostly cloudy, with a low around 72. Chance of precipitation is 60%.",2024-11-02 20:00,2024-10-27,2024-10-27 15:45:35
+Texans,2024-10-27,Saturday,Day,84,F,10 to 15 mph,SE,"A chance of rain showers before 1pm, then a chance of showers and thunderstorms. Partly sunny, with a high near 84. Chance of precipitation is 40%.",2024-11-03 10:00,2024-10-27,2024-10-27 15:45:35
+Texans,2024-10-27,Saturday Night,Night,73,F,10 to 15 mph,SE,"A chance of showers and thunderstorms. Partly cloudy, with a low around 73. Chance of precipitation is 40%.",2024-11-03 20:00,2024-10-27,2024-10-27 15:45:35

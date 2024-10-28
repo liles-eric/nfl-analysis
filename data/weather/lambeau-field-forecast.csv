@@ -1,15 +1,15 @@
 Team,Actual Date,Period,Time (Day/Night),Temperature,Temperature Unit,Wind Speed,Wind Direction,Detailed Forecast,Combined Date Time,Date Ran,DateTime Ran
-Packers,2024-10-20,This Afternoon,Day,79,F,12 mph,SW,"Sunny. High near 79, with temperatures falling to around 76 in the afternoon. Southwest wind around 12 mph, with gusts as high as 23 mph.",2024-10-20 10:00,2024-10-20,2024-10-20 16:37:10
-Packers,2024-10-20,Tonight,Day,55,F,7 to 10 mph,SW,"Mostly clear. Low around 55, with temperatures rising to around 58 overnight. Southwest wind 7 to 10 mph, with gusts as high as 20 mph.",2024-10-20 10:00,2024-10-20,2024-10-20 16:37:10
-Packers,2024-10-20,Monday,Day,78,F,6 to 10 mph,SW,"Sunny. High near 78, with temperatures falling to around 76 in the afternoon. Southwest wind 6 to 10 mph.",2024-10-22 10:00,2024-10-20,2024-10-20 16:37:10
-Packers,2024-10-20,Monday Night,Night,55,F,8 mph,SSW,"Partly cloudy, with a low around 55. South southwest wind around 8 mph.",2024-10-22 20:00,2024-10-20,2024-10-20 16:37:10
-Packers,2024-10-20,Tuesday,Day,73,F,6 to 13 mph,SSW,"Mostly sunny, with a high near 73. South southwest wind 6 to 13 mph, with gusts as high as 22 mph.",2024-10-23 10:00,2024-10-20,2024-10-20 16:37:10
-Packers,2024-10-20,Tuesday Night,Night,49,F,12 mph,WSW,"A chance of rain showers after 7pm. Partly cloudy, with a low around 49. Chance of precipitation is 30%.",2024-10-23 20:00,2024-10-20,2024-10-20 16:37:10
-Packers,2024-10-20,Wednesday,Day,57,F,10 to 14 mph,NW,"A chance of rain showers before 1pm. Mostly sunny, with a high near 57. Chance of precipitation is 30%.",2024-10-24 10:00,2024-10-20,2024-10-20 16:37:10
-Packers,2024-10-20,Wednesday Night,Night,31,F,2 to 10 mph,WNW,"Mostly clear, with a low around 31.",2024-10-24 20:00,2024-10-20,2024-10-20 16:37:10
-Packers,2024-10-20,Thursday,Day,56,F,2 to 7 mph,WSW,"Mostly sunny, with a high near 56.",2024-10-25 10:00,2024-10-20,2024-10-20 16:37:10
-Packers,2024-10-20,Thursday Night,Night,38,F,6 mph,SSW,"A slight chance of rain showers after 7pm. Partly cloudy, with a low around 38.",2024-10-25 20:00,2024-10-20,2024-10-20 16:37:10
-Packers,2024-10-20,Friday,Day,63,F,3 to 8 mph,SSW,"A slight chance of rain showers before 7am. Sunny, with a high near 63.",2024-10-26 10:00,2024-10-20,2024-10-20 16:37:10
-Packers,2024-10-20,Friday Night,Night,43,F,7 mph,S,"Partly cloudy, with a low around 43.",2024-10-26 20:00,2024-10-20,2024-10-20 16:37:10
-Packers,2024-10-20,Saturday,Day,65,F,6 to 12 mph,SSW,"A slight chance of rain showers after 1pm. Partly sunny, with a high near 65.",2024-10-27 10:00,2024-10-20,2024-10-20 16:37:10
-Packers,2024-10-20,Saturday Night,Night,43,F,6 to 9 mph,E,"A chance of rain showers. Mostly cloudy, with a low around 43.",2024-10-27 20:00,2024-10-20,2024-10-20 16:37:10
+Packers,2024-10-27,This Afternoon,Day,60,F,12 mph,SSW,"Sunny. High near 60, with temperatures falling to around 58 in the afternoon. South southwest wind around 12 mph, with gusts as high as 18 mph.",2024-10-27 10:00,2024-10-27,2024-10-27 15:45:35
+Packers,2024-10-27,Tonight,Day,41,F,7 mph,S,"Partly cloudy, with a low around 41. South wind around 7 mph.",2024-10-27 10:00,2024-10-27,2024-10-27 15:45:35
+Packers,2024-10-27,Monday,Day,66,F,7 to 15 mph,S,"Mostly cloudy. High near 66, with temperatures falling to around 64 in the afternoon. South wind 7 to 15 mph, with gusts as high as 28 mph.",2024-10-29 10:00,2024-10-27,2024-10-27 15:45:35
+Packers,2024-10-27,Monday Night,Night,56,F,10 to 16 mph,S,"Rain showers likely between 7pm and 10pm, then showers and thunderstorms likely between 10pm and 1am, then a chance of showers and thunderstorms. Mostly cloudy, with a low around 56. South wind 10 to 16 mph, with gusts as high as 28 mph. Chance of precipitation is 60%.",2024-10-29 20:00,2024-10-27,2024-10-27 15:45:35
+Packers,2024-10-27,Tuesday,Day,80,F,10 to 17 mph,SSW,"A chance of rain showers before 7am. Mostly sunny, with a high near 80. South southwest wind 10 to 17 mph, with gusts as high as 30 mph. Chance of precipitation is 40%.",2024-10-30 10:00,2024-10-27,2024-10-27 15:45:35
+Packers,2024-10-27,Tuesday Night,Night,67,F,16 mph,SSW,"Mostly cloudy, with a low around 67.",2024-10-30 20:00,2024-10-27,2024-10-27 15:45:35
+Packers,2024-10-27,Wednesday,Day,76,F,16 to 20 mph,SSW,"Rain showers after 7am. Mostly cloudy, with a high near 76. Chance of precipitation is 60%.",2024-10-31 10:00,2024-10-27,2024-10-27 15:45:35
+Packers,2024-10-27,Wednesday Night,Night,47,F,14 mph,WSW,"Rain showers before 7pm, then showers and thunderstorms. Mostly cloudy, with a low around 47.",2024-10-31 20:00,2024-10-27,2024-10-27 15:45:35
+Packers,2024-10-27,Thursday,Day,54,F,14 mph,WNW,"Showers and thunderstorms likely. Partly sunny, with a high near 54.",2024-11-01 10:00,2024-10-27,2024-10-27 15:45:35
+Packers,2024-10-27,Thursday Night,Night,33,F,2 to 10 mph,NW,"A chance of rain showers before 1am. Partly cloudy, with a low around 33.",2024-11-01 20:00,2024-10-27,2024-10-27 15:45:35
+Packers,2024-10-27,Friday,Day,52,F,2 to 6 mph,NE,"Sunny, with a high near 52.",2024-11-02 10:00,2024-10-27,2024-10-27 15:45:35
+Packers,2024-10-27,Friday Night,Night,37,F,6 mph,SSE,"A slight chance of rain showers after 1am. Mostly clear, with a low around 37.",2024-11-02 20:00,2024-10-27,2024-10-27 15:45:35
+Packers,2024-10-27,Saturday,Day,57,F,6 to 9 mph,S,"A chance of rain showers. Partly sunny, with a high near 57.",2024-11-03 10:00,2024-10-27,2024-10-27 15:45:35
+Packers,2024-10-27,Saturday Night,Night,44,F,3 to 7 mph,S,"A chance of rain showers. Mostly cloudy, with a low around 44.",2024-11-03 20:00,2024-10-27,2024-10-27 15:45:35

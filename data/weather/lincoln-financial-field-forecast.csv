@@ -1,15 +1,15 @@
 Team,Actual Date,Period,Time (Day/Night),Temperature,Temperature Unit,Wind Speed,Wind Direction,Detailed Forecast,Combined Date Time,Date Ran,DateTime Ran
-Eagles,2024-10-20,This Afternoon,Day,76,F,5 mph,W,"Sunny, with a high near 76. West wind around 5 mph.",2024-10-20 10:00,2024-10-20,2024-10-20 16:37:10
-Eagles,2024-10-20,Tonight,Day,45,F,5 mph,SW,"Clear, with a low around 45. Southwest wind around 5 mph.",2024-10-20 10:00,2024-10-20,2024-10-20 16:37:10
-Eagles,2024-10-20,Monday,Day,80,F,0 to 5 mph,W,"Sunny, with a high near 80. West wind 0 to 5 mph.",2024-10-22 10:00,2024-10-20,2024-10-20 16:37:10
-Eagles,2024-10-20,Monday Night,Night,53,F,0 to 5 mph,W,"Clear, with a low around 53. West wind 0 to 5 mph.",2024-10-22 20:00,2024-10-20,2024-10-20 16:37:10
-Eagles,2024-10-20,Tuesday,Day,82,F,0 to 5 mph,E,"Sunny, with a high near 82. East wind 0 to 5 mph.",2024-10-23 10:00,2024-10-20,2024-10-20 16:37:10
-Eagles,2024-10-20,Tuesday Night,Night,51,F,0 to 5 mph,S,"Mostly clear, with a low around 51.",2024-10-23 20:00,2024-10-20,2024-10-20 16:37:10
-Eagles,2024-10-20,Wednesday,Day,78,F,0 to 10 mph,S,"Sunny, with a high near 78.",2024-10-24 10:00,2024-10-20,2024-10-20 16:37:10
-Eagles,2024-10-20,Wednesday Night,Night,55,F,5 to 10 mph,SW,"Mostly clear, with a low around 55.",2024-10-24 20:00,2024-10-20,2024-10-20 16:37:10
-Eagles,2024-10-20,Thursday,Day,65,F,10 to 15 mph,NW,"Sunny, with a high near 65.",2024-10-25 10:00,2024-10-20,2024-10-20 16:37:10
-Eagles,2024-10-20,Thursday Night,Night,43,F,5 to 10 mph,NW,"Mostly clear, with a low around 43.",2024-10-25 20:00,2024-10-20,2024-10-20 16:37:10
-Eagles,2024-10-20,Friday,Day,62,F,5 mph,NW,"Sunny, with a high near 62.",2024-10-26 10:00,2024-10-20,2024-10-20 16:37:10
-Eagles,2024-10-20,Friday Night,Night,43,F,0 to 5 mph,NW,"Mostly clear, with a low around 43.",2024-10-26 20:00,2024-10-20,2024-10-20 16:37:10
-Eagles,2024-10-20,Saturday,Day,66,F,0 to 5 mph,NW,"Sunny, with a high near 66.",2024-10-27 10:00,2024-10-20,2024-10-20 16:37:10
-Eagles,2024-10-20,Saturday Night,Night,45,F,5 mph,SW,"Mostly clear, with a low around 45.",2024-10-27 20:00,2024-10-20,2024-10-20 16:37:10
+Eagles,2024-10-27,This Afternoon,Day,59,F,5 mph,W,"Sunny, with a high near 59. West wind around 5 mph.",2024-10-27 10:00,2024-10-27,2024-10-27 15:45:35
+Eagles,2024-10-27,Tonight,Day,37,F,0 to 5 mph,W,"Clear, with a low around 37. West wind 0 to 5 mph.",2024-10-27 10:00,2024-10-27,2024-10-27 15:45:35
+Eagles,2024-10-27,Monday,Day,63,F,0 to 5 mph,NE,"Sunny, with a high near 63. Northeast wind 0 to 5 mph.",2024-10-29 10:00,2024-10-27,2024-10-27 15:45:35
+Eagles,2024-10-27,Monday Night,Night,44,F,0 to 5 mph,SE,"Mostly clear, with a low around 44. Southeast wind 0 to 5 mph.",2024-10-29 20:00,2024-10-27,2024-10-27 15:45:35
+Eagles,2024-10-27,Tuesday,Day,69,F,0 to 5 mph,SE,"Mostly sunny, with a high near 69. Southeast wind 0 to 5 mph.",2024-10-30 10:00,2024-10-27,2024-10-27 15:45:35
+Eagles,2024-10-27,Tuesday Night,Night,53,F,5 mph,S,"Partly cloudy, with a low around 53.",2024-10-30 20:00,2024-10-27,2024-10-27 15:45:35
+Eagles,2024-10-27,Wednesday,Day,77,F,5 mph,SW,"Sunny, with a high near 77.",2024-10-31 10:00,2024-10-27,2024-10-27 15:45:35
+Eagles,2024-10-27,Wednesday Night,Night,58,F,5 mph,SW,"Partly cloudy, with a low around 58.",2024-10-31 20:00,2024-10-27,2024-10-27 15:45:35
+Eagles,2024-10-27,Thursday,Day,80,F,5 to 10 mph,SW,"Mostly sunny, with a high near 80.",2024-11-01 10:00,2024-10-27,2024-10-27 15:45:35
+Eagles,2024-10-27,Thursday Night,Night,64,F,10 mph,SW,"A slight chance of rain showers after 2am. Mostly cloudy, with a low around 64.",2024-11-01 20:00,2024-10-27,2024-10-27 15:45:35
+Eagles,2024-10-27,Friday,Day,72,F,5 to 10 mph,W,"A slight chance of rain showers before 8am. Partly sunny, with a high near 72.",2024-11-02 10:00,2024-10-27,2024-10-27 15:45:35
+Eagles,2024-10-27,Friday Night,Night,46,F,5 mph,N,"Mostly clear, with a low around 46.",2024-11-02 20:00,2024-10-27,2024-10-27 15:45:35
+Eagles,2024-10-27,Saturday,Day,63,F,5 mph,NE,"Sunny, with a high near 63.",2024-11-03 10:00,2024-10-27,2024-10-27 15:45:35
+Eagles,2024-10-27,Saturday Night,Night,45,F,0 to 5 mph,E,"Mostly clear, with a low around 45.",2024-11-03 20:00,2024-10-27,2024-10-27 15:45:35

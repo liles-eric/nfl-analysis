@@ -1,15 +1,15 @@
 Team,Actual Date,Period,Time (Day/Night),Temperature,Temperature Unit,Wind Speed,Wind Direction,Detailed Forecast,Combined Date Time,Date Ran,DateTime Ran
-Falcons,2024-10-20,This Afternoon,Day,76,F,5 mph,N,"Sunny, with a high near 76. North wind around 5 mph.",2024-10-20 10:00,2024-10-20,2024-10-20 16:37:10
-Falcons,2024-10-20,Tonight,Day,50,F,0 to 5 mph,N,"Clear, with a low around 50. North wind 0 to 5 mph.",2024-10-20 10:00,2024-10-20,2024-10-20 16:37:10
-Falcons,2024-10-20,Monday,Day,79,F,0 to 5 mph,NE,"Sunny, with a high near 79. Northeast wind 0 to 5 mph.",2024-10-22 10:00,2024-10-20,2024-10-20 16:37:10
-Falcons,2024-10-20,Monday Night,Night,50,F,0 to 5 mph,E,"Clear, with a low around 50. East wind 0 to 5 mph.",2024-10-22 20:00,2024-10-20,2024-10-20 16:37:10
-Falcons,2024-10-20,Tuesday,Day,77,F,5 mph,E,"Sunny, with a high near 77. East wind around 5 mph.",2024-10-23 10:00,2024-10-20,2024-10-20 16:37:10
-Falcons,2024-10-20,Tuesday Night,Night,52,F,0 to 5 mph,E,"Clear, with a low around 52.",2024-10-23 20:00,2024-10-20,2024-10-20 16:37:10
-Falcons,2024-10-20,Wednesday,Day,80,F,0 to 5 mph,N,"Sunny, with a high near 80.",2024-10-24 10:00,2024-10-20,2024-10-20 16:37:10
-Falcons,2024-10-20,Wednesday Night,Night,56,F,0 to 5 mph,NW,"Clear, with a low around 56.",2024-10-24 20:00,2024-10-20,2024-10-20 16:37:10
-Falcons,2024-10-20,Thursday,Day,79,F,5 mph,NW,"Sunny, with a high near 79.",2024-10-25 10:00,2024-10-20,2024-10-20 16:37:10
-Falcons,2024-10-20,Thursday Night,Night,51,F,0 to 5 mph,N,"Clear, with a low around 51.",2024-10-25 20:00,2024-10-20,2024-10-20 16:37:10
-Falcons,2024-10-20,Friday,Day,76,F,5 mph,NE,"Sunny, with a high near 76.",2024-10-26 10:00,2024-10-20,2024-10-20 16:37:10
-Falcons,2024-10-20,Friday Night,Night,53,F,5 mph,E,"Clear, with a low around 53.",2024-10-26 20:00,2024-10-20,2024-10-20 16:37:10
-Falcons,2024-10-20,Saturday,Day,76,F,5 to 10 mph,E,"Sunny, with a high near 76.",2024-10-27 10:00,2024-10-20,2024-10-20 16:37:10
-Falcons,2024-10-20,Saturday Night,Night,54,F,5 mph,E,"Mostly clear, with a low around 54.",2024-10-27 20:00,2024-10-20,2024-10-20 16:37:10
+Falcons,2024-10-27,This Afternoon,Day,72,F,5 mph,NE,"A slight chance of rain showers. Mostly cloudy, with a high near 72. Northeast wind around 5 mph. Chance of precipitation is 20%.",2024-10-27 10:00,2024-10-27,2024-10-27 15:45:35
+Falcons,2024-10-27,Tonight,Day,53,F,5 to 10 mph,E,"A slight chance of rain showers before 7pm. Mostly cloudy, with a low around 53. East wind 5 to 10 mph. Chance of precipitation is 20%.",2024-10-27 10:00,2024-10-27,2024-10-27 15:45:35
+Falcons,2024-10-27,Monday,Day,70,F,5 to 10 mph,E,"Partly sunny, with a high near 70. East wind 5 to 10 mph.",2024-10-29 10:00,2024-10-27,2024-10-27 15:45:35
+Falcons,2024-10-27,Monday Night,Night,54,F,5 mph,E,"Partly cloudy, with a low around 54. East wind around 5 mph.",2024-10-29 20:00,2024-10-27,2024-10-27 15:45:35
+Falcons,2024-10-27,Tuesday,Day,76,F,5 to 10 mph,E,"Mostly sunny, with a high near 76. East wind 5 to 10 mph, with gusts as high as 20 mph.",2024-10-30 10:00,2024-10-27,2024-10-27 15:45:35
+Falcons,2024-10-27,Tuesday Night,Night,60,F,5 to 10 mph,E,"Partly cloudy, with a low around 60.",2024-10-30 20:00,2024-10-27,2024-10-27 15:45:35
+Falcons,2024-10-27,Wednesday,Day,79,F,5 to 10 mph,SE,"Mostly sunny, with a high near 79.",2024-10-31 10:00,2024-10-27,2024-10-27 15:45:35
+Falcons,2024-10-27,Wednesday Night,Night,60,F,5 to 10 mph,SE,"Mostly clear, with a low around 60.",2024-10-31 20:00,2024-10-27,2024-10-27 15:45:35
+Falcons,2024-10-27,Thursday,Day,80,F,5 to 10 mph,SE,"Mostly sunny, with a high near 80.",2024-11-01 10:00,2024-10-27,2024-10-27 15:45:35
+Falcons,2024-10-27,Thursday Night,Night,59,F,5 mph,SE,"Partly cloudy, with a low around 59.",2024-11-01 20:00,2024-10-27,2024-10-27 15:45:35
+Falcons,2024-10-27,Friday,Day,80,F,0 to 5 mph,SW,"Mostly sunny, with a high near 80.",2024-11-02 10:00,2024-10-27,2024-10-27 15:45:35
+Falcons,2024-10-27,Friday Night,Night,59,F,0 to 5 mph,NE,"Partly cloudy, with a low around 59.",2024-11-02 20:00,2024-10-27,2024-10-27 15:45:35
+Falcons,2024-10-27,Saturday,Day,78,F,5 to 10 mph,E,"Mostly sunny, with a high near 78.",2024-11-03 10:00,2024-10-27,2024-10-27 15:45:35
+Falcons,2024-10-27,Saturday Night,Night,58,F,5 to 10 mph,E,"Partly cloudy, with a low around 58.",2024-11-03 20:00,2024-10-27,2024-10-27 15:45:35
