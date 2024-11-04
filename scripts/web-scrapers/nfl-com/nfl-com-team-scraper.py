@@ -4,6 +4,7 @@ import pandas as pd
 import os
 from datetime import datetime
 import time
+import shutil
 
 # URLs for Offense and Defense Stats
 offense_urls = {
@@ -36,7 +37,7 @@ def fetch_with_retry(url, retries=3):
                 print(f"Attempt {i+1}: Failed with status code {response.status_code}. Retrying...")
         except requests.exceptions.RequestException as e:
             print(f"Attempt {i+1}: Error fetching data - {e}. Retrying...")
-        time.sleep(3)  # Wait before retrying
+        time.sleep(3)
     return None
 
 # Function to fetch and parse data
@@ -48,28 +49,17 @@ def fetch_and_parse_data(url, stat_type, category):
         soup = BeautifulSoup(response.text, 'html.parser')
         table = soup.find('table')
         if table:
-            # Extract headers and rows
             headers = [header.text.strip() + f"-{category}-{stat_type}" for header in table.find_all('th')]
             rows = []
-            for row in table.find_all('tr')[1:]:  # Skip header row
+            for row in table.find_all('tr')[1:]:
                 cells = row.find_all('td')
                 data = [cell.text.strip() for cell in cells]
                 rows.append(data)
             
-            # Create DataFrame
             df = pd.DataFrame(rows, columns=headers)
-            
-            # Ensure the team name column is named 'Team'
             df.rename(columns={df.columns[0]: 'Team'}, inplace=True)
-            
-            # Clean up the Team column by:
-            # 1. Removing all extra whitespaces and newlines.
-            # 2. Handling the case for '49ers' explicitly so numbers don't get split.
             df['Team'] = df['Team'].str.replace(r'\s+', ' ', regex=True).str.strip().str.title()
-            
-            # Additional cleaning: replace double occurrences like "Titans Titans" or "49ers 49ers"
             df['Team'] = df['Team'].apply(lambda x: '49ers' if '49ers' in x else ' '.join(sorted(set(x.split()), key=x.split().index)))
-            
             return df
         else:
             print(f"No table found for {category} {stat_type}!")
@@ -82,9 +72,9 @@ def fetch_and_parse_data(url, stat_type, category):
 def merge_dataframes_by_team(dataframes):
     if not dataframes:
         return None
-    merged_df = dataframes.pop(0)  # Start with the first dataframe
+    merged_df = dataframes.pop(0)
     for df in dataframes:
-        merged_df = pd.merge(merged_df, df, on='Team', how='outer')  # Merge on the 'Team' column
+        merged_df = pd.merge(merged_df, df, on='Team', how='outer')
     return merged_df
 
 # Fetch and merge all offense data
@@ -119,17 +109,31 @@ if defense_dataframes:
     defense_merged['report_datetime'] = current_datetime
     defense_merged['report_date'] = current_date
 
-# Save merged data to CSV
+# Define the output and backup folders
 output_folder = "C:/Users/liles/OneDrive/Documents/GitHub/nfl-analysis/data/nfl-stats/"
+backup_folder = "C:/Users/liles/OneDrive/9. sports-stats/nfl.com stats"
+
+# Ensure directories exist
 if not os.path.exists(output_folder):
     os.makedirs(output_folder)
+if not os.path.exists(backup_folder):
+    os.makedirs(backup_folder)
 
+# Save primary files and backup copies with date
 if offense_dataframes:
     offense_file = os.path.join(output_folder, "nfl-team-stats-off-2024.csv")
     offense_merged.to_csv(offense_file, index=False)
     print(f"Offense data saved to {offense_file}")
+    
+    offense_backup_file = os.path.join(backup_folder, f"nfl-team-stats-off-2024-{current_date}.csv")
+    shutil.copy(offense_file, offense_backup_file)
+    print(f"Offense backup data saved to {offense_backup_file}")
 
 if defense_dataframes:
     defense_file = os.path.join(output_folder, "nfl-team-stats-def-2024.csv")
     defense_merged.to_csv(defense_file, index=False)
     print(f"Defense data saved to {defense_file}")
+    
+    defense_backup_file = os.path.join(backup_folder, f"nfl-team-stats-def-2024-{current_date}.csv")
+    shutil.copy(defense_file, defense_backup_file)
+    print(f"Defense backup data saved to {defense_backup_file}")

@@ -1,15 +1,15 @@
 Team,Actual Date,Period,Time (Day/Night),Temperature,Temperature Unit,Wind Speed,Wind Direction,Detailed Forecast,Combined Date Time,Date Ran,DateTime Ran
-Bengals,2024-10-27,This Afternoon,Day,64,F,3 mph,E,"Sunny, with a high near 64. East wind around 3 mph.",2024-10-27 10:00,2024-10-27,2024-10-27 15:45:35
-Bengals,2024-10-27,Tonight,Day,37,F,3 mph,E,"Clear, with a low around 37. East wind around 3 mph.",2024-10-27 10:00,2024-10-27,2024-10-27 15:45:35
-Bengals,2024-10-27,Monday,Day,73,F,1 to 6 mph,SE,"Mostly sunny, with a high near 73. Southeast wind 1 to 6 mph.",2024-10-29 10:00,2024-10-27,2024-10-27 15:45:35
-Bengals,2024-10-27,Monday Night,Night,57,F,7 mph,S,"Mostly cloudy, with a low around 57. South wind around 7 mph.",2024-10-29 20:00,2024-10-27,2024-10-27 15:45:35
-Bengals,2024-10-27,Tuesday,Day,81,F,7 to 14 mph,S,"Mostly sunny, with a high near 81. South wind 7 to 14 mph, with gusts as high as 24 mph.",2024-10-30 10:00,2024-10-27,2024-10-27 15:45:35
-Bengals,2024-10-27,Tuesday Night,Night,59,F,8 to 13 mph,S,"Partly cloudy, with a low around 59.",2024-10-30 20:00,2024-10-27,2024-10-27 15:45:35
-Bengals,2024-10-27,Wednesday,Day,82,F,8 to 13 mph,S,"Mostly sunny, with a high near 82.",2024-10-31 10:00,2024-10-27,2024-10-27 15:45:35
-Bengals,2024-10-27,Wednesday Night,Night,65,F,12 mph,S,"Partly cloudy, with a low around 65.",2024-10-31 20:00,2024-10-27,2024-10-27 15:45:35
-Bengals,2024-10-27,Thursday,Day,77,F,12 to 15 mph,SW,"Rain showers after 8am. Mostly cloudy, with a high near 77. Chance of precipitation is 90%.",2024-11-01 10:00,2024-10-27,2024-10-27 15:45:35
-Bengals,2024-10-27,Thursday Night,Night,47,F,2 to 12 mph,W,"Rain showers before 8pm, then a chance of showers and thunderstorms. Mostly cloudy, with a low around 47. Chance of precipitation is 90%.",2024-11-01 20:00,2024-10-27,2024-10-27 15:45:35
-Bengals,2024-10-27,Friday,Day,64,F,5 mph,N,"A slight chance of rain showers before 8am. Mostly sunny, with a high near 64.",2024-11-02 10:00,2024-10-27,2024-10-27 15:45:35
-Bengals,2024-10-27,Friday Night,Night,44,F,5 mph,NE,"A slight chance of rain showers after 8pm. Partly cloudy, with a low around 44.",2024-11-02 20:00,2024-10-27,2024-10-27 15:45:35
-Bengals,2024-10-27,Saturday,Day,70,F,2 to 6 mph,E,"A slight chance of rain showers. Mostly sunny, with a high near 70.",2024-11-03 10:00,2024-10-27,2024-10-27 15:45:35
-Bengals,2024-10-27,Saturday Night,Night,52,F,5 mph,SE,"A chance of rain showers. Partly cloudy, with a low around 52. Chance of precipitation is 30%.",2024-11-03 20:00,2024-10-27,2024-10-27 15:45:35
+Bengals,2024-11-03,This Afternoon,Day,73,F,8 mph,SE,"Mostly sunny, with a high near 73. Southeast wind around 8 mph.",2024-11-03 10:00,2024-11-03,2024-11-03 11:42:05
+Bengals,2024-11-03,Tonight,Day,57,F,7 mph,SE,"Mostly cloudy, with a low around 57. Southeast wind around 7 mph.",2024-11-03 10:00,2024-11-03,2024-11-03 11:42:05
+Bengals,2024-11-03,Monday,Day,76,F,7 to 12 mph,S,"Partly sunny, with a high near 76. South wind 7 to 12 mph.",2024-11-05 10:00,2024-11-03,2024-11-03 11:42:05
+Bengals,2024-11-03,Monday Night,Night,61,F,10 mph,S,"Partly cloudy, with a low around 61. South wind around 10 mph, with gusts as high as 22 mph.",2024-11-05 20:00,2024-11-03,2024-11-03 11:42:05
+Bengals,2024-11-03,Tuesday,Day,80,F,10 to 15 mph,S,"A chance of rain showers after 1pm. Partly sunny, with a high near 80. South wind 10 to 15 mph, with gusts as high as 29 mph. Chance of precipitation is 30%. New rainfall amounts less than a tenth of an inch possible.",2024-11-06 10:00,2024-11-03,2024-11-03 11:42:05
+Bengals,2024-11-03,Tuesday Night,Night,59,F,5 to 12 mph,SW,"Rain showers. Mostly cloudy, with a low around 59. Chance of precipitation is 90%. New rainfall amounts between a half and three quarters of an inch possible.",2024-11-06 20:00,2024-11-03,2024-11-03 11:42:05
+Bengals,2024-11-03,Wednesday,Day,71,F,5 mph,W,"Rain showers. Partly sunny, with a high near 71. Chance of precipitation is 90%.",2024-11-07 10:00,2024-11-03,2024-11-03 11:42:05
+Bengals,2024-11-03,Wednesday Night,Night,54,F,3 mph,NE,"A chance of rain showers. Mostly cloudy, with a low around 54. Chance of precipitation is 40%.",2024-11-07 20:00,2024-11-03,2024-11-03 11:42:05
+Bengals,2024-11-03,Thursday,Day,69,F,2 to 6 mph,N,"A chance of rain showers. Partly sunny, with a high near 69. Chance of precipitation is 40%.",2024-11-08 10:00,2024-11-03,2024-11-03 11:42:05
+Bengals,2024-11-03,Thursday Night,Night,48,F,5 mph,N,"A slight chance of rain showers before 7pm. Partly cloudy, with a low around 48.",2024-11-08 20:00,2024-11-03,2024-11-03 11:42:05
+Bengals,2024-11-03,Friday,Day,68,F,2 to 6 mph,NE,"Mostly sunny, with a high near 68.",2024-11-09 10:00,2024-11-03,2024-11-03 11:42:05
+Bengals,2024-11-03,Friday Night,Night,47,F,5 mph,NE,"A chance of rain showers after 1am. Partly cloudy, with a low around 47. Chance of precipitation is 30%.",2024-11-09 20:00,2024-11-03,2024-11-03 11:42:05
+Bengals,2024-11-03,Saturday,Day,68,F,3 to 7 mph,E,"A chance of rain showers. Mostly sunny, with a high near 68. Chance of precipitation is 40%.",2024-11-10 10:00,2024-11-03,2024-11-03 11:42:05
+Bengals,2024-11-03,Saturday Night,Night,50,F,7 mph,SE,"A chance of rain showers. Mostly cloudy, with a low around 50. Chance of precipitation is 50%.",2024-11-10 20:00,2024-11-03,2024-11-03 11:42:05

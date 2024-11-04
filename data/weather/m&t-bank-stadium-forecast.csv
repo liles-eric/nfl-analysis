@@ -1,15 +1,15 @@
 Team,Actual Date,Period,Time (Day/Night),Temperature,Temperature Unit,Wind Speed,Wind Direction,Detailed Forecast,Combined Date Time,Date Ran,DateTime Ran
-Ravens,2024-10-27,This Afternoon,Day,60,F,2 mph,SW,"Sunny, with a high near 60. Southwest wind around 2 mph.",2024-10-27 10:00,2024-10-27,2024-10-27 15:45:35
-Ravens,2024-10-27,Tonight,Day,40,F,2 mph,NW,"Clear, with a low around 40. Northwest wind around 2 mph.",2024-10-27 10:00,2024-10-27,2024-10-27 15:45:35
-Ravens,2024-10-27,Monday,Day,63,F,1 to 7 mph,E,"Sunny, with a high near 63. East wind 1 to 7 mph.",2024-10-29 10:00,2024-10-27,2024-10-27 15:45:35
-Ravens,2024-10-27,Monday Night,Night,44,F,5 mph,SE,"Partly cloudy, with a low around 44. Southeast wind around 5 mph.",2024-10-29 20:00,2024-10-27,2024-10-27 15:45:35
-Ravens,2024-10-27,Tuesday,Day,69,F,2 to 9 mph,S,"Mostly sunny, with a high near 69. South wind 2 to 9 mph.",2024-10-30 10:00,2024-10-27,2024-10-27 15:45:35
-Ravens,2024-10-27,Tuesday Night,Night,52,F,3 to 8 mph,S,"Partly cloudy, with a low around 52.",2024-10-30 20:00,2024-10-27,2024-10-27 15:45:35
-Ravens,2024-10-27,Wednesday,Day,78,F,3 to 8 mph,SW,"Mostly sunny, with a high near 78.",2024-10-31 10:00,2024-10-27,2024-10-27 15:45:35
-Ravens,2024-10-27,Wednesday Night,Night,59,F,7 mph,SW,"Partly cloudy, with a low around 59.",2024-10-31 20:00,2024-10-27,2024-10-27 15:45:35
-Ravens,2024-10-27,Thursday,Day,80,F,6 to 12 mph,SW,"Mostly sunny, with a high near 80.",2024-11-01 10:00,2024-10-27,2024-10-27 15:45:35
-Ravens,2024-10-27,Thursday Night,Night,63,F,7 to 12 mph,SW,"A chance of rain showers after 2am. Partly cloudy, with a low around 63. Chance of precipitation is 40%.",2024-11-01 20:00,2024-10-27,2024-10-27 15:45:35
-Ravens,2024-10-27,Friday,Day,72,F,9 mph,W,"A chance of rain showers before 2pm. Partly sunny, with a high near 72. Chance of precipitation is 40%.",2024-11-02 10:00,2024-10-27,2024-10-27 15:45:35
-Ravens,2024-10-27,Friday Night,Night,47,F,5 to 8 mph,N,"Mostly clear, with a low around 47.",2024-11-02 20:00,2024-10-27,2024-10-27 15:45:35
-Ravens,2024-10-27,Saturday,Day,64,F,6 mph,NE,"Sunny, with a high near 64.",2024-11-03 10:00,2024-10-27,2024-10-27 15:45:35
-Ravens,2024-10-27,Saturday Night,Night,47,F,3 mph,SE,"Partly cloudy, with a low around 47.",2024-11-03 20:00,2024-10-27,2024-10-27 15:45:35
+Ravens,2024-11-03,This Afternoon,Day,60,F,2 to 6 mph,NE,"Sunny, with a high near 60. Northeast wind 2 to 6 mph.",2024-11-03 10:00,2024-11-03,2024-11-03 11:42:05
+Ravens,2024-11-03,Tonight,Day,43,F,5 mph,NE,"Partly cloudy, with a low around 43. Northeast wind around 5 mph.",2024-11-03 10:00,2024-11-03,2024-11-03 11:42:05
+Ravens,2024-11-03,Monday,Day,63,F,6 mph,E,"Partly sunny, with a high near 63. East wind around 6 mph.",2024-11-05 10:00,2024-11-03,2024-11-03 11:42:05
+Ravens,2024-11-03,Monday Night,Night,54,F,6 mph,S,"Patchy fog after 4am. Mostly cloudy, with a low around 54. South wind around 6 mph.",2024-11-05 20:00,2024-11-03,2024-11-03 11:42:05
+Ravens,2024-11-03,Tuesday,Day,74,F,3 to 10 mph,S,"Patchy fog before 7am. Partly sunny, with a high near 74. South wind 3 to 10 mph, with gusts as high as 20 mph.",2024-11-06 10:00,2024-11-03,2024-11-03 11:42:05
+Ravens,2024-11-03,Tuesday Night,Night,59,F,9 mph,S,"Partly cloudy, with a low around 59.",2024-11-06 20:00,2024-11-03,2024-11-03 11:42:05
+Ravens,2024-11-03,Wednesday,Day,79,F,6 to 10 mph,SW,"A slight chance of rain showers after 1pm. Partly sunny, with a high near 79.",2024-11-07 10:00,2024-11-03,2024-11-03 11:42:05
+Ravens,2024-11-03,Wednesday Night,Night,60,F,5 mph,NW,"A slight chance of rain showers. Mostly cloudy, with a low around 60.",2024-11-07 20:00,2024-11-03,2024-11-03 11:42:05
+Ravens,2024-11-03,Thursday,Day,71,F,2 to 6 mph,N,"A chance of rain showers. Mostly cloudy, with a high near 71. Chance of precipitation is 40%.",2024-11-08 10:00,2024-11-03,2024-11-03 11:42:05
+Ravens,2024-11-03,Thursday Night,Night,50,F,5 mph,N,"A chance of rain showers. Partly cloudy, with a low around 50. Chance of precipitation is 40%.",2024-11-08 20:00,2024-11-03,2024-11-03 11:42:05
+Ravens,2024-11-03,Friday,Day,69,F,7 mph,NW,"A slight chance of rain showers before 7am. Sunny, with a high near 69.",2024-11-09 10:00,2024-11-03,2024-11-03 11:42:05
+Ravens,2024-11-03,Friday Night,Night,49,F,6 mph,NW,"Mostly clear, with a low around 49.",2024-11-09 20:00,2024-11-03,2024-11-03 11:42:05
+Ravens,2024-11-03,Saturday,Day,66,F,7 mph,NW,"Mostly sunny, with a high near 66.",2024-11-10 10:00,2024-11-03,2024-11-03 11:42:05
+Ravens,2024-11-03,Saturday Night,Night,47,F,5 mph,N,"A chance of rain showers after 7pm. Partly cloudy, with a low around 47. Chance of precipitation is 30%.",2024-11-10 20:00,2024-11-03,2024-11-03 11:42:05

@@ -1,15 +1,15 @@
 Team,Actual Date,Period,Time (Day/Night),Temperature,Temperature Unit,Wind Speed,Wind Direction,Detailed Forecast,Combined Date Time,Date Ran,DateTime Ran
-Chargers,2024-10-27,This Afternoon,Day,76,F,5 to 10 mph,WSW,"Partly sunny, with a high near 76. West southwest wind 5 to 10 mph.",2024-10-27 10:00,2024-10-27,2024-10-27 15:45:35
-Chargers,2024-10-27,Tonight,Day,59,F,5 mph,SE,"Patchy drizzle and patchy fog after 11pm. Mostly cloudy, with a low around 59. Southeast wind around 5 mph.",2024-10-27 10:00,2024-10-27,2024-10-27 15:45:35
-Chargers,2024-10-27,Monday,Day,67,F,5 to 20 mph,NNE,"Patchy drizzle and patchy fog before 11am, then a chance of rain showers. Partly sunny, with a high near 67. North northeast wind 5 to 20 mph, with gusts as high as 30 mph. Chance of precipitation is 30%. New rainfall amounts less than a tenth of an inch possible.",2024-10-29 10:00,2024-10-27,2024-10-27 15:45:35
-Chargers,2024-10-27,Monday Night,Night,56,F,10 to 20 mph,NW,"A chance of rain showers before 11pm. Partly cloudy, with a low around 56. Northwest wind 10 to 20 mph, with gusts as high as 30 mph. Chance of precipitation is 30%. New rainfall amounts less than a tenth of an inch possible.",2024-10-29 20:00,2024-10-27,2024-10-27 15:45:35
-Chargers,2024-10-27,Tuesday,Day,69,F,10 to 15 mph,WNW,"Sunny, with a high near 69. West northwest wind 10 to 15 mph, with gusts as high as 25 mph.",2024-10-30 10:00,2024-10-27,2024-10-27 15:45:35
-Chargers,2024-10-27,Tuesday Night,Night,51,F,5 to 15 mph,NNE,"Partly cloudy, with a low around 51.",2024-10-30 20:00,2024-10-27,2024-10-27 15:45:35
-Chargers,2024-10-27,Wednesday,Day,66,F,0 to 10 mph,ENE,"Mostly sunny, with a high near 66.",2024-10-31 10:00,2024-10-27,2024-10-27 15:45:35
-Chargers,2024-10-27,Wednesday Night,Night,50,F,0 to 10 mph,NNW,"Partly cloudy, with a low around 50.",2024-10-31 20:00,2024-10-27,2024-10-27 15:45:35
-Chargers,2024-10-27,Thursday,Day,67,F,0 to 10 mph,SE,"Sunny, with a high near 67.",2024-11-01 10:00,2024-10-27,2024-10-27 15:45:35
-Chargers,2024-10-27,Thursday Night,Night,51,F,5 to 10 mph,E,"Patchy fog after 11pm. Mostly cloudy, with a low around 51.",2024-11-01 20:00,2024-10-27,2024-10-27 15:45:35
-Chargers,2024-10-27,Friday,Day,65,F,0 to 10 mph,S,"Patchy fog before 11am. Partly sunny, with a high near 65.",2024-11-02 10:00,2024-10-27,2024-10-27 15:45:35
-Chargers,2024-10-27,Friday Night,Night,52,F,5 to 10 mph,E,"Patchy fog after 11pm. Mostly cloudy, with a low around 52.",2024-11-02 20:00,2024-10-27,2024-10-27 15:45:35
-Chargers,2024-10-27,Saturday,Day,63,F,5 to 10 mph,SSE,"Patchy fog before 11am, then a chance of rain. Mostly cloudy, with a high near 63.",2024-11-03 10:00,2024-10-27,2024-10-27 15:45:35
-Chargers,2024-10-27,Saturday Night,Night,51,F,5 to 10 mph,NNE,"A chance of rain before 11pm, then patchy fog. Mostly cloudy, with a low around 51.",2024-11-03 20:00,2024-10-27,2024-10-27 15:45:35
+Chargers,2024-11-03,Today,Day,71,F,10 to 15 mph,NW,"Sunny, with a high near 71. Northwest wind 10 to 15 mph, with gusts as high as 20 mph.",2024-11-03 10:00,2024-11-03,2024-11-03 11:42:05
+Chargers,2024-11-03,Tonight,Day,51,F,5 to 15 mph,NNE,"Mostly clear, with a low around 51. North northeast wind 5 to 15 mph, with gusts as high as 25 mph.",2024-11-03 10:00,2024-11-03,2024-11-03 11:42:05
+Chargers,2024-11-03,Monday,Day,72,F,5 to 10 mph,N,"Sunny, with a high near 72. North wind 5 to 10 mph.",2024-11-05 10:00,2024-11-03,2024-11-03 11:42:05
+Chargers,2024-11-03,Monday Night,Night,52,F,5 to 10 mph,NNW,"Mostly clear, with a low around 52. North northwest wind 5 to 10 mph.",2024-11-05 20:00,2024-11-03,2024-11-03 11:42:05
+Chargers,2024-11-03,Tuesday,Day,70,F,5 mph,ESE,"Sunny, with a high near 70. East southeast wind around 5 mph.",2024-11-06 10:00,2024-11-03,2024-11-03 11:42:05
+Chargers,2024-11-03,Tuesday Night,Night,51,F,5 mph,ESE,"Patchy fog after 10pm. Mostly cloudy, with a low around 51.",2024-11-06 20:00,2024-11-03,2024-11-03 11:42:05
+Chargers,2024-11-03,Wednesday,Day,70,F,5 to 10 mph,ESE,"Patchy fog before 10am. Partly sunny, with a high near 70.",2024-11-07 10:00,2024-11-03,2024-11-03 11:42:05
+Chargers,2024-11-03,Wednesday Night,Night,50,F,5 to 10 mph,N,"Mostly clear, with a low around 50.",2024-11-07 20:00,2024-11-03,2024-11-03 11:42:05
+Chargers,2024-11-03,Thursday,Day,70,F,5 to 10 mph,NNW,"Sunny, with a high near 70.",2024-11-08 10:00,2024-11-03,2024-11-03 11:42:05
+Chargers,2024-11-03,Thursday Night,Night,50,F,5 to 10 mph,N,"Clear, with a low around 50.",2024-11-08 20:00,2024-11-03,2024-11-03 11:42:05
+Chargers,2024-11-03,Friday,Day,70,F,5 to 10 mph,NW,"Sunny, with a high near 70.",2024-11-09 10:00,2024-11-03,2024-11-03 11:42:05
+Chargers,2024-11-03,Friday Night,Night,50,F,5 to 10 mph,NNW,"Mostly clear, with a low around 50.",2024-11-09 20:00,2024-11-03,2024-11-03 11:42:05
+Chargers,2024-11-03,Saturday,Day,70,F,0 to 5 mph,NE,"Sunny, with a high near 70.",2024-11-10 10:00,2024-11-03,2024-11-03 11:42:05
+Chargers,2024-11-03,Saturday Night,Night,51,F,5 mph,WNW,"Patchy fog after 10pm. Mostly cloudy, with a low around 51.",2024-11-10 20:00,2024-11-03,2024-11-03 11:42:05

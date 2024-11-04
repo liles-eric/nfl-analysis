@@ -1,15 +1,15 @@
 Team,Actual Date,Period,Time (Day/Night),Temperature,Temperature Unit,Wind Speed,Wind Direction,Detailed Forecast,Combined Date Time,Date Ran,DateTime Ran
-Commanders,2024-10-27,This Afternoon,Day,60,F,2 mph,NW,"Sunny, with a high near 60. Northwest wind around 2 mph.",2024-10-27 10:00,2024-10-27,2024-10-27 15:45:35
-Commanders,2024-10-27,Tonight,Day,33,F,2 mph,NE,"Areas of frost after 2am. Clear, with a low around 33. Northeast wind around 2 mph.",2024-10-27 10:00,2024-10-27,2024-10-27 15:45:35
-Commanders,2024-10-27,Monday,Day,63,F,1 to 6 mph,NE,"Areas of frost before 9am. Sunny, with a high near 63. Northeast wind 1 to 6 mph.",2024-10-29 10:00,2024-10-27,2024-10-27 15:45:35
-Commanders,2024-10-27,Monday Night,Night,42,F,2 to 6 mph,SE,"Partly cloudy, with a low around 42. Southeast wind 2 to 6 mph.",2024-10-29 20:00,2024-10-27,2024-10-27 15:45:35
-Commanders,2024-10-27,Tuesday,Day,70,F,2 to 8 mph,S,"Mostly sunny, with a high near 70. South wind 2 to 8 mph.",2024-10-30 10:00,2024-10-27,2024-10-27 15:45:35
-Commanders,2024-10-27,Tuesday Night,Night,52,F,3 to 7 mph,S,"Mostly clear, with a low around 52.",2024-10-30 20:00,2024-10-27,2024-10-27 15:45:35
-Commanders,2024-10-27,Wednesday,Day,78,F,5 to 8 mph,SW,"Mostly sunny, with a high near 78.",2024-10-31 10:00,2024-10-27,2024-10-27 15:45:35
-Commanders,2024-10-27,Wednesday Night,Night,59,F,7 mph,SW,"Partly cloudy, with a low around 59.",2024-10-31 20:00,2024-10-27,2024-10-27 15:45:35
-Commanders,2024-10-27,Thursday,Day,80,F,7 to 12 mph,SW,"Mostly sunny, with a high near 80.",2024-11-01 10:00,2024-10-27,2024-10-27 15:45:35
-Commanders,2024-10-27,Thursday Night,Night,63,F,10 mph,SW,"A chance of rain showers after 2am. Partly cloudy, with a low around 63. Chance of precipitation is 30%.",2024-11-01 20:00,2024-10-27,2024-10-27 15:45:35
-Commanders,2024-10-27,Friday,Day,73,F,8 mph,W,"A chance of rain showers before 2pm. Partly sunny, with a high near 73. Chance of precipitation is 30%.",2024-11-02 10:00,2024-10-27,2024-10-27 15:45:35
-Commanders,2024-10-27,Friday Night,Night,47,F,7 mph,N,"Partly cloudy, with a low around 47.",2024-11-02 20:00,2024-10-27,2024-10-27 15:45:35
-Commanders,2024-10-27,Saturday,Day,64,F,6 mph,NE,"Sunny, with a high near 64.",2024-11-03 10:00,2024-10-27,2024-10-27 15:45:35
-Commanders,2024-10-27,Saturday Night,Night,46,F,5 mph,SE,"Partly cloudy, with a low around 46.",2024-11-03 20:00,2024-10-27,2024-10-27 15:45:35
+Commanders,2024-11-03,This Afternoon,Day,60,F,6 mph,NE,"Sunny, with a high near 60. Northeast wind around 6 mph.",2024-11-03 10:00,2024-11-03,2024-11-03 11:42:05
+Commanders,2024-11-03,Tonight,Day,41,F,5 mph,E,"Partly cloudy, with a low around 41. East wind around 5 mph.",2024-11-03 10:00,2024-11-03,2024-11-03 11:42:05
+Commanders,2024-11-03,Monday,Day,63,F,6 mph,E,"Mostly cloudy, with a high near 63. East wind around 6 mph.",2024-11-05 10:00,2024-11-03,2024-11-03 11:42:05
+Commanders,2024-11-03,Monday Night,Night,52,F,6 mph,S,"Mostly cloudy, with a low around 52. South wind around 6 mph.",2024-11-05 20:00,2024-11-03,2024-11-03 11:42:05
+Commanders,2024-11-03,Tuesday,Day,75,F,3 to 10 mph,S,"Partly sunny, with a high near 75. South wind 3 to 10 mph, with gusts as high as 20 mph.",2024-11-06 10:00,2024-11-03,2024-11-03 11:42:05
+Commanders,2024-11-03,Tuesday Night,Night,59,F,9 mph,S,"Partly cloudy, with a low around 59.",2024-11-06 20:00,2024-11-03,2024-11-03 11:42:05
+Commanders,2024-11-03,Wednesday,Day,80,F,6 to 10 mph,SW,"A slight chance of rain showers after 1pm. Partly sunny, with a high near 80.",2024-11-07 10:00,2024-11-03,2024-11-03 11:42:05
+Commanders,2024-11-03,Wednesday Night,Night,60,F,2 to 6 mph,W,"A slight chance of rain showers. Mostly cloudy, with a low around 60.",2024-11-07 20:00,2024-11-03,2024-11-03 11:42:05
+Commanders,2024-11-03,Thursday,Day,73,F,6 mph,N,"A chance of rain showers. Mostly cloudy, with a high near 73. Chance of precipitation is 40%.",2024-11-08 10:00,2024-11-03,2024-11-03 11:42:05
+Commanders,2024-11-03,Thursday Night,Night,50,F,5 mph,N,"A chance of rain showers. Mostly cloudy, with a low around 50. Chance of precipitation is 40%.",2024-11-08 20:00,2024-11-03,2024-11-03 11:42:05
+Commanders,2024-11-03,Friday,Day,69,F,6 mph,NW,"A slight chance of rain showers before 7am. Sunny, with a high near 69.",2024-11-09 10:00,2024-11-03,2024-11-03 11:42:05
+Commanders,2024-11-03,Friday Night,Night,49,F,5 mph,NW,"Mostly clear, with a low around 49.",2024-11-09 20:00,2024-11-03,2024-11-03 11:42:05
+Commanders,2024-11-03,Saturday,Day,66,F,6 mph,NW,"Mostly sunny, with a high near 66.",2024-11-10 10:00,2024-11-03,2024-11-03 11:42:05
+Commanders,2024-11-03,Saturday Night,Night,47,F,5 mph,NE,"A chance of rain showers after 7pm. Partly cloudy, with a low around 47. Chance of precipitation is 30%.",2024-11-10 20:00,2024-11-03,2024-11-03 11:42:05

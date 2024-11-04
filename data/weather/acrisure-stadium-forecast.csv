@@ -1,15 +1,15 @@
 Team,Actual Date,Period,Time (Day/Night),Temperature,Temperature Unit,Wind Speed,Wind Direction,Detailed Forecast,Combined Date Time,Date Ran,DateTime Ran
-Steelers,2024-10-27,This Afternoon,Day,57,F,2 mph,NE,"Sunny, with a high near 57. Northeast wind around 2 mph.",2024-10-27 10:00,2024-10-27,2024-10-27 15:45:35
-Steelers,2024-10-27,Tonight,Day,34,F,3 mph,E,"Mostly clear, with a low around 34. East wind around 3 mph.",2024-10-27 10:00,2024-10-27,2024-10-27 15:45:35
-Steelers,2024-10-27,Monday,Day,67,F,2 to 7 mph,SE,"Mostly sunny, with a high near 67. Southeast wind 2 to 7 mph.",2024-10-29 10:00,2024-10-27,2024-10-27 15:45:35
-Steelers,2024-10-27,Monday Night,Night,48,F,6 mph,SE,"Partly cloudy, with a low around 48. Southeast wind around 6 mph.",2024-10-29 20:00,2024-10-27,2024-10-27 15:45:35
-Steelers,2024-10-27,Tuesday,Day,76,F,7 to 14 mph,S,"Partly sunny, with a high near 76. South wind 7 to 14 mph.",2024-10-30 10:00,2024-10-27,2024-10-27 15:45:35
-Steelers,2024-10-27,Tuesday Night,Night,56,F,8 to 12 mph,S,"Partly cloudy, with a low around 56.",2024-10-30 20:00,2024-10-27,2024-10-27 15:45:35
-Steelers,2024-10-27,Wednesday,Day,77,F,8 to 14 mph,SW,"Mostly sunny, with a high near 77.",2024-10-31 10:00,2024-10-27,2024-10-27 15:45:35
-Steelers,2024-10-27,Wednesday Night,Night,59,F,7 to 12 mph,S,"Partly cloudy, with a low around 59.",2024-10-31 20:00,2024-10-27,2024-10-27 15:45:35
-Steelers,2024-10-27,Thursday,Day,78,F,10 to 18 mph,SW,"Rain likely after 8am. Partly sunny, with a high near 78. Chance of precipitation is 60%.",2024-11-01 10:00,2024-10-27,2024-10-27 15:45:35
-Steelers,2024-10-27,Thursday Night,Night,51,F,8 to 16 mph,W,"Rain. Mostly cloudy, with a low around 51. Chance of precipitation is 80%.",2024-11-01 20:00,2024-10-27,2024-10-27 15:45:35
-Steelers,2024-10-27,Friday,Day,60,F,8 mph,NW,"A chance of rain before 2pm. Partly sunny, with a high near 60. Chance of precipitation is 40%.",2024-11-02 10:00,2024-10-27,2024-10-27 15:45:35
-Steelers,2024-10-27,Friday Night,Night,40,F,2 to 7 mph,N,"Mostly clear, with a low around 40.",2024-11-02 20:00,2024-10-27,2024-10-27 15:45:35
-Steelers,2024-10-27,Saturday,Day,64,F,6 mph,E,"A slight chance of rain after 8am. Mostly sunny, with a high near 64.",2024-11-03 10:00,2024-10-27,2024-10-27 15:45:35
-Steelers,2024-10-27,Saturday Night,Night,46,F,6 mph,SE,"A chance of rain. Partly cloudy, with a low around 46. Chance of precipitation is 40%.",2024-11-03 20:00,2024-10-27,2024-10-27 15:45:35
+Steelers,2024-11-03,This Afternoon,Day,66,F,10 mph,E,"Sunny, with a high near 66. East wind around 10 mph.",2024-11-03 10:00,2024-11-03,2024-11-03 11:42:05
+Steelers,2024-11-03,Tonight,Day,46,F,6 to 10 mph,E,"Partly cloudy, with a low around 46. East wind 6 to 10 mph.",2024-11-03 10:00,2024-11-03,2024-11-03 11:42:05
+Steelers,2024-11-03,Monday,Day,72,F,6 to 12 mph,SE,"Partly sunny, with a high near 72. Southeast wind 6 to 12 mph.",2024-11-05 10:00,2024-11-03,2024-11-03 11:42:05
+Steelers,2024-11-03,Monday Night,Night,55,F,7 to 10 mph,S,"Partly cloudy, with a low around 55. South wind 7 to 10 mph.",2024-11-05 20:00,2024-11-03,2024-11-03 11:42:05
+Steelers,2024-11-03,Tuesday,Day,80,F,8 to 15 mph,S,"Mostly sunny, with a high near 80. South wind 8 to 15 mph, with gusts as high as 30 mph.",2024-11-06 10:00,2024-11-03,2024-11-03 11:42:05
+Steelers,2024-11-03,Tuesday Night,Night,62,F,13 mph,S,"Rain likely after 1am. Partly cloudy, with a low around 62. Chance of precipitation is 70%. New rainfall amounts less than a tenth of an inch possible.",2024-11-06 20:00,2024-11-03,2024-11-03 11:42:05
+Steelers,2024-11-03,Wednesday,Day,70,F,7 to 10 mph,SW,"Rain. Mostly cloudy, with a high near 70. Chance of precipitation is 80%.",2024-11-07 10:00,2024-11-03,2024-11-03 11:42:05
+Steelers,2024-11-03,Wednesday Night,Night,52,F,2 to 6 mph,NW,"A chance of rain. Mostly cloudy, with a low around 52. Chance of precipitation is 50%.",2024-11-07 20:00,2024-11-03,2024-11-03 11:42:05
+Steelers,2024-11-03,Thursday,Day,67,F,2 to 6 mph,N,"A chance of rain. Mostly sunny, with a high near 67. Chance of precipitation is 50%.",2024-11-08 10:00,2024-11-03,2024-11-03 11:42:05
+Steelers,2024-11-03,Thursday Night,Night,43,F,6 mph,NW,"A chance of rain. Partly cloudy, with a low around 43. Chance of precipitation is 30%.",2024-11-08 20:00,2024-11-03,2024-11-03 11:42:05
+Steelers,2024-11-03,Friday,Day,64,F,5 to 9 mph,NW,"A slight chance of rain before 7am. Mostly sunny, with a high near 64.",2024-11-09 10:00,2024-11-03,2024-11-03 11:42:05
+Steelers,2024-11-03,Friday Night,Night,43,F,3 to 7 mph,NW,"Partly cloudy, with a low around 43.",2024-11-09 20:00,2024-11-03,2024-11-03 11:42:05
+Steelers,2024-11-03,Saturday,Day,64,F,7 mph,NW,"A chance of rain after 7am. Mostly sunny, with a high near 64. Chance of precipitation is 30%.",2024-11-10 10:00,2024-11-03,2024-11-03 11:42:05
+Steelers,2024-11-03,Saturday Night,Night,45,F,7 mph,E,"A chance of rain. Mostly cloudy, with a low around 45. Chance of precipitation is 40%.",2024-11-10 20:00,2024-11-03,2024-11-03 11:42:05

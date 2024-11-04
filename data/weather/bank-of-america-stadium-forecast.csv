@@ -1,15 +1,15 @@
 Team,Actual Date,Period,Time (Day/Night),Temperature,Temperature Unit,Wind Speed,Wind Direction,Detailed Forecast,Combined Date Time,Date Ran,DateTime Ran
-Panthers,2024-10-20,This Afternoon,Day,76,F,5 mph,NNE,"Sunny, with a high near 76. North northeast wind around 5 mph.",2024-10-20 10:00,2024-10-20,2024-10-20 16:37:10
-Panthers,2024-10-20,Tonight,Day,47,F,3 mph,NNE,"Clear, with a low around 47. North northeast wind around 3 mph.",2024-10-20 10:00,2024-10-20,2024-10-20 16:37:10
-Panthers,2024-10-20,Monday,Day,77,F,6 mph,NNE,"Sunny, with a high near 77. North northeast wind around 6 mph.",2024-10-22 10:00,2024-10-20,2024-10-20 16:37:10
-Panthers,2024-10-20,Monday Night,Night,48,F,5 mph,NE,"Clear, with a low around 48. Northeast wind around 5 mph.",2024-10-22 20:00,2024-10-20,2024-10-20 16:37:10
-Panthers,2024-10-20,Tuesday,Day,77,F,3 mph,NE,"Sunny, with a high near 77. Northeast wind around 3 mph.",2024-10-23 10:00,2024-10-20,2024-10-20 16:37:10
-Panthers,2024-10-20,Tuesday Night,Night,50,F,2 mph,NE,"Mostly clear, with a low around 50.",2024-10-23 20:00,2024-10-20,2024-10-20 16:37:10
-Panthers,2024-10-20,Wednesday,Day,79,F,3 mph,NW,"Sunny, with a high near 79.",2024-10-24 10:00,2024-10-20,2024-10-20 16:37:10
-Panthers,2024-10-20,Wednesday Night,Night,55,F,3 mph,W,"Clear, with a low around 55.",2024-10-24 20:00,2024-10-20,2024-10-20 16:37:10
-Panthers,2024-10-20,Thursday,Day,77,F,6 mph,NNW,"Sunny, with a high near 77.",2024-10-25 10:00,2024-10-20,2024-10-20 16:37:10
-Panthers,2024-10-20,Thursday Night,Night,49,F,5 mph,NE,"Mostly clear, with a low around 49.",2024-10-25 20:00,2024-10-20,2024-10-20 16:37:10
-Panthers,2024-10-20,Friday,Day,72,F,5 mph,E,"Sunny, with a high near 72.",2024-10-26 10:00,2024-10-20,2024-10-20 16:37:10
-Panthers,2024-10-20,Friday Night,Night,50,F,5 mph,E,"Mostly clear, with a low around 50.",2024-10-26 20:00,2024-10-20,2024-10-20 16:37:10
-Panthers,2024-10-20,Saturday,Day,74,F,2 to 6 mph,ESE,"Sunny, with a high near 74.",2024-10-27 10:00,2024-10-20,2024-10-20 16:37:10
-Panthers,2024-10-20,Saturday Night,Night,52,F,5 mph,E,"Mostly clear, with a low around 52.",2024-10-27 20:00,2024-10-20,2024-10-20 16:37:10
+Panthers,2024-11-03,This Afternoon,Day,69,F,9 mph,ENE,"Mostly sunny, with a high near 69. East northeast wind around 9 mph.",2024-11-03 10:00,2024-11-03,2024-11-03 11:42:05
+Panthers,2024-11-03,Tonight,Day,51,F,7 mph,NE,"Partly cloudy, with a low around 51. Northeast wind around 7 mph.",2024-11-03 10:00,2024-11-03,2024-11-03 11:42:05
+Panthers,2024-11-03,Monday,Day,68,F,8 mph,NE,"Mostly cloudy, with a high near 68. Northeast wind around 8 mph.",2024-11-05 10:00,2024-11-03,2024-11-03 11:42:05
+Panthers,2024-11-03,Monday Night,Night,56,F,2 to 6 mph,ENE,"Mostly cloudy, with a low around 56. East northeast wind 2 to 6 mph.",2024-11-05 20:00,2024-11-03,2024-11-03 11:42:05
+Panthers,2024-11-03,Tuesday,Day,76,F,3 to 7 mph,ESE,"A slight chance of rain showers. Mostly cloudy, with a high near 76. East southeast wind 3 to 7 mph. Chance of precipitation is 20%.",2024-11-06 10:00,2024-11-03,2024-11-03 11:42:05
+Panthers,2024-11-03,Tuesday Night,Night,62,F,5 mph,SSE,"A slight chance of rain showers. Mostly cloudy, with a low around 62. Chance of precipitation is 20%.",2024-11-06 20:00,2024-11-03,2024-11-03 11:42:05
+Panthers,2024-11-03,Wednesday,Day,77,F,2 to 6 mph,S,"A chance of rain showers. Mostly cloudy, with a high near 77. Chance of precipitation is 30%.",2024-11-07 10:00,2024-11-03,2024-11-03 11:42:05
+Panthers,2024-11-03,Wednesday Night,Night,64,F,3 mph,E,"A chance of rain showers. Mostly cloudy, with a low around 64. Chance of precipitation is 50%.",2024-11-07 20:00,2024-11-03,2024-11-03 11:42:05
+Panthers,2024-11-03,Thursday,Day,77,F,2 to 6 mph,E,"A chance of rain showers. Mostly cloudy, with a high near 77. Chance of precipitation is 40%.",2024-11-08 10:00,2024-11-03,2024-11-03 11:42:05
+Panthers,2024-11-03,Thursday Night,Night,63,F,5 mph,ENE,"A chance of rain showers. Mostly cloudy, with a low around 63. Chance of precipitation is 30%.",2024-11-08 20:00,2024-11-03,2024-11-03 11:42:05
+Panthers,2024-11-03,Friday,Day,76,F,7 mph,NE,"A slight chance of rain showers before 2pm. Partly sunny, with a high near 76.",2024-11-09 10:00,2024-11-03,2024-11-03 11:42:05
+Panthers,2024-11-03,Friday Night,Night,57,F,6 mph,NE,"A slight chance of rain showers after 11pm. Mostly cloudy, with a low around 57.",2024-11-09 20:00,2024-11-03,2024-11-03 11:42:05
+Panthers,2024-11-03,Saturday,Day,74,F,7 mph,ENE,"A slight chance of rain showers. Mostly sunny, with a high near 74.",2024-11-10 10:00,2024-11-03,2024-11-03 11:42:05
+Panthers,2024-11-03,Saturday Night,Night,57,F,6 mph,E,"A slight chance of rain showers. Mostly cloudy, with a low around 57.",2024-11-10 20:00,2024-11-03,2024-11-03 11:42:05
