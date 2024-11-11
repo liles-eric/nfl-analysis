@@ -1,15 +1,15 @@
 Team,Actual Date,Period,Time (Day/Night),Temperature,Temperature Unit,Wind Speed,Wind Direction,Detailed Forecast,Combined Date Time,Date Ran,DateTime Ran
-Jets,2024-11-03,This Afternoon,Day,57,F,6 mph,N,"Sunny. High near 57, with temperatures falling to around 55 in the afternoon. North wind around 6 mph.",2024-11-03 10:00,2024-11-03,2024-11-03 11:42:05
-Jets,2024-11-03,Tonight,Day,39,F,2 to 6 mph,NE,"Mostly clear, with a low around 39. Northeast wind 2 to 6 mph.",2024-11-03 10:00,2024-11-03,2024-11-03 11:42:05
-Jets,2024-11-03,Monday,Day,61,F,3 to 9 mph,E,"Mostly sunny. High near 61, with temperatures falling to around 59 in the afternoon. East wind 3 to 9 mph.",2024-11-05 10:00,2024-11-03,2024-11-03 11:42:05
-Jets,2024-11-03,Monday Night,Night,52,F,3 to 7 mph,S,"Mostly cloudy, with a low around 52. South wind 3 to 7 mph.",2024-11-05 20:00,2024-11-03,2024-11-03 11:42:05
-Jets,2024-11-03,Tuesday,Day,73,F,3 to 12 mph,SW,"Mostly sunny. High near 73, with temperatures falling to around 71 in the afternoon. Southwest wind 3 to 12 mph.",2024-11-06 10:00,2024-11-03,2024-11-03 11:42:05
-Jets,2024-11-03,Tuesday Night,Night,61,F,12 mph,SW,"Partly cloudy, with a low around 61.",2024-11-06 20:00,2024-11-03,2024-11-03 11:42:05
-Jets,2024-11-03,Wednesday,Day,79,F,9 to 13 mph,W,"Mostly sunny, with a high near 79.",2024-11-07 10:00,2024-11-03,2024-11-03 11:42:05
-Jets,2024-11-03,Wednesday Night,Night,56,F,5 to 8 mph,NW,"Mostly cloudy, with a low around 56.",2024-11-07 20:00,2024-11-03,2024-11-03 11:42:05
-Jets,2024-11-03,Thursday,Day,69,F,7 mph,NW,"A slight chance of rain showers after 7am. Partly sunny, with a high near 69.",2024-11-08 10:00,2024-11-03,2024-11-03 11:42:05
-Jets,2024-11-03,Thursday Night,Night,48,F,6 mph,NW,"A slight chance of rain showers before 1am. Partly cloudy, with a low around 48.",2024-11-08 20:00,2024-11-03,2024-11-03 11:42:05
-Jets,2024-11-03,Friday,Day,66,F,8 mph,NW,"Sunny, with a high near 66.",2024-11-09 10:00,2024-11-03,2024-11-03 11:42:05
-Jets,2024-11-03,Friday Night,Night,47,F,8 mph,W,"Mostly clear, with a low around 47.",2024-11-09 20:00,2024-11-03,2024-11-03 11:42:05
-Jets,2024-11-03,Saturday,Day,63,F,9 mph,NW,"Mostly sunny, with a high near 63.",2024-11-10 10:00,2024-11-03,2024-11-03 11:42:05
-Jets,2024-11-03,Saturday Night,Night,43,F,7 mph,NW,"Partly cloudy, with a low around 43.",2024-11-10 20:00,2024-11-03,2024-11-03 11:42:05
+Jets,2024-11-10,Tonight,Day,53,F,7 to 12 mph,SW,"Rain. Cloudy. Low around 53, with temperatures rising to around 57 overnight. Southwest wind 7 to 12 mph, with gusts as high as 23 mph. Chance of precipitation is 90%. New rainfall amounts between a quarter and half of an inch possible.",2024-11-10 10:00,2024-11-10,2024-11-10 18:49:56
+Jets,2024-11-10,Veterans Day,Day,69,F,13 mph,W,"A chance of rain before 10am. Mostly sunny. High near 69, with temperatures falling to around 64 in the afternoon. West wind around 13 mph, with gusts as high as 24 mph. Chance of precipitation is 40%. New rainfall amounts between a tenth and quarter of an inch possible.",2024-11-10 10:00,2024-11-10,2024-11-10 18:49:56
+Jets,2024-11-10,Monday Night,Night,46,F,8 to 14 mph,W,"Mostly clear. Low around 46, with temperatures rising to around 48 overnight. West wind 8 to 14 mph.",2024-11-12 20:00,2024-11-10,2024-11-10 18:49:56
+Jets,2024-11-10,Tuesday,Day,55,F,15 to 21 mph,NW,"Sunny. High near 55, with temperatures falling to around 51 in the afternoon. Northwest wind 15 to 21 mph.",2024-11-13 10:00,2024-11-10,2024-11-10 18:49:56
+Jets,2024-11-10,Tuesday Night,Night,33,F,7 to 16 mph,N,"Clear, with a low around 33. North wind 7 to 16 mph.",2024-11-13 20:00,2024-11-10,2024-11-10 18:49:56
+Jets,2024-11-10,Wednesday,Day,51,F,8 mph,N,"Sunny. High near 51, with temperatures falling to around 48 in the afternoon.",2024-11-14 10:00,2024-11-10,2024-11-10 18:49:56
+Jets,2024-11-10,Wednesday Night,Night,35,F,6 mph,NE,"Partly cloudy, with a low around 35.",2024-11-14 20:00,2024-11-10,2024-11-10 18:49:56
+Jets,2024-11-10,Thursday,Day,53,F,7 mph,NE,"A slight chance of rain showers after 1pm. Partly sunny, with a high near 53.",2024-11-15 10:00,2024-11-10,2024-11-10 18:49:56
+Jets,2024-11-10,Thursday Night,Night,40,F,6 mph,NE,"A slight chance of rain showers before midnight. Mostly cloudy, with a low around 40.",2024-11-15 20:00,2024-11-10,2024-11-10 18:49:56
+Jets,2024-11-10,Friday,Day,56,F,6 to 9 mph,N,"Partly sunny, with a high near 56.",2024-11-16 10:00,2024-11-10,2024-11-10 18:49:56
+Jets,2024-11-10,Friday Night,Night,44,F,9 mph,NW,"Partly cloudy, with a low around 44.",2024-11-16 20:00,2024-11-10,2024-11-10 18:49:56
+Jets,2024-11-10,Saturday,Day,61,F,12 mph,NW,"Mostly sunny, with a high near 61.",2024-11-17 10:00,2024-11-10,2024-11-10 18:49:56
+Jets,2024-11-10,Saturday Night,Night,42,F,6 to 10 mph,NW,"Mostly clear, with a low around 42.",2024-11-17 20:00,2024-11-10,2024-11-10 18:49:56
+Jets,2024-11-10,Sunday,Day,61,F,6 to 9 mph,NW,"Mostly sunny, with a high near 61.",2024-11-10 10:00,2024-11-10,2024-11-10 18:49:56

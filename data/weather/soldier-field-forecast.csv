@@ -1,15 +1,15 @@
 Team,Actual Date,Period,Time (Day/Night),Temperature,Temperature Unit,Wind Speed,Wind Direction,Detailed Forecast,Combined Date Time,Date Ran,DateTime Ran
-Bears,2024-11-03,Today,Day,62,F,20 mph,SE,"Rain showers likely. Cloudy. High near 62, with temperatures falling to around 60 in the afternoon. Southeast wind around 20 mph, with gusts as high as 30 mph. Chance of precipitation is 60%. New rainfall amounts less than a tenth of an inch possible.",2024-11-03 10:00,2024-11-03,2024-11-03 11:42:05
-Bears,2024-11-03,Tonight,Day,60,F,15 to 20 mph,SSE,"A chance of rain showers before midnight, then showers and thunderstorms. Cloudy. Low around 60, with temperatures rising to around 62 overnight. South southeast wind 15 to 20 mph, with gusts as high as 30 mph. Chance of precipitation is 100%. New rainfall amounts between a quarter and half of an inch possible.",2024-11-03 10:00,2024-11-03,2024-11-03 11:42:05
-Bears,2024-11-03,Monday,Day,67,F,15 to 20 mph,S,"Rain showers before 3pm, then scattered showers and thunderstorms. Cloudy. High near 67, with temperatures falling to around 64 in the afternoon. South wind 15 to 20 mph, with gusts as high as 30 mph. Chance of precipitation is 90%. New rainfall amounts between a quarter and half of an inch possible.",2024-11-05 10:00,2024-11-03,2024-11-03 11:42:05
-Bears,2024-11-03,Monday Night,Night,63,F,15 to 25 mph,S,"Showers and thunderstorms. Cloudy, with a low around 63. South wind 15 to 25 mph, with gusts as high as 35 mph. Chance of precipitation is 90%.",2024-11-05 20:00,2024-11-03,2024-11-03 11:42:05
-Bears,2024-11-03,Tuesday,Day,67,F,15 to 25 mph,SSW,"Showers and thunderstorms. Mostly cloudy, with a high near 67. South southwest wind 15 to 25 mph, with gusts as high as 35 mph. Chance of precipitation is 100%.",2024-11-06 10:00,2024-11-03,2024-11-03 11:42:05
-Bears,2024-11-03,Tuesday Night,Night,48,F,5 to 10 mph,W,"A chance of rain showers before midnight. Mostly cloudy, with a low around 48. Chance of precipitation is 40%.",2024-11-06 20:00,2024-11-03,2024-11-03 11:42:05
-Bears,2024-11-03,Wednesday,Day,58,F,5 mph,N,"Sunny, with a high near 58.",2024-11-07 10:00,2024-11-03,2024-11-03 11:42:05
-Bears,2024-11-03,Wednesday Night,Night,48,F,0 to 5 mph,NNE,"Mostly clear, with a low around 48.",2024-11-07 20:00,2024-11-03,2024-11-03 11:42:05
-Bears,2024-11-03,Thursday,Day,59,F,5 to 10 mph,N,"Sunny, with a high near 59.",2024-11-08 10:00,2024-11-03,2024-11-03 11:42:05
-Bears,2024-11-03,Thursday Night,Night,46,F,5 mph,NNW,"Partly cloudy, with a low around 46.",2024-11-08 20:00,2024-11-03,2024-11-03 11:42:05
-Bears,2024-11-03,Friday,Day,58,F,5 to 10 mph,NNW,"Mostly sunny, with a high near 58.",2024-11-09 10:00,2024-11-03,2024-11-03 11:42:05
-Bears,2024-11-03,Friday Night,Night,47,F,5 mph,ENE,"A chance of rain showers. Mostly cloudy, with a low around 47.",2024-11-09 20:00,2024-11-03,2024-11-03 11:42:05
-Bears,2024-11-03,Saturday,Day,57,F,5 to 10 mph,ESE,"A chance of rain showers. Partly sunny, with a high near 57.",2024-11-10 10:00,2024-11-03,2024-11-03 11:42:05
-Bears,2024-11-03,Saturday Night,Night,48,F,5 to 10 mph,SE,"A chance of rain showers. Mostly cloudy, with a low around 48.",2024-11-10 20:00,2024-11-03,2024-11-03 11:42:05
+Bears,2024-11-10,Tonight,Day,49,F,15 mph,W,"Partly cloudy, with a low around 49. West wind around 15 mph, with gusts as high as 30 mph.",2024-11-10 10:00,2024-11-10,2024-11-10 18:49:56
+Bears,2024-11-10,Veterans Day,Day,55,F,15 to 20 mph,WNW,"Mostly sunny. High near 55, with temperatures falling to around 45 in the afternoon. West northwest wind 15 to 20 mph, with gusts as high as 30 mph.",2024-11-10 10:00,2024-11-10,2024-11-10 18:49:56
+Bears,2024-11-10,Monday Night,Night,42,F,15 mph,NNE,"Mostly cloudy. Low around 42, with temperatures rising to around 50 overnight. North northeast wind around 15 mph, with gusts as high as 25 mph.",2024-11-12 20:00,2024-11-10,2024-11-10 18:49:56
+Bears,2024-11-10,Tuesday,Day,50,F,10 to 15 mph,E,"Sunny, with a high near 50. East wind 10 to 15 mph.",2024-11-13 10:00,2024-11-10,2024-11-10 18:49:56
+Bears,2024-11-10,Tuesday Night,Night,41,F,15 mph,SE,"Partly cloudy, with a low around 41. Southeast wind around 15 mph.",2024-11-13 20:00,2024-11-10,2024-11-10 18:49:56
+Bears,2024-11-10,Wednesday,Day,54,F,10 to 15 mph,SSE,"A slight chance of rain showers after noon. Partly sunny, with a high near 54. Chance of precipitation is 20%.",2024-11-14 10:00,2024-11-10,2024-11-10 18:49:56
+Bears,2024-11-10,Wednesday Night,Night,47,F,5 to 10 mph,SW,"A chance of rain showers. Mostly cloudy, with a low around 47. Chance of precipitation is 50%.",2024-11-14 20:00,2024-11-10,2024-11-10 18:49:56
+Bears,2024-11-10,Thursday,Day,56,F,5 to 10 mph,NW,"Mostly sunny, with a high near 56.",2024-11-15 10:00,2024-11-10,2024-11-10 18:49:56
+Bears,2024-11-10,Thursday Night,Night,45,F,5 mph,W,"Partly cloudy, with a low around 45.",2024-11-15 20:00,2024-11-10,2024-11-10 18:49:56
+Bears,2024-11-10,Friday,Day,58,F,5 to 10 mph,W,"Sunny, with a high near 58.",2024-11-16 10:00,2024-11-10,2024-11-10 18:49:56
+Bears,2024-11-10,Friday Night,Night,45,F,5 mph,SW,"Partly cloudy, with a low around 45.",2024-11-16 20:00,2024-11-10,2024-11-10 18:49:56
+Bears,2024-11-10,Saturday,Day,57,F,5 to 10 mph,S,"Partly sunny, with a high near 57.",2024-11-17 10:00,2024-11-10,2024-11-10 18:49:56
+Bears,2024-11-10,Saturday Night,Night,50,F,10 mph,S,"A slight chance of rain showers. Mostly cloudy, with a low around 50.",2024-11-17 20:00,2024-11-10,2024-11-10 18:49:56
+Bears,2024-11-10,Sunday,Day,59,F,10 to 15 mph,SSW,"A chance of rain showers. Mostly cloudy, with a high near 59.",2024-11-10 10:00,2024-11-10,2024-11-10 18:49:56

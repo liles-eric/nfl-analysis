@@ -1,15 +1,15 @@
 Team,Actual Date,Period,Time (Day/Night),Temperature,Temperature Unit,Wind Speed,Wind Direction,Detailed Forecast,Combined Date Time,Date Ran,DateTime Ran
-Buccaneers,2024-11-03,This Afternoon,Day,86,F,12 mph,ENE,"Mostly sunny. High near 86, with temperatures falling to around 82 in the afternoon. East northeast wind around 12 mph, with gusts as high as 20 mph.",2024-11-03 10:00,2024-11-03,2024-11-03 11:42:05
-Buccaneers,2024-11-03,Tonight,Day,69,F,6 to 10 mph,ENE,"Mostly clear, with a low around 69. East northeast wind 6 to 10 mph, with gusts as high as 18 mph.",2024-11-03 10:00,2024-11-03,2024-11-03 11:42:05
-Buccaneers,2024-11-03,Monday,Day,86,F,6 to 13 mph,ENE,"Sunny. High near 86, with temperatures falling to around 81 in the afternoon. East northeast wind 6 to 13 mph, with gusts as high as 22 mph.",2024-11-05 10:00,2024-11-03,2024-11-03 11:42:05
-Buccaneers,2024-11-03,Monday Night,Night,71,F,7 to 12 mph,E,"Mostly clear, with a low around 71. East wind 7 to 12 mph, with gusts as high as 22 mph.",2024-11-05 20:00,2024-11-03,2024-11-03 11:42:05
-Buccaneers,2024-11-03,Tuesday,Day,87,F,8 to 13 mph,E,"Mostly sunny, with a high near 87. East wind 8 to 13 mph, with gusts as high as 22 mph.",2024-11-06 10:00,2024-11-03,2024-11-03 11:42:05
-Buccaneers,2024-11-03,Tuesday Night,Night,74,F,8 to 12 mph,E,"A slight chance of rain showers after 1am. Mostly cloudy, with a low around 74. East wind 8 to 12 mph, with gusts as high as 22 mph. Chance of precipitation is 20%.",2024-11-06 20:00,2024-11-03,2024-11-03 11:42:05
-Buccaneers,2024-11-03,Wednesday,Day,85,F,12 mph,E,"A chance of rain showers. Mostly cloudy, with a high near 85. East wind around 12 mph, with gusts as high as 21 mph. Chance of precipitation is 40%.",2024-11-07 10:00,2024-11-03,2024-11-03 11:42:05
-Buccaneers,2024-11-03,Wednesday Night,Night,75,F,10 mph,E,"A chance of rain showers. Mostly cloudy, with a low around 75. East wind around 10 mph, with gusts as high as 21 mph. Chance of precipitation is 40%.",2024-11-07 20:00,2024-11-03,2024-11-03 11:42:05
-Buccaneers,2024-11-03,Thursday,Day,84,F,12 mph,ESE,"A chance of rain showers. Mostly cloudy, with a high near 84. East southeast wind around 12 mph, with gusts as high as 21 mph. Chance of precipitation is 40%.",2024-11-08 10:00,2024-11-03,2024-11-03 11:42:05
-Buccaneers,2024-11-03,Thursday Night,Night,74,F,9 mph,ESE,"A chance of rain showers before 1am. Mostly cloudy, with a low around 74. Chance of precipitation is 40%.",2024-11-08 20:00,2024-11-03,2024-11-03 11:42:05
-Buccaneers,2024-11-03,Friday,Day,84,F,6 to 9 mph,ESE,"Partly sunny, with a high near 84.",2024-11-09 10:00,2024-11-03,2024-11-03 11:42:05
-Buccaneers,2024-11-03,Friday Night,Night,70,F,7 mph,E,"Mostly cloudy, with a low around 70.",2024-11-09 20:00,2024-11-03,2024-11-03 11:42:05
-Buccaneers,2024-11-03,Saturday,Day,85,F,8 mph,E,"Mostly sunny, with a high near 85.",2024-11-10 10:00,2024-11-03,2024-11-03 11:42:05
-Buccaneers,2024-11-03,Saturday Night,Night,69,F,6 mph,E,"Mostly clear, with a low around 69.",2024-11-10 20:00,2024-11-03,2024-11-03 11:42:05
+Buccaneers,2024-11-10,Tonight,Day,72,F,5 mph,ESE,"Partly cloudy, with a low around 72. East southeast wind around 5 mph.",2024-11-10 10:00,2024-11-10,2024-11-10 18:49:56
+Buccaneers,2024-11-10,Veterans Day,Day,86,F,2 to 6 mph,NNW,"Sunny. High near 86, with temperatures falling to around 82 in the afternoon. North northwest wind 2 to 6 mph.",2024-11-10 10:00,2024-11-10,2024-11-10 18:49:56
+Buccaneers,2024-11-10,Monday Night,Night,70,F,5 mph,NNE,"Mostly clear, with a low around 70. North northeast wind around 5 mph.",2024-11-12 20:00,2024-11-10,2024-11-10 18:49:56
+Buccaneers,2024-11-10,Tuesday,Day,88,F,2 to 8 mph,NE,"Sunny, with a high near 88. Northeast wind 2 to 8 mph.",2024-11-13 10:00,2024-11-10,2024-11-10 18:49:56
+Buccaneers,2024-11-10,Tuesday Night,Night,71,F,7 mph,NE,"Mostly clear, with a low around 71. Northeast wind around 7 mph.",2024-11-13 20:00,2024-11-10,2024-11-10 18:49:56
+Buccaneers,2024-11-10,Wednesday,Day,85,F,7 to 13 mph,ENE,"Sunny, with a high near 85. East northeast wind 7 to 13 mph, with gusts as high as 22 mph.",2024-11-14 10:00,2024-11-10,2024-11-10 18:49:56
+Buccaneers,2024-11-10,Wednesday Night,Night,67,F,5 to 12 mph,ENE,"Partly cloudy, with a low around 67. East northeast wind 5 to 12 mph, with gusts as high as 21 mph.",2024-11-14 20:00,2024-11-10,2024-11-10 18:49:56
+Buccaneers,2024-11-10,Thursday,Day,84,F,7 mph,E,"Mostly sunny, with a high near 84. East wind around 7 mph.",2024-11-15 10:00,2024-11-10,2024-11-10 18:49:56
+Buccaneers,2024-11-10,Thursday Night,Night,65,F,6 mph,ENE,"Partly cloudy, with a low around 65. East northeast wind around 6 mph.",2024-11-15 20:00,2024-11-10,2024-11-10 18:49:56
+Buccaneers,2024-11-10,Friday,Day,81,F,5 to 8 mph,NNE,"Sunny, with a high near 81.",2024-11-16 10:00,2024-11-10,2024-11-10 18:49:56
+Buccaneers,2024-11-10,Friday Night,Night,61,F,5 to 8 mph,NNE,"Mostly clear, with a low around 61.",2024-11-16 20:00,2024-11-10,2024-11-10 18:49:56
+Buccaneers,2024-11-10,Saturday,Day,79,F,8 mph,NE,"Sunny, with a high near 79.",2024-11-17 10:00,2024-11-10,2024-11-10 18:49:56
+Buccaneers,2024-11-10,Saturday Night,Night,60,F,7 mph,NE,"Mostly clear, with a low around 60.",2024-11-17 20:00,2024-11-10,2024-11-10 18:49:56
+Buccaneers,2024-11-10,Sunday,Day,82,F,5 to 9 mph,ENE,"Sunny, with a high near 82.",2024-11-10 10:00,2024-11-10,2024-11-10 18:49:56
